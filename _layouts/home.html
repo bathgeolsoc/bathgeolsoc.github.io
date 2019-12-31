@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="home">
+{% if site.data.news.posts.size > 0 %}
+<div class="home-section" id="news-section">
+{% for news_post in site.data.news.posts %}
+<a target="_blank" href="{{news_post.url}}">{{ news_post.headline }}</a>
+{% endfor %}
+</div>
+{% endif %}
+<div class="home-section" id="lecture-section">
+{% for lecture in site.lectures %}
+ {% assign currentdateunix = 'now' | date: "%s" %}
+  {% assign postdateunix = lecture.date | date: "%s" %}
+  {% assign postdate = lecture.date | date: "%A, %d %B %Y" %}
+    {% if postdateunix >= currentdateunix %}
+      <h2 id="y{{lecture.date | date: '%Y'}}">Next Lecture: <a href="{{ lecture.url }}">{{ lecture.title }}</a></h2>
+	  <h3>Speaker: {{ lecture.speaker }}</h3>
+	    <p>{{ postdate }}</p>
+    {% endif %}
+{% endfor %}
+</div>
+<div class="home-section" id="field-trip-section">
+{% for field_trip in site.field_trips %}
+{% assign currentdateunix = 'now' | date: "%s" %}
+  {% assign postdateunix = field_trip.date | date: "%s" %}
+  {% assign postdate = field_trip.date | date: "%A, %d %B %Y" %}
+    {% if postdateunix >= currentdateunix %}
+      <h2 id="y{{field_trip.date | date: '%Y'}}">Next Field Trip: <a href="{{ field_trip.url }}">{{ field_trip.title }}</a></h2>
+	  <h3>Leader: {{ field_trip.leader }}</h3>
+	    <p>{{ postdate }}</p>
+    {% endif %}
+{% endfor %}
+</div>
+<div class="home-section" id="join-section">
+<h2 class="content-title">Join Bath Geological Society</h2>
+<p>Key benefits:</p>
+<ul><li>Free entry to our series of ten lectures held at the BRLSI, presented by well qualified speakers from university professors to research scientists to committed amateurs.</li>
+<li>Free admittance to our field trips, usually led by experts in the areas to be visited (some trips may have charges for elements such as transportation or accommodation).</li>
+<li>A copy of our professionally produced annual Journal.</li></ul>
+<a href="#" class="content-button">Join now</a>
+</div>
+<div class="home-section" id="journal-section">
+
+</div>
+</div>

@@ -1,0 +1,116 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body{
+background-color: #f3f3f3;
+}
+
+#site-logo{
+    margin-right: 1%;
+    margin-top: 9px;
+    float: left;
+	}
+.wrapper{
+    max-width: -webkit-calc(1000px - (30px * 2));
+    max-width: calc(1000px - (30px * 2));
+}
+.page-content .wrapper{
+    background: #fff;
+}
+.main-menu a, .main-menu div{
+display: inline;
+margin-right: 20px;
+text-decoration: none;
+color: #fff;
+cursor: pointer;
+}
+.main-menu a:hover, .main-menu div:hover{
+text-decoration: underline;
+}
+.main-menu-dropdown{
+position: absolute;
+background: white;
+border-radius: 5px;
+list-style-type: none;
+padding-left: 16px;
+margin-top: 2px;
+border: 1px solid rgb(232, 232, 232);
+}
+.main-menu-dropdown a{
+color: #111;
+}
+#about-button-dropdown{
+margin-left: 470px;
+}
+#local-geology-button-dropdown{
+margin-left: 349px;
+}
+.home-section{
+padding: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+border-bottom: 1px solid rgb(232, 232, 232);
+}
+#news-section{
+	background-color: #512eec;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 10px;
+	margin-left: -30px;
+    margin-right: -30px;
+}
+#news-section a{
+	 color: white;
+}
+#join-section{
+background-color: #f9fefb;
+}
+#journal-section{
+border-bottom: none;
+}
+h2{
+font-weight: 600;
+}
+h4{
+    margin-top: 30px;
+	}
+.site-footer{
+background-color: #e0e0e0;
+}
+.site-header{
+	border-top: 5px solid #424242;
+    border-bottom: 1px solid #e8e8e8;
+    min-height: 55.95px;
+    position: relative;
+    background-color: #4c4c4c;
+}
+.post-header{
+padding-top: 30px;
+}
+.site-title{
+	color: #fff !important;
+}
+hr{
+    border-color: #d8d8d8;
+    border-bottom: 1px solid #d8d8d8;
+    overflow: hidden;
+    background: transparent;
+    box-sizing: content-box;
+    width: 50%;
+    margin: auto;
+    margin-top: 36px;
+    margin-bottom: 36px;
+    border-top: #d8d8d8;
+	}
+.post-title{
+	border-bottom: 1px solid #eaecef;
+    padding-bottom: 30px;
+	font-weight: 100;
+	font-size: 39px;
+	}

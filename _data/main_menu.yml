@@ -1,0 +1,35 @@
+toc:
+  - title: Lectures
+    url: /lectures/
+  - title: Field Trips
+    url: /field-trips/
+  - title: Journal
+    url: /journal/
+  - title: Membership
+    url: /membership.html
+
+  - title: Local Geology
+    id: local-geology-button
+    subfolderitems:
+      - page: West Country Geology Blog
+        url: https://geologywestcountry.blogspot.com/
+
+      - page: The Rocks of Brown's Folly
+        url: https://www.brownsfolly.org.uk/
+
+      - page: Box Rock Circus
+        url: https://www.boxrockcircus.org.uk/
+      - page: ECOS Stones, Frome
+        url: https://www.boxrockcircus.org.uk/ECOS/
+      - page: Somerset Good Rock guide
+        url: https://people.bath.ac.uk/exxbgs/Somerset_Good_Rock_Guide.pdf
+
+  - title: About
+    id: about-button
+    subfolderitems:
+      - page: About the Society
+        url: /about/
+      - page: History of the Society
+        url: /about/history.html
+      - page: Officers
+        url: /about/officers.html
