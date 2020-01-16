@@ -17,20 +17,24 @@
         </label>
 
 <div class="trigger main-menu">
-            {% for item in site.data.main_menu.toc %}
-			 {% if item.url %}
-              <a href="{{ item.url }}">{{ item.title }}</a>
-			 {% else %}
-			 <div id="{{ item.id }}">{{ item.title }}</div>
-			 {% endif %}
-			 {% if item.subfolderitems %}
-                <ul class="main-menu-dropdown" id="{{ item.id }}-dropdown" style="display: none;">
-                  {% for entry in item.subfolderitems %}
-                    <li><a class="dropdown-link" href="{{ entry.url }}">{{ entry.page }}</a></li>
-                  {% endfor %}
-                </ul>
-			 {% endif %}
-            {% endfor %}
+	{% for item in site.data.main_menu.toc %}
+	 {% if item.url %}
+	  <a href="{{ item.url }}">{{ item.title }}</a>
+	 {% else %}
+	 <div id="{{ item.id }}">{{ item.title }}</div>
+	 {% endif %}
+	 {% if item.subfolderitems %}
+		<ul class="main-menu-dropdown" id="{{ item.id }}-dropdown" style="display: none;">
+		  {% for entry in item.subfolderitems %}
+			{% if entry.newwindow %}
+			<li><a class="dropdown-link" target="_blank" href="{{ entry.url }}">{{ entry.page }}</a></li>
+			{% else %}
+			<li><a class="dropdown-link" href="{{ entry.url }}">{{ entry.page }}</a></li>
+			{% endif %}
+		  {% endfor %}
+		</ul>
+	 {% endif %}
+	{% endfor %}
 </div>
 </nav>
 {%- endif -%}

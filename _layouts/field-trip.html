@@ -1,27 +1,57 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry" itemscope itemtype="http://schema.org/Event">
 
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+<header class="post-header field-trip-head">
+    <h1 class="event-title p-name" itemprop="name">{{ page.title | escape }}</h1>
+    <p class="event-leader">
+      {%- if page.leader -%}
+		Leader: <span itemprop="performer" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.leader }}</span></span>
       {%- endif -%}</p>
   </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
+<div id="eventInformation">
+<div id="eventCost" class="eventInfoColumn">
+<h3>Entry Fee</h3>
+<p>Members: Free</p>
+<p>Visitors: {{ site.fieldtrip_cost }}</p>
+</div>
+<div id="eventDateTime" class="eventInfoColumn">      
+<h3>Date and Time</h3>
+<p>
+<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="startDate">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time></p>
+	  <p>{{ page.date | date: "%R" }}
+	  {%- if page.enddate -%}
+	  -<time class="dt-published" datetime="{{ page.enddate | date_to_xmlschema }}" itemprop="startDate">{{ page.enddate | date: "%R" }}</time>
+	   {%- endif -%}
+	  </p>
+	  </div>
+<div id="eventLocation" class="eventInfoColumn">
+<h3>Location</h3>
+<p itemprop="location">{{ page.location }}</p>
+</div>
+</div>
+<hr>
+  <div class="eventContent e-content" itemprop="description">
+  <h3>Field Trip Description</h3>
     {{ content }}
   </div>
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
+<hr>
+<div class="share-section">
+<h3>Share with Friends</h3>
+<a target="_blank" class="social-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}">Share on Facebook</a>
+<a target="_blank" class="social-share-link" href="https://twitter.com/intent/tweet?text=Check%20out%20%22A%20{{ page.title }}%22%20{{ site.url }}{{ page.url }}">Share on Twitter</a>
+<a target="_blank" class="social-share-link" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary=&source=bathgeolsoc.org.uk">Share on LinkedIn</a>
+<a target='_blank' class="social-share-link" href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ page.url }}" title="Email Sharing">Share by Email</a>
+<a target="_blank" class="social-share-link" href = "whatsapp://send?text={{ page.url }}">Share on Whatsapp</a>
+</div>
+<hr>
+<div class="event-map">
+<h3>Location Map</h3>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.3061847686767583%2C51.390034477393975%2C-2.2778606414794926%2C51.40227122793476&amp;layer=mapnik&amp;marker=51.39615326183019%2C-2.292022705078125" style="pointer-events: none;"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.3962&amp;mlon=-2.2920#map=16/51.3962/-2.2920">View Larger Map</a></small>
+</div>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

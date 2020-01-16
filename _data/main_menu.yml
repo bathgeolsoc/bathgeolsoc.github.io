@@ -4,7 +4,12 @@ toc:
   - title: Field Trips
     url: /field-trips/
   - title: Journal
-    url: /journal/
+    id: journal-button
+    subfolderitems:
+     - page: Latest Issue
+       url: /journal/
+     - page: Archive
+       url: /journal/archive.html
   - title: Membership
     url: /membership.html
 
@@ -13,16 +18,19 @@ toc:
     subfolderitems:
       - page: West Country Geology Blog
         url: https://geologywestcountry.blogspot.com/
-
+        newwindow: true
       - page: The Rocks of Brown's Folly
         url: https://www.brownsfolly.org.uk/
-
+        newwindow: true
       - page: Box Rock Circus
         url: https://www.boxrockcircus.org.uk/
+        newwindow: true
       - page: ECOS Stones, Frome
         url: https://www.boxrockcircus.org.uk/ECOS/
+        newwindow: true
       - page: Somerset Good Rock guide
         url: https://people.bath.ac.uk/exxbgs/Somerset_Good_Rock_Guide.pdf
+        newwindow: true
 
   - title: About
     id: about-button
@@ -33,3 +41,8 @@ toc:
         url: /about/history.html
       - page: Officers
         url: /about/officers.html
+      - page: Constitution
+        url: /assets/Bath%20Geological%20Society%20Constitution.pdf
+        newwindow: true
+      - page: Friends of the Society
+        url: /about/friends.html

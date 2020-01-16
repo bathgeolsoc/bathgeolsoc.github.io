@@ -19,6 +19,7 @@ layout: default
       <h2 id="y{{lecture.date | date: '%Y'}}">Next Lecture: <a href="{{ lecture.url }}">{{ lecture.title }}</a></h2>
 	  <h3>Speaker: {{ lecture.speaker }}</h3>
 	    <p>{{ postdate }}</p>
+		{% break %}
     {% endif %}
 {% endfor %}
 </div>
@@ -31,6 +32,7 @@ layout: default
       <h2 id="y{{field_trip.date | date: '%Y'}}">Next Field Trip: <a href="{{ field_trip.url }}">{{ field_trip.title }}</a></h2>
 	  <h3>Leader: {{ field_trip.leader }}</h3>
 	    <p>{{ postdate }}</p>
+		{% break %}
     {% endif %}
 {% endfor %}
 </div>
@@ -40,7 +42,7 @@ layout: default
 <ul><li>Free entry to our series of ten lectures held at the BRLSI, presented by well qualified speakers from university professors to research scientists to committed amateurs.</li>
 <li>Free admittance to our field trips, usually led by experts in the areas to be visited (some trips may have charges for elements such as transportation or accommodation).</li>
 <li>A copy of our professionally produced annual Journal.</li></ul>
-<a href="#" class="content-button">Join now</a>
+<a href="/membership.html" class="standard-button">Join now</a>
 </div>
 <div class="home-section" id="journal-section">
 

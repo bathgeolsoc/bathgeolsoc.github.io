@@ -1,23 +1,39 @@
 ---
-layout: page
-title: About the Bath Geological Society
+layout: journal-main
+title: Journal No. 37, 2019 Out Now!
 ---
+<img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2019-cover.jpg">
+<a href="/membership" class="standard-button">Get Access</a>
 
-Who Are We?
-Bath Geological Society is an active and flourishing organisation with over 80 enthusiastic members whose ages range from 17 to 90. Our membership includes every type of geologist from recreational fossil-hunters to academic and professional geologists.
-Where and When Do We Meet?
-We meet at 16 Queen Square, Bath at the kind invitation of the Bath Royal Literary and Scientfic Institution. Meetings are held at 7.30 p.m. on the first Thursday of every month except January and August. The AGM is held in February.
-Click this link for a map showing the location of BRLSI.
-What Do We Do?
-Most of our meetings takes the form of a lecture which is always very professional, up-to-date and invariably entertaining. The lectures are varied and given by geologists from University Departments or from industry. We hold regular field meetings and sometimes there is an annual field-weekend in an agreeable locality.
-What Else Do We Do?
-Most years we have a display at the Geologists’ Association Festival of Geology and we are affiliated to this Society. Also annually, we help The Wildlife Trust to clear a local geological trail at Brown’s Folly, for which one of our members wrote an excellent Guide. This Guide is reproduced here. We produce our own Journal once a year and this contains a variety of articles from many of our members.
-
-Collaboration with other Geological Groups
-We are affiliated to the national Geologists’ Association. We have links with the West of England Geologists' Association, Bristol Naturalists’ Society - Geology section and to Wiltshire Geology Group. We all share in field trips.
-Support for Young Geologists
-We support Rockwatch, the national children’s geology club.
-Geology and the City of Bath
-The City of Bath has a long history of geological connections as well as an advantageous position for both Mesozoic and Palaeozoic rocks with both the Cotswolds and the Mendip Hills nearby. The Bath Royal Literary and Scientific Institution was established in 1824 and a museum opened in 1825 under the patronage of the then Duke of York with William Lonsdale the geologist as curator. This museum is no longer open to the public but it is possible to arrange to view the extensive collections, one of which is geological. The City is also notable for the home of William Smith, literally the founder of geological mapping, who lived and worked in Bath while engaged on canal construction and other projects for the Somerset coal fields.
-An Invitation...
-Everyone is welcome - come and join us!
+<h3>Contents</h3>
+<ol class="contents-list">
+<li>Chairman’s Report for the Bath Geological Society, 2018/19<span class="contents-page-number">Pg. 3</span></li>
+<li>Kaikoura Earthquake and after<span class="contents-page-number">Pg. 4</span>
+<br><span class="grey-text">Isabel Buckingham</span></li>
+<li>Interesting Geological Localities in West Wales – a much Belated Postscript	Pg. 5</span>
+<br><span class="grey-text">Charles Hiscock</span></li>
+<li>Kimmeridge Bay Field Trip 4th May 2019 led by Graham Hickman.<span class="contents-page-number">Pg. 7</span>
+<br><span class="grey-text">Phil Burge</span></li>
+<li>Landscape and Geology of the Burren: Co Clare Ireland<span class="contents-page-number">Pg. 11</span>
+<br><span class="grey-text">Isabel Buckingham</span></li>
+<li>My Top 5 Geological Sites of Pembrokeshire<span class="contents-page-number">Pg. 12</span>
+<br><span class="grey-text">Megan Taylor (Year 13 Wells Cathedral)</span></li>
+<li>O’ahu, Hawaii. May 2018<span class="contents-page-number">Pg. 16</span>
+<br><span class="grey-text">Mellissa Freeman</span></li>
+<li>Field Excursion to the Vale of Glamorgan Coast, led by Dr.Geraint Owen of
+Swansea University on Saturday 7th October 2017<span class="contents-page-number">Pg. 21</span>
+<br><span class="grey-text">Charles Hiscock</span></li>
+<li>BOOK REVIEW - The Story of the Earth in 25 Rocks by Donald R. Prothero Pub Columbia university Press 2018 as hard back or e-book<span class="contents-page-number">Pg. 25</span>
+<br><span class="grey-text">Isabel Buckingham</span></li>
+<li>Lulworth Cove Field Trip – April 2017<span class="contents-page-number">Pg. 25</span>
+<br><span class="grey-text">Graham Hickman</span></li>
+<li>“Directional Drilling – From Geometry to Geology”<span class="contents-page-number">Pg. 28</span>
+<br><span class="grey-text">Phil Burge</span></li>
+<li>Tintern Geology Field Trip – Led by Dave Green<span class="contents-page-number">Pg. 33</span>
+<br><span class="grey-text">Bob Mustow</span></li>
+<li>Port Askaig tillite<span class="contents-page-number">Pg. 36</span>
+<br><span class="grey-text">Isabel Buckingham</span></li>
+<li>Geological Word Search<span class="contents-page-number">Pg. 37</span></li>
+<li>Society Actitivies 2019<span class="contents-page-number">Pg. 38</span></li>
+<li>Society Officers and Members 2019<span class="contents-page-number">Pg. 39</span></li>
+</ol>

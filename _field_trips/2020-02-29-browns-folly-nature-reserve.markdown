@@ -2,6 +2,7 @@
 layout: field-trip
 title:  "Brown's Folly Nature Reserve"
 leader: "Graham Hickman, Bath Geological Society"
+location: Brown's Folly Car Park, Bathford, Bradford-on-Avon BA1 8EA
 date:   2020-02-29 10:30:00 +0000
 categories: jekyll update
 ---

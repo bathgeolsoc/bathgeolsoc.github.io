@@ -1,38 +1,42 @@
 ---
 layout: page
-title: Officers 2019
+title: Officers
 ---
+<div class="column-1">
+<p><strong>Chairman</strong> - Richard Pollock
+<br><a href="mailto:chairman@bathgeolsoc.org.uk">chairman@bathgeolsoc.org.uk</a></p>
 
-Chairman - Richard Pollock
-email: chairman@bathgeolsoc.org.uk
-Administrative Secretary - Isabel Buckingham
-email: secretary@bathgeolsoc.org.uk
+<p><strong>Administrative Secretary</strong> - Isabel Buckingham
+<br><a href="mailto:secretary@bathgeolsoc.org.uk">secretary@bathgeolsoc.org.uk</a></p>
 
-Treasurer - Judith Hible
-email: treasurer@bathgeolsoc.org.uk
+<p><strong>Treasurer</strong> - Judith Hible
+<br><a href="mailto:treasurer@bathgeolsoc.org.uk">treasurer@bathgeolsoc.org.uk</a></p>
 
-Membership Secretary - Polly Sternbauer
-email: membership@bathgeolsoc.org.uk
+<p><strong>Membership Secretary</strong> - Polly Sternbauer
+<br><a href="mailto:membership@bathgeolsoc.org.uk">membership@bathgeolsoc.org.uk</a></p>
 
-Lecture Programme Secretary - Anne Hunt
-email: programme@bathgeolsoc.org.uk
+<p><strong>Archivist</strong> - Charles Hiscock</p>
+</div>
+<div class="column-2">
+<p><strong>Lecture Programme Secretary</strong> - Anne Hunt
+<br><a href="mailto:programme@bathgeolsoc.org.uk">programme@bathgeolsoc.org.uk</a></p>
 
-Field Trip Programme Secretary - Sue Harvey
-email: field-prog@bathgeolsoc.org.uk
+<p><strong>Field Trip Programme Secretary</strong> - Sue Harvey
+<br><a href="mailto:field-prog@bathgeolsoc.org.uk">field-prog@bathgeolsoc.org.uk</a></p>
 
-Field Trip Health and Safety Officer - Bob Mustow
-email: field@bathgeolsoc.org.uk
+<p><strong>Field Trip Health and Safety Officer</strong> - Bob Mustow
+<br><a href="mailto:field@bathgeolsoc.org.uk">field@bathgeolsoc.org.uk</a></p>
 
-Journal Editor - Mellissa Freeman
-email: journal@bathgeolsoc.org.uk
+<p><strong>Journal Editor</strong> - Mellissa Freeman
+<br><a href="mailto:journal@bathgeolsoc.org.uk">journal@bathgeolsoc.org.uk</a></p>
 
-Other committee members
-Prof. Maurice Tucker
-Graham Hickman
-Mellissa Freeman
-Linda Drummond-Harris
-
-Archivist - Charles Hiscock
-
-Webmaster - James McVeigh
-email: webmaster@bathgeolsoc.org.uk
+<p><strong>Webmaster</strong> - James McVeigh
+<br><a href="mailto:webmaster@bathgeolsoc.org.uk">webmaster@bathgeolsoc.org.uk</a></p>
+</div>
+<p style="clear: both;"></p>
+<p style="clear: both;"><strong>Other committee members</strong></p>
+<ul>
+<li>Prof. Maurice Tucker</li>
+<li>Graham Hickman</li>
+<li>Linda Drummond-Harris</li>
+</ul>
