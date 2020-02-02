@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "Joy Coppin Memorial Lecture: Earth's Earliest Life"
+speaker: "Dr. Robert Riding, University of Wales, Cardiff"
+date: '2004-05-06 19:30:00'
+
+---
+The Earth is ~4500 million years (Myr) old. The question of when life first appeared here has attracted attention ever since geologists started to closely examine Archaean sedimentary rocks. Since the early 1980's, reports of ~3400 Myr bacterial microfossils and stromatolites (laminated microbial sediments) from Warrawoona, Western Australia, became widely accepted. It was also thought likely that there were 3800 Myr chemical (carbon isotope) fossils at Isua, Greenland. But, particularly in the last few years, this evidence has been questioned. The main problem is that bacterial fossils are hard to recognize with confidence at the best of times. The earliest unquestioned (so far!) evidence for bacteria is chemical ~2700 Myr biomarkers, also from Western Australia. So, there is a long period from ~2700-3800 Myr during which fossils are uncertain. At present, controversy mainly revolves around evidence for life at ~3400 Myr. These sobering experiences in the search for ancient life on Earth urge caution in interpreting extra-terrestrial samples, such as Mars meteorite ALH84001, that have been reported to contain cell-like objects and chemicals resembling products of bacterial activity. But - obviously - life now exists on Earth. There must have been a time when it first appeared - maybe even arrived. The question of exactly when this happened, what the organisms were, and what conditions were like then, continues to drive the search in the oldest rocks on Earth, and in samples from Mars.

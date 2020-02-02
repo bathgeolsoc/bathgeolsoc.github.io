@@ -1,0 +1,14 @@
+---
+layout: field-trip
+title:  "Geology in Gordano"
+leader: "Andrew Mathieson, Avon RIGS"
+location: All Saints Church, All Saints Ln, Clevedon BS21 6AU
+date:   '2009-10-10 10:30:00'
+latitude: 51.4427017
+longitude: -2.8427434
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+The Gordano Valley has provided geologists with many sites of interest, as well as problems to solve. It is also one of the very few ‘Classical Areas Of British Geology’ chosen by the Geological Survey to have its own 1:25,000 map. We will explore a number of RIGS, which provide evidence of a surprisingly complicated geological history, featuring the largely unknown Clapton-in-Gordano coalfield, building stone quarries, ‘islands’ of Carboniferous Limestone, the Lower Severn Axis and the effects of the Ice Ages. There will circular walks in both morning and afternoon, mostly using footpaths.
+
+Meet at 10.30 a.m. outside All Saints Church, All Saints Lane, Clevedon (ST 416 717), off the B3124 Clevedon -�Portishead road. Boots or strong shoes and a packed lunch are required.

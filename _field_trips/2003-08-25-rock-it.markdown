@@ -1,0 +1,14 @@
+---
+layout: field-trip
+title:  "Rock It! - Bristol and Bath Railway Path"
+leader: "Joint event with Bristol Naturalists' Society"
+location: Bristol and Bath Railway Path near Saltford
+date:   '2003-08-25 10:00:00'
+latitude: 51.4031737
+longitude: -2.4782384
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.5
+---
+We need volunteers to support this exciting event to promote our local rocks and fossils to the public. It will be held at a site along the Bristol and Bath Railway Path near Saltford. There will be a range of activities going on throughout the day.
+
+To find out more about this event please contact Elizabeth Devon (Bath G.S.) or Simon Carpenter (Bristol Naturalists' Society - 0117 9604093)

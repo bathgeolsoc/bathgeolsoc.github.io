@@ -1,0 +1,10 @@
+---
+layout: lecture
+title:  "The Geology of Anglesey"
+speaker: "Dave Green, Geostudies"
+date: '2015-12-03 19:30:00'
+
+---
+For years the geology of Anglesey has caused controversy amongst those studying its complex arrangement of seemingly unrelated fault blocks, particularly the status of the PreCambrian (or are they?) granites and gneisses, sedimentary extrusive sequence, blueschists, ophiolitic/deep ocean facies and melange. So complex that the very stratigraphy has been completely overhauled and re-interpreted twice during the last 100 years. In comparison, the thin and deformed unconformably overlying Lower Palaeozoic rocks are simple, as are the Upper Palaeozoic sediments, with their excellent environmental indicators. On a final note of controversy - why is Anglesey, composed largely of ancient, resistant rocks, so flat in comparison to the nearby mountains of Snowdonia? This talk and the field trip to follow, will attempt to outline the main elements of the geology of the island and the evidence that has produced such geological controversy.
+
+<strong>This talk will be followed by a visit to Anglesey in 2016</strong>

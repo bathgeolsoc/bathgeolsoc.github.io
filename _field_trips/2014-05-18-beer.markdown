@@ -1,0 +1,13 @@
+---
+layout: field-trip
+title:  "The Cretaceous Rocks of Beer and Beer Head"
+leader: "Professor Malcolm Hart, Faculty of Science & Environment, Plymouth University"
+location: Beer, Dorset
+date:   '2014-05-18 10:30:00'
+latitude: 50.6971406,
+longitude: -3.1058197
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+We shall be visiting three locations, all within easy walking distance of the coach.
+<img style="display: block; margin: auto; margin-top: 19px;" src="/assets/beer.jpg">

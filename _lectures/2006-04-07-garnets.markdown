@@ -1,0 +1,7 @@
+---
+layout: lecture
+title:  "Garnets: an Under-Appreciated Stone"
+speaker: "David Lancaster, Christie's"
+date: '2006-04-07 19:30:00'
+
+---

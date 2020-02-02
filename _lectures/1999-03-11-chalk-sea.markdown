@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "Beasts, Bugs, Phosphate and Fertiliser: Unusual Events in the Chalk Sea"
+speaker: "Dr. Ian Jarvis, Centre for Earth & Environmental Science Research, Kingston University"
+date: '1999-03-11 19:30:00'
+
+---
+The white cliffs of Dover represent the epitome of the southern English coastline. The Chalk Downs are renowned for their varied and unique flora and fauna, yet most people regard the Chalk itself as a monotonous sequence of uniform white rock which shows nothing of interest! This is far from the truth. The Chalk consists of a thick pile of minute fossil plant and animal remains that record a unique history of environmental change in the World ocean between 99 - 65 million years ago.The Chalk can provide unique insights into processes affecting the ancient oceans. It is only by understanding such environments that Man can hope to predict the consequences of his own activities on the Earth's natural system.

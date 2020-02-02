@@ -62,44 +62,13 @@ if(event.target!=journalDropdown && event.target!=journalButton && event.target.
 });
 
 function membershipSelect(){
-var selectedMembership = document.getElementById("membership-select");
+var selectedMembership = document.getElementById("mce-MEMBERSHIP");
 console.log("membership select value:" + selectedMembership.value);
 var familyContainer = document.getElementById("family-container");
-var family2 = document.getElementById("family-2");
-var nameLabel = document.getElementById("name-1-label");
-if(selectedMembership.value=='F'){
-	var familySelect = document.getElementById("family-select");
-	familySelect.value="2";
+if(selectedMembership.value=='Family £45'){
 	familyContainer.style.display = "block";
-	family2.style.display = "block";
-	nameLabel.innerHTML = "Name 1:";
 }
 else{
 	familyContainer.style.display = "none";
-	family2.style.display = "none";
-	var family3 = document.getElementById("family-3");
-	family3.style.display = "none";
-	var family4 = document.getElementById("family-4");
-	family4.style.display = "none";
-	nameLabel.innerHTML = "Name:";
-}
-}
-
-function familySelect(){
-var familySelect = document.getElementById("family-select");
-var family2 = document.getElementById("family-2");
-var family3 = document.getElementById("family-3");
-var family4 = document.getElementById("family-4");
-if(familySelect.value=="2"){
-	family3.style.display = "none";
-	family4.style.display = "none";
-}
-else if(familySelect.value=="3"){
-	family3.style.display = "block";
-	family4.style.display = "none";
-}
-else{
-	family3.style.display = "block";
-	family4.style.display = "block";
 }
 }

@@ -1,0 +1,14 @@
+---
+layout: field-trip
+title:  "The building stones of Wells and a visit to Wells and Mendip Museum"
+leader: "Dr. Doug Robinson, University of Bristol"
+location: Bus Station, Princes Road, BA5 2DT
+date:   '2014-04-23 10:00:00'
+latitude: 51.2070968
+longitude: -2.6528106
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+Morning walk around Wells. Afternoon look at the Museum, 8 Cathedral Green, BA5 2UE
+
+Meet at the Bus Station, Princes Road, BA5 2DT at 10am (parking at Waitrose)

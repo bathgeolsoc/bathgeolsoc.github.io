@@ -1,0 +1,22 @@
+---
+layout: field-trip
+title:  "The Geological Evolution of the NW USA"
+leader: "Dr Doug Robinson, University of Bristol"
+location: NW USA
+date:   '2016-05-28 10:30:00'
+latitude: 47.6062095
+longitude: -122.3320708
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 1000
+---
+The trip will occupy 14 nights, flying into Seattle in Washington State and out of Denver in Colorado.
+
+The weather can be expected to be very variable; temperatures should range from low 60s to lows 70s during the day. The western NW USA usually has its driest period during the summer, but the Yellowstone, and Rocky Mt region near Denver are at high altitude and it is not unknown for snow to fall in summer/early autumn.
+
+There are 15 places available
+
+Transport will be using three rental 7-seat vehicles driven by members of the group.
+
+A provisional cost including return flights, twin shared accommodation each night (in Best Western type motels) and rental of vehicles is £2,375 (+/-5%) per person.
+
+Additional costs include: travel to/from LHR; all meals; insurance; shared fuel (~£60); shared passes for park entry (~£25). Optional cost for trips e.g. 20 min helicopter tour of Mt St Helens (~£110).

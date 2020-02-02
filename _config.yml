@@ -33,6 +33,7 @@ fieldtrip_cost: £3.00
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   
 collections:
   lectures:

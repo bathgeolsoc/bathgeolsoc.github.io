@@ -1,0 +1,14 @@
+---
+layout: field-trip
+title:  "Bristol; heritage in stone"
+leader: "Elizabeth Devon"
+location: One Millennium Square, Anchor Rd BS1 5DB
+date:   '2014-06-08 10:30:00'
+latitude: 51.4504319
+longitude: -2.6026681
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+We shall follow part of the walk in the book ‘Bristol; heritage in stone’ by Eileen Stonebridge.
+
+Meet outside the entrance to @Bristol at 10.30 a.m. Parking is available in the Millennium car park, access from Anchor Road. This is a pleasant area with cafes, restaurants and seats to eat sandwiches. The walk will take between 2 to 2.5 hours.

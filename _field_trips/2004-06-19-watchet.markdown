@@ -1,0 +1,18 @@
+---
+layout: field-trip
+title:  "Watchet and the Brendon Hills"
+leader: "Dr. Eric Robinson"
+location: Anchor St, Watchet TA23 0AZ
+date:   '2004-06-19 18:45:00'
+latitude: 51.181033
+longitude: -3.331040
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+This is a day of shoreline geology, among the famous inter-tidal exposures of this part of the Bristol Channel coast. The geology is Rhaetian-Liassic, so straddles the Triassic-Jurassic boundary (with no apparent break). It is an area well know for its varied lithologies and fossils (see Peter Hardy's book The Geology of Somerset). There is also an abundance of interest in the structural complexity. Eric retired to West Somerset from UC London not long ago, and says of Watchet: "succession and structure still baffle me and are worth a bit of discussion and thought". Perhaps we can work it all out between us?
+
+We will have the full extent of the very extensive rock exposures (low tide at about 2 pm). There will be pools, and wellies might be a good idea. There are also crumbly cliffs, and anyone wishing to inspect any of those at close range should wear a hard hat. Should anyone be out anywhere near the water's edge at low tide, be warned: THE TIDE COMES IN VERY FAST WHEN IT TURNS.
+
+For lunch it's individual preference: beach picnic or café/pub.
+
+Convene at the Anchor Street Car Park (paying), off Anchor Street down by the harbour in Watchet, at 10.30am.

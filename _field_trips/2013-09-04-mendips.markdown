@@ -1,0 +1,14 @@
+---
+layout: field-trip
+title:  "Mendip geology"
+leader: "Dr. Doug Robinson. University of Bristol"
+location: Wookey Hole, Somerset
+date:   '2013-09-04 10:00:00'
+latitude: 51.2256483
+longitude: -2.680965
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.5
+---
+On this walk all the main rocks found in the Mendips will be seen, and used to interpret the geological history of the region. The Devonian, Portishead formation and Carboniferous limestone are exposed across the Pen Hill pericline. The Triassic Dolomitic conglomerates forms large fans of coarse debris that spread southward, and are interbedded with thick sequences of the finer grained sand and mud facies of the Mercia Mudstone. The late Triassic marks the change from continental to marine sequences, with deposition of mudstones and fine grained limestones of the Blue Lias formation. The youngest rocks are of mid Jurassic age with limestones and thin muds deposited around the islands of the Mendip archipelago.
+
+The walk will start at 10.00a.m. and will take about 4 hours. It will follow public footpaths giving good to rough going, with an overall ascent of ~ 200m. Starting from Wookey Hole, past Arthur’s Point, and on along the southern slopes of Pen Hill, descending by way of Prior’s hill, crossing the A37, and along the edge of Stoberry Park and in the Wells square on a market day.

@@ -4,7 +4,7 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/Event">
 
 <header class="post-header field-trip-head">
-    <h1 class="event-title p-name" itemprop="name">{{ page.title | escape }}</h1>
+    <h1 class="event-title p-name" itemprop="name">Field Trip: {{ page.title | escape }}</h1>
     <p class="event-leader">
       {%- if page.leader -%}
 		Leader: <span itemprop="performer" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.leader }}</span></span>
@@ -51,7 +51,15 @@ layout: default
 <hr>
 <div class="event-map">
 <h3>Location Map</h3>
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.3061847686767583%2C51.390034477393975%2C-2.2778606414794926%2C51.40227122793476&amp;layer=mapnik&amp;marker=51.39615326183019%2C-2.292022705078125" style="pointer-events: none;"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.3962&amp;mlon=-2.2920#map=16/51.3962/-2.2920">View Larger Map</a></small>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox={{ page.longitude | minus: page.zoom}}%2C{{ page.latitude | minus: page.zoom}}%2C{{ page.longitude | plus: page.zoom}}%2C{{ page.latitude | plus: page.zoom}}&amp;layer=mapnik&amp;marker={{ page.latitude }}%2C{{ page.longitude }}" style="pointer-events: none;"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat={{ page.latitude }}&amp;mlon={{ page.longitude }}#map=16/{{ page.latitude }}/{{ page.longitude }}">View Larger Map</a></small>
+</div>
+<hr>
+<div>
+<h3>Important Notice: Bath Geological Society Insurance</h3>
+<p>Each person attending a field meeting does so on the understanding that he/she attends at his/her own risk. The Bath Geological Society has Public Liability Insurance Cover for field and indoor meetings, but Personal Accident Cover and Personal Liability Cover remain the responsibility and personal choice of the participant.</p>
+<p>There may be an element of appropriate cover included in house insurance or in travel insurance: although Bath Geological Society activities are not particularly dangerous members are advised to check whether exclusions apply to activities in which they plan to participate in case they wish to arrange further cover. An annual travel insurance may be the best solution for any member who regularly attends field events: this again is a matter of choice.</p>
+<p>Please note however that all members participating in overseas events will be required to have travel insurance for the duration of the event: this is so that participants are covered for Medical, Repatriation and Personal Liability expenses. The Personal Accident element remains the personal choice of the member and again members are advised to check exclusions so that they can make an informed decision about the cover they want.</p>
+<br>
 </div>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

@@ -1,0 +1,27 @@
+---
+layout: field-trip
+title:  "Anglesey"
+leader: "Dave Green, Geostudies"
+location: Harbour Hotel, Yr Ardd, Cemaes Bay LL67 0NW
+date:   '2016-05-27 10:30:00'
+latitude: 53.4123706
+longitude: -4.4498786
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+A field course on the geology of Anglesey and led by Dave Green of Geostudies, will be held 27th to 30th May 2016 at Cemaes Bay in north Anglesey. The course starts at 7.30 pm on 27th and is based at the Harbour Hotel in Cemaes Bay. See <a target="_blank" href="www.angleseyharbourhotel.co.uk">www.angleseyharbourhotel.co.uk</a> The course ends at lunch time on 30th May near the Menai Straits bridge, but details will be given of other sites to visit for those who wish to stay on.
+
+The cost for tuition is £50 of which only £20 is refundable.
+
+There is an additional £5 charge for insurance cover if you are not a member of the Bath Geological Society, West of England Geologist's Association, Bristol NATS Geology section or the Wiltshire Geology Group.
+
+Transport is by private car to the location. Sharing is advisable during the course due to narrow roads. Book your own accommodation, but if you do not stay at the Harbour Hotel , please be near by and be prepared to eat the evening meal there, to enable discussion in the evening session.
+
+Dave Green is giving a talk to Bath Geological Society on 3rd December 2015 on the complex and controversial Geology of Anglesey. Firm expressions of interest are requested after that date, with payment shortly after (Cheques to Bath Geological Society). There is a maximum of 20 places on the course. For more information please contact Isabel Buckingham secretary@bathgeolsoc.org.uk
+
+Background to the trip:
+Anglesey has always, and continues to be, a geologically fascinating and frustrating island. There is even debate to this day about fundamentals such as the age of the rocks, never mind the tectonic processes that produced them, or the palaeogeography of the times.
+
+Certainly in the late PreCambrian to Cambrian the island has more in common with SE Ireland than the presently adjacent Welsh mainland, though later (Ordovician – Silurian) it seems to have formed the NW boundary of the Welsh basin, and was an alluvial/shallow marine area to the north of the Upper Palaeozoic Wales-Brabant landmass (St Georges Land). There are superb exposures of the latter, especially on the east coast, a few of which we will visit, but the main focus of study will be the often controversial rocks of the PreCambrian to Cambrian sequence – the undoubted PreCambrian Coedana Complex (high grade metamorphic rocks and granites) and the (probably) Cambrian Mona Complex (low to medium grade metamorphosed sediments and volcanics, with at the top, a spectacular melange), with, in the SE, the “Penmynydd/Eastern Schist Zone” of rocks with a definite oceanic and subduction association (Blueschists of Mid Ocean Ridge Basalt chemistry).
+
+Many of the junctions between these units are faults/ductile or brittle shear zones/unexposed, adding fuel to the controversy. The different interpretations of Anglesey geology will be discussed, using field evidence at key sites, though there is no promise of a definitive version!

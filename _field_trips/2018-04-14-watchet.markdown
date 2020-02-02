@@ -1,0 +1,22 @@
+---
+layout: field-trip
+title:  "Watchet"
+leader: "Professor Maurice Tucker, University of Bristol and Bath Geological Society"
+location: Watchet Visitor Centre, Harbour Road, Watchet, TA23 0AQ
+date:   '2018-04-14 10:30:00'
+latitude: 51.1808058
+longitude: -3.3297198
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+This excursion will examine the upper Triassic to Lower Jurassic sediments of the North Somerset coast with a variety of rock-types, a local abundance of fossils (hopefully) and tectonic features. Watchet is a classic location for ammonites (Arietes, Arnioceras), bivalves (especially Gryphaea) and reptile bones (e.g. Plesiosaurs). The section also shows dramatic tectonic features: faults, folds, deformation zones and slickensides, which could well be the result of subsurface salt movement (halokinesis), dissolution and stratal collapse.
+
+At Watchet we will visit West Beach and Warren Bay to the west of the harbour where the Mercia Mudstone is well exposed with palaeosoils, gypsum nodules and veins, and interbedded sandstone. The overlying Rhaetic beds yield slabs of crinoids and bivalves on the foreshore, but they are locally intensely folded and faulted.
+
+After lunch in the town, we will head east to Helwell Bay, a location noted for fossils but, to quote (https://ukfossils.co.uk): it is a bit of an unpredictable site. Sometimes, you can come away with nothing and other times a bucket full. Much depends on beach conditions. It is a good location for bones from plesiosaurs and ichthyosaurs, although fresh cliff falls are required.
+
+Transport by private car; lifts to be arranged if possible.
+
+Meet at the Watchet Visitor Centre, by the Railway Station, in Harbour Road, post-code TA23 0AQ at 10.30 am, where there is a pay & display car-park.
+
+There is a small free car-park on the cliff overlooking Helwell Bay, at the end of a short narrow lane off Doniford Road, passed Watchet Football Club and just over the railway line (clearly visible on the Google satellite map). It is a 5-minute walk from there to the Visitor Centre.

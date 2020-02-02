@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "The Danxia (red beds) Landscapes of SE China: Defining a New World Landscape Type"
+speaker: "Dr. Chris Wood, Bournemouth University"
+date: '2010-11-04 19:30:00'
+
+---
+It might be thought that there is little more to be discovered about the major types of physical landscapes of the world, but recent work by the author, in association with Chinese and international colleagues, has drawn attention to the remarkable red beds landscapes of SE China and advocated in future all such landscapes in the world be known as ‘Danxia’. Red beds is a term signifying rocks made up of red-coloured sediments laid down in a terrestrial (continental) environment. These types of beds form such iconic places as Ayers Rock in Australia, Monument Valley in the USA, Meteora in Greece, and Petra in Jordan. The term 'Danxia' to describe red bed landscapes was first used by Chinese scholars more than 80 years ago. The name is taken from Danxiashan (Danxia Mountain), which serves as the type locality in China. China has more than 780 Danxia sites scattered across the country, although the best are in the SE provinces, developed in a very active tectonic environment and under a warm, humid, sub-monsoonal climate. The spectacular Chinese red beds landscapes have remained unknown to world geoscientists until now. This lecture describes the geology and geomorphology of the Chinese Danxia and comparisons with other red beds landscapes worldwide.

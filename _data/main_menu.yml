@@ -46,3 +46,5 @@ toc:
         newwindow: true
       - page: Friends of the Society
         url: /about/friends.html
+      - page: Privacy Notice
+        url: /about/privacy-notice.html

@@ -1,0 +1,14 @@
+---
+layout: field-trip
+title:  "Iron ore, sand and building stone: Wiltshire's Geological Legacy"
+leader: "Isobel Geddes, author of 'Hidden Depths', the Geology of Wiltshire"
+location: Seend, Wiltshire
+date:   '2003-04-05 10:30:00'
+latitude: 51.350205
+longitude: -2.0749054
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.5
+---
+See the basis of Seend's former iron industry (Lower Greensand) above the Kennet & Avon canal, the source of yellow builder's sand (Corallian), Swindon's Portlandian stone and the sarsen stones of the Marlborough Downs at Lockeridge and Avebury. If possible we will take in the Wootton Bassett mud springs en route.
+
+Meet at 10.30 a.m. Details to follow.

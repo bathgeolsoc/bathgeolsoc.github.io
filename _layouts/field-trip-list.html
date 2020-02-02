@@ -16,7 +16,8 @@ layout: default
   <option value="*">---</option>
   <option value="upcoming" selected>Upcoming</option>
   {% assign currentyear = 0 %}
-  {% for fieldtrip in site.field_trips %}
+  {% assign fieldtriplist = site.field_trips | sort: 'date' | reverse %}
+  {% for fieldtrip in fieldtriplist %}
   {% assign fieldtripyear = fieldtrip.date | date: "%Y" %}
   {% if currentyear!=fieldtripyear %}
   {% assign currentyear = fieldtripyear %}
@@ -27,33 +28,18 @@ layout: default
   <p class="searchcount"></p>
 </div>
 <br>
-<div id="upcoming-events">
-{% for fieldtrip in site.field_trips %}
- {% assign currentdateunix = 'now' | date: "%s" %}
-  {% assign postdateunix = fieldtrip.date | date: "%s" %}
-  {% assign postdate = fieldtrip.date | date: "%a<br><div class='centre-date'>%b %d</div>%Y" %}
-    {% if postdateunix >= currentdateunix %}
-		<div class="circle-date">{{ postdate }}</div>
-		<div class="event-content">
-	      <h2><a href="{{ fieldtrip.url }}">{{ fieldtrip.title }}</a></h2>
-	  <h3>Leader: {{ fieldtrip.leader }}</h3>
-	  <p>{{ fieldtrip.content | strip_html | truncatewords: 20 }}</p>
-	  </div>
-	  <hr>
-    {% endif %}
-{% endfor %}
-</div>
 
-<div id="filtered-events" style="display:none">
-Filtered Events
+<div id="filtered-events">
 </div>
    
 <script>
 window.store = [
 	{% for fieldtrip in site.field_trips %} {
+	{% assign d = fieldtrip.date | date: "%-d" %}
 		"title": {{fieldtrip.title | jsonify}},
 		"leader": {{fieldtrip.leader | jsonify}},
-		"date": {{ fieldtrip.date | date: '%b %d' | jsonify }},
+		"datetime": {{fieldtrip.date | date: "%s"}},
+		"date": "{{ fieldtrip.date | date: '%b' }} {% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %}",
 		"dayofweek": {{ fieldtrip.date | date: '%a' | jsonify }},
 		"year": {{ fieldtrip.date | date: '%Y' | jsonify }},
 		"excerpt": {{ fieldtrip.content | strip_html | truncatewords: 20 | jsonify }},

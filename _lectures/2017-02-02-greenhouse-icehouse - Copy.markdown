@@ -1,0 +1,10 @@
+---
+layout: lecture
+title:  "Greenhouse to Icehouse: reconstructing temperature change during the Eocene"
+speaker: "Dr. Gordon N. Inglis, Postdoctoral Research Associate, Organic Geochemistry Unit, School of Chemistry, The Cabot Institute, University of Bristol"
+date: '2017-02-02 19:30:00'
+
+---
+Throughout the Phanerozoic, and possibly throughout geological time, the Earth’s climate has oscillated between greenhouse and icehouse climate states. The most recent transition, from a greenhouse to an icehouse climate state, occurred during the Eocene-Oligocene transition. However, it remains unclear whether CO2 drawdown or some other factors were responsible for long-term cooling during the Eocene (56 to 34 Ma). In order to determine the primary driving mechanisms responsible, we compile and generate new records of marine and terrestrial temperature change during the Eocene epoch using a biomarker approach. Proxy estimates are compared to modeling simulations spanning each stage of the Eocene to help better constrain the drivers of long-term cooling during this time interval.
+
+Our results indicate that terrestrial and marine settings were characterized by a long-term temperature maximum during the early Eocene. During the middle and late Eocene, there is a gradual decline in marine temperatures, especially at high-latitudes. The magnitude of cooling indicated by TEX86 is not supported by fixed-CO2 HadCM3L model simulations and provides indirect evidence that drawdown of CO2 (or some, as of yet unidentified, other factor(s)) was the primary forcing for long-term surface water cooling during the Eocene. This hypothesis is consistent with a new high-fidelity record of CO2 concentrations which constrains the relative decline in CO2 concentration through the Eocene to about fifty per cent (from ~1400 to ~770ppm).

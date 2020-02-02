@@ -1,0 +1,18 @@
+---
+layout: field-trip
+title:  "GeoWeek - Brown's Folly"
+leader: "Professor Maurice Tucker, University of Bristol and Bath Geological Society"
+location: Brown's Folly Car Park, Bathford, Bradford-on-Avon BA1 8EA
+date:   '2018-05-05 10:30:00'
+latitude: 51.39615326183019
+longitude: -2.292022705078125
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+Geological guided tour, fossils and geocaching.
+
+This is a FREE event organised by Bath Geological Society as part of GeoWeek May 5th 2018.
+
+Come and discover the Earth Cache and Geocache sites at Brown‘s Folly and learn about the local geology.
+
+Meet at 10:30am in car park grid ref: ST79864 (note satnav post code will get you close but not to the car park).

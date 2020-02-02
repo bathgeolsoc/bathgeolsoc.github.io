@@ -16,7 +16,7 @@ layout: default
   <option value="*">---</option>
   <option value="upcoming" selected>Upcoming</option>
   {% assign currentyear = 0 %}
-  {% assign lecturelist = site.lectures | sort: 'date' %}
+  {% assign lecturelist = site.lectures | sort: 'date' | reverse %}
   {% for lecture in lecturelist %}
   {% assign lectureyear = lecture.date | date: "%Y" %}
   {% if currentyear!=lectureyear %}
@@ -28,32 +28,18 @@ layout: default
   <p class="searchcount"></p>
 </div>
 <br>
-<div id="upcoming-events">
-{% for lecture in site.lectures %}
- {% assign currentdateunix = 'now' | date: "%s" %}
-  {% assign postdateunix = lecture.date | date: "%s" %}
-  {% assign postdate = lecture.date | date: "%a<br><div class='centre-date'>%b %d</div>%Y" %}
-    {% if postdateunix >= currentdateunix %}
-		<div class="circle-date">{{ postdate }}</div>
-		<div class="event-content">
-	      <h2><a href="{{ lecture.url }}">{{ lecture.title }}</a></h2>
-	  <h3>Speaker: {{ lecture.speaker }}</h3>
-	  <p>{{ lecture.content | strip_html | truncatewords: 20 }}</p>
-	  </div>
-	  <hr>
-    {% endif %}
-{% endfor %}
-</div>
-
-<div id="filtered-events" style="display:none">
+<div id="filtered-events">
 </div>
    
 <script>
 window.store = [
 	{% for lecture in site.lectures %} {
+	{% assign d = lecture.date | date: "%-d" %}
 		"title": {{lecture.title | jsonify}},
 		"speaker": {{lecture.speaker | jsonify}},
-		"date": {{ lecture.date | date: '%b %d' | jsonify }},
+		"datetime": {{lecture.date | date: "%s"}},
+		"date": "{{ lecture.date | date: '%b' }} {% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %}",
+		"starttime": {{ lecture.date | date: '%R' | jsonify }},
 		"dayofweek": {{ lecture.date | date: '%a' | jsonify }},
 		"year": {{ lecture.date | date: '%Y' | jsonify }},
 		"excerpt": {{ lecture.content | strip_html | truncatewords: 20 | jsonify }},

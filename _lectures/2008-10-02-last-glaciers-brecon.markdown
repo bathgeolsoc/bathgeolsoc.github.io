@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "The Last Glaciers of the Brecon Beacons"
+speaker: "Dr R. Shakesby, University of Swansea"
+date: '2008-10-02 19:30:00'
+
+---
+The higher parts of the Brecon Beacons National Park, South Wales, represent the most southerly area of the UK that had glaciers during the final, relatively brief cold phase (known as the Younger Dryas or Loch Lomond Stadial) of the last glacial cycle. This phase lasted only about 1,400 years from about 12,900 to 11,500 years ago, after which there was an abrupt change of climate to the comparatively warm conditions of the Holocene, which have continued until today. It appears that conditions in the Brecon Beacons only allowed very small glaciers to exist at the bases of steep escarpments where copious quantities of wind-drifted snow could accumulate. Evidence for the existence of these glaciers comprises some impressively large, steep-sided moraines and moraine complexes that appear to be almost as fresh today as when they were deposited so many thousands of years ago. Not everyone has accepted either the period of formation or a glacial origin for these scarp-foot depositional landforms. The talk will be illustrated with examples of the landforms and will consider some of the past and current debate concerning their origins, together with the climatic implications for this last occasion when climate was radically different from what we experience today.

@@ -1,0 +1,7 @@
+---
+layout: lecture
+title:  "1999 Annual General Meeting"
+date:   '1999-01-14 19:00:00'
+type: "agm"
+---
+Please note that the AGM is for members only.

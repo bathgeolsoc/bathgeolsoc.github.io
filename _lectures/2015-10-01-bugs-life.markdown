@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "A Bug’s Life: The role of micropalaeontology in industrial problem solving"
+speaker: "Professor Malcolm Hart, Emeritus Professor of Micropalaeontology at the University of Plymouth"
+date: '2015-10-01 19:30:00'
+
+---
+Micropalaeontology is the study of microscopic fossils and has been used extensively by the hydrocarbons industry for the stratigraphical correlation of rock successions (especially recovered in boreholes). In many quarrying or engineering projects stratigraphical “control” is also required and this will be explained using the site investigation for the Thames Barrier and the construction of the Channel Tunnel as the leading examples.

@@ -5,7 +5,6 @@
 
 const searchform = document.getElementById("search-form");
 const searchfield = document.getElementById("searchfield");
-const upcomingEvents = document.getElementById("upcoming-events");
 const filteredEvents = document.getElementById("filtered-events");
 const searchcount = document.querySelector('.searchcount')
 
@@ -46,10 +45,8 @@ var doSearch = function () {
 
 var showResults = (result) => {
 
-	upcomingEvents.style.display = "none";
-	filteredEvents.style.display = "block";
-
     for (let item of result) {
+		console.log(item.ref);
       var ref = item.ref;
       var searchitem = document.createElement('div');
       searchitem.className = 'searchitem';
@@ -65,6 +62,18 @@ var showResults = (result) => {
 
 getTerm();
 
+function compareObjects(o1, o2) {
+  var k = '';
+  for(k in o1) if(o1[k] != o2[k]) return false;
+  for(k in o2) if(o1[k] != o2[k]) return false;
+  return true;
+}
+
+function itemExists(haystack, needle) {
+  for(var i=0; i<haystack.length; i++) if(compareObjects(haystack[i], needle)) return true;
+  return false;
+}
+
 function timeFilterEvents() {
 	searchcount.style.display = "none";
 	filteredEvents.innerHTML = '';
@@ -73,16 +82,26 @@ function timeFilterEvents() {
 	var selectedYear = document.getElementById("year-select").value;
 	
 	if(selectedYear=='upcoming'){
-		upcomingEvents.style.display = "block";
-		filteredEvents.style.display = "none";
+		const now = Math.floor(Date.now() / 1000)
+		var results = [];
+		  for(var i=0; i<window.store.length; i++) {
+			for(var datetime in window.store[i]) {
+			  if(window.store[i]['datetime']>now) {
+				if(!itemExists(results, window.store[i])){
+					results.push(window.store[i]);
+					results[results.length-1].ref = i;
+				}
+			  }
+			}
+		  }
+		showResults(results);
 	}
 	else{
-		upcomingEvents.style.display = "none";
-		filteredEvents.style.display = "block";
 		var result = index.search('year: ' + selectedYear);
 		showResults(result);
 	}
 }
+timeFilterEvents();
 
 function selectElement(id, valueToSelect) {    
     let element = document.getElementById(id);

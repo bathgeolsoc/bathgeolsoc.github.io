@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "Gas Bubbles in Solids"
+speaker: "Rod White, Consultant Physicist specialising in problems associated with nuclear fuel elements CEGB, British Energy, BNFL, OECD Halden Reactor (Norway), Nuclear Energy Agency (Paris)"
+date: '2007-12-06 19:30:00'
+
+---
+Gas bubbles tend to precipitate out of solution when the gas is insoluble in the solid matrix. In many solids the bubbles may contain gases like helium, nitrogen or oxygen and thermodynamic stability will occur when the pressure in the bubble is balanced by the capillarity of the bubble plus any external restraining stresses. The bubble size distributions may change as a result of departures from thermodynamic equilibrium by means of atomic diffusion processes. Coarsening or Ostwald Rippening of the bubble populations may occur and the nature of the bubbles may change as a result. The processes are illustrated by studies of the bubble populations occurring in irradiated uranium dioxide UO2 (nuclear fuel) where a continuous supply of gas (xenon, krypton) occurs through the fission process and three principal types of bubble occur, namely, intragranular bubbles, lenticular bubbles on the grain faces and triangulated bubbles on the junctions of three grains. These grain edge bubbles eventually link up to form continuous pathways to the surfaces of the solid and are analogous to the structures in oil-bearing rocks.

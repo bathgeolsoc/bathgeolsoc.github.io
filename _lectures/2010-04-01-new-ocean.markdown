@@ -1,0 +1,7 @@
+---
+layout: lecture
+title:  "Witnessing the Birth of a New Ocean"
+speaker: "Dr Thierry Menard, University of Bristol"
+date: '2010-04-01 19:30:00'
+
+---

@@ -1,0 +1,7 @@
+---
+layout: lecture
+title:  "2000 Annual General Meeting"
+date:   '2000-01-06 19:00:00'
+type: "agm"
+---
+Please note that the AGM is for members only. AGM will start at 7.00 p.m. followed by the lecture at 7.30 p.m.  Visitors are welcome to attend the evening's lecture.

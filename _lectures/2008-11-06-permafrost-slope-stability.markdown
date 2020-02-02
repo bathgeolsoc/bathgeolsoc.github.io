@@ -1,0 +1,10 @@
+---
+layout: lecture
+title:  "Joy Coppin Memorial Lecture: Potential Impact of Climate Change on Slope Stability in Permafrost Regions"
+speaker: "Prof Charles Harris, University of Cardiff"
+date: '2008-11-06 19:30:00'
+
+---
+Permafrost is continuously frozen ground, and is widespread in the high arctic, becoming thinner and discontinuous further south. It may also underlie the higher peaks in mountain regions. Thawing of frozen ice-rich soils leads to thaw settlement and major loss of strength, often leading to landslides. On steep bedrock slopes, ice-bonded joints may increase rock mass strength, so that warming and thaw increases the risk of rock falls and rockslides. Thus, permafrost regions are particularly sensitive to climate change, and engineering works must incorporate measures to accommodate this. Evidence for recent warming in permafrost regions will first be presented, and its significance with regard to future trends discussed. Examples of the impact of permafrost degradation on steep bedrock mountain slopes will then be presented, with evidence drawn largely from the Alps. Finally, the response of soil-covered permafrost slopes to climate warming will be considered through field studies in Canada, Svalbard and Norway, and through laboratory modelling experiments.
+
+Charles Harris is Emeritus Professor of Geology at Cardiff University. He has undertaken arctic fieldwork in Ellesmere Island and the Mackenzie Valley in Canada, and in Norway and Svalbard. His main research interests are permafrost response to climate change, particularly in relation to slope stability. He has developed novel laboratory experiments to investigate slope processes at full scale (in collaboration with the CNRS in Caen France), and at reduced scale using the Geotechnical Centrifuge at Cardiff School of Engineering.

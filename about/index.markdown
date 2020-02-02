@@ -7,8 +7,10 @@ title: About the Bath Geological Society
 Bath Geological Society is an active and flourishing organisation with over 80 enthusiastic members whose ages range from 17 to 90. Our membership includes every type of geologist from recreational fossil-hunters to academic and professional geologists.
 
 <h4>Where and When Do We Meet?</h4>
-We meet at 16 Queen Square, Bath at the kind invitation of the <a target="_blank" href="https://www.brlsi.org/">Bath Royal Literary and Scientfic Institution. Meetings are held at 7.30 p.m. on the first Thursday of every month except January and August. The AGM is held in February.
-Click this link for a map showing the location of BRLSI.
+We meet at 16 Queen Square, Bath at the kind invitation of the <a target="_blank" href="https://www.brlsi.org/">Bath Royal Literary and Scientfic Institution</a>. Meetings are held at 7.30 p.m. on the first Thursday of every month except January and August. The AGM is held in February.
+<div class="event-map">
+<iframe style="pointer-events: none;" width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.3732936382293706%2C51.380365933529596%2C-2.355376482009888%2C51.386157931236696&amp;layer=mapnik&amp;marker=51.38326537198559%2C-2.364335060119629"></iframe><br><small><a href="https://www.openstreetmap.org/?mlat=51.38327&amp;mlon=-2.36434#map=17/51.38326/-2.36434">View Larger Map</a></small>
+</div>
 
 <h4>What Do We Do?</h4>
 Most of our meetings takes the form of a lecture which is always very professional, up-to-date and invariably entertaining. The lectures are varied and given by geologists from University Departments or from industry. We hold regular field meetings and sometimes there is an annual field-weekend in an agreeable locality.

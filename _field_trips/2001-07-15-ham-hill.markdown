@@ -1,0 +1,14 @@
+---
+layout: field-trip
+title:  "Ham Hill, Somerset"
+leader: "Hugh Prudden"
+location: Lime Kiln Car Park, Stoke-sub-Hamdon
+date:   '2001-07-15 10:30:00'
+latitude: 50.9505866
+longitude: -2.7435383
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+The old quarry faces exhibit a wide range of features which make the hill one of the best geological sites in Somerset. We will follow the Lime Kiln Trail and look at the Northern Quarry faces. A booklet 'Ham Hill; the Rocks and Quarries' by Hugh Prudden is available.
+
+Meet at 10:30 a.m. at Lime Kiln car park, Ham Hill Country Park, 5 miles west of Yeovil, clearly visible from the A303.

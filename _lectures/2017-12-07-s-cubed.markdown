@@ -1,0 +1,12 @@
+---
+layout: lecture
+title:  "'S-cubed' … … and beyond"
+speaker: "Dr Andy King, Director & Principal Geologist, Geckoella Ltd"
+date: '2017-12-07 19:30:00'
+
+---
+In many parts of England, the extraction of building stone has long ceased, and many original source quarries have closed or been lost. Consequently, obtaining detailed information on distinctive local stones (or suitable alternatives), their source and use for historic building or conservation purposes is often difficult.
+
+The Strategic Stone Study (‘S-cubed’) is the first country-wide comprehensive study undertaken of England’s buildings stones, their use in vernacular buildings and the identification of historic source quarries. Initially developed by Historic England (formerly English Heritage) as a response to difficulties sourcing suitable replacement stone for historic buildings, the study aims to provide freely accessible (on-line) data for anyone involved in sourcing stone for this purpose. Working with the British Geological Survey, the study has also involved local geologists and heritage building specialists.
+
+This presentation explains the background that led to ‘S-cubed’, its subsequent development and the roll out of the latest features including interactive County Atlases and datasets with GIS search facilities. A series of recent case studies also demonstrate how data from ‘S-cubed’ can be used to further promote England’s building stones, to safeguard their future (for example by informing Mineral Safeguarding Areas) and help develop pragmatic approaches to the (re)opening of small scale building stone source quarries through local mineral planning policies.

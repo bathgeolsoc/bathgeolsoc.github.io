@@ -1,0 +1,19 @@
+---
+layout: field-trip
+title:  "Vale of Wardour"
+leader: "Isobel Geddes and Steve Hannath, Wiltshire Geology Group"
+location: Dinton, Salisbury SP3 5HH
+date:   '2016-06-22 10:00:00'
+latitude: 51.0837089
+longitude: -1.9872125
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+This field trip involves a walk of around 5 miles which will take us across the vale from one side of the eroded anticline to the other. The walk will start at Dinton in the National Trust car park for Philips House on St Mary’s Rd, (SP3 5HH, OS sheet 130 009316) and finish with a pub lunch at the Wyndham Pub in Dinton on the Hindon Rd (SP3 5EG, OS130 019315). Those who say they wish to attend will be sent a menu in due course so that lunches may be ordered ahead of time and be ready for the end of the walk.
+
+We shall meet at 10.00, the walk taking about 2.5/3 hours.
+WGG Guide on the Vale of Wardour would be a useful reference; available on the day (£1.95).
+
+You are welcome to join us on a first come first signed-up basis. We have put a limit on numbers so an early response is recommended.
+
+Visitors £2, free for members of Bath GS, WGG, WEGA and BNS.

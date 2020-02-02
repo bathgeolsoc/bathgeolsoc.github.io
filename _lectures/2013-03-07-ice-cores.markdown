@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "Frozen in time: ice cores and climate"
+speaker: "Professor Eric Wolff FRS, Science Leader (Chemistry and Past Climate) at British Antarctic Survey and Honorary Visiting Professor in School of Ocean and Earth Science, University of Southampton"
+date: '2013-03-07 19:30:00'
+
+---
+The polar ice sheets hold one of Earth’s great sedimentary records. By drilling ice cores from Greenland and Antarctica, we can obtain ice that fell as snow, extending back as far as 800,000 years in Antarctica and over 120,000 years in Greenland. Ice cores contain information about climate and numerous other environmental parameters; crucially the air bubbles trapped in the ice give access to the past composition of the atmosphere, including the greenhouse gas concentrations. In this talk. Prof. Wolff will first discuss the strengths and weaknesses of ice cores, and then demonstrate how ice cores are collected. He will then present a few examples of the knowledge we have gained from ice cores - about greenhouse gases, about glacial/interglacial cycles, and about rapid climate changes most likely induced by changes in ocean heat transport. Finally he will discuss prospects for obtaining even older ice in the future.

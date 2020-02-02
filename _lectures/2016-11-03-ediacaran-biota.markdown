@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "Tracking early animal evolution: new insights from the Ediacaran biota"
+speaker: "Dr. Alex Liu, University of Bristol"
+date: '2016-11-03 19:30:00'
+
+---
+The evolution of animals was one of the most important biological events in the history of life on Earth, not only because it paved the way for our own existence, but because animals have had an enormous and irreversible impact on the biosphere. In recent years, the focus of palaeontological studies into the initial evolution and radiation of animals has centred on the fossil record of the late Ediacaran Period, which documents diverse communities of unusual organisms that lived between 580 and 541 million years ago. Determining what these fossilized organisms were (i.e. animals, plants, algae or an entirely unique Kingdom of life), has proven very difficult, and is one of the most controversial topics in palaeontology. In this talk, Dr.Liu will outline the current state of knowledge surrounding the Ediacaran biota, and will discuss new findings and discoveries being made across the globe. These suggest that rather than being a confusing assortment of ultimately failed biological "experiments", the Ediacaran biota record diverse, thriving ecosystems that likely contained algae, bacterial colonies, protists, and some of the earliest animals. Such ecosystems thus paved the way for the complex animal-dominated marine communities of the Phanerozoic.

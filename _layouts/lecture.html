@@ -4,7 +4,11 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/Event">
 
 <header class="post-header lecture-head">
-    <h1 class="event-title p-name" itemprop="name">{{ page.title | escape }}</h1>
+    <h1 class="event-title p-name" itemprop="name">
+	{%- if page.type != 'agm' -%}
+	Lecture:&nbsp;
+	{%- endif -%}
+	{{ page.title | escape }}</h1>
     <p class="event-leader">
       {%- if page.speaker -%}
 		Speaker: <span itemprop="performer" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.speaker }}</span></span>
@@ -14,7 +18,9 @@ layout: default
 <div id="eventCost" class="eventInfoColumn">
 <h3>Entry Fee</h3>
 <p>Members: Free</p>
+	{%- if page.type != 'agm' -%}
 <p>Visitors: {{ site.lecture_cost }}</p>
+	{%- endif -%}
 </div>
 <div id="eventDateTime" class="eventInfoColumn">      
 <h3>Date and Time</h3>
@@ -23,7 +29,13 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time></p>
-	<p>19:30-20:30</p></div>
+	<p>
+	{%- if page.type == 'agm' -%}
+	19:00 - 19:30
+	{%- else -%}
+	19:30 - 20:30
+	{%- endif -%}
+	</p></div>
 <div id="eventLocation" class="eventInfoColumn">
 <h3>Location</h3>
 <p itemprop="location">Bath Royal Literary and Scientific Institution, 16-18 Queen Square, Bath BA1 2HN</p>

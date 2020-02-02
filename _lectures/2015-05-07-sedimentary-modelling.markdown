@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "Numbers, models and layered rocks: what can we learn from numerical modelling of sedimentary systems?"
+speaker: "Professor Peter Burgess, Head of Department of Earth Sciences, Royal Holloway, University of London"
+date: '2015-05-07 19:30:00'
+
+---
+While many other areas of science, for example physics and chemistry, can use experiments to help understand how physical systems work, sedimentary geology has for most of its history been limited to observation of natural systems recorded in outcrop and beneath the surface in sedimentary basins. This has been especially problematic for our understanding of how sediments from modern depositional systems, for example deltas and shallow carbonate seas, are incorporated into the stratigraphic record and preserved as layered rocks or strata. An understanding of how sediments are deposited and preserved as strata is key to our understanding of Earth surface systems, and also of significant economic interest for water and hydrocarbon resource exploitation. New developments in the numerical modelling of sedimentary systems have much potential to address many of these issues. This talk will focus on examples of numerical computer modelling and attempt to show how results from these models are changing how we think about the nature of strata. Perhaps most importantly, the examples demonstrate how new hypotheses can be generated from these models, to drive a new generation of data collection from sedimentary rocks in outcrop and in the subsurface.

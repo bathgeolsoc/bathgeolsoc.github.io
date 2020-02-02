@@ -1,0 +1,14 @@
+---
+layout: field-trip
+title:  "Rock It! - Bristol and Bath Railway Path"
+leader: "Joint event with Bristol Naturalists' Society and the West of England Geological Association"
+location: Bristol and Bath Railway Path near Saltford
+date:   '2006-08-28 10:00:00'
+latitude: 51.4031737
+longitude: -2.4782384
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.5
+---
+We need volunteers to support this exciting annual event to promote our local rocks and fossils to the public. Please could you also collect specimens of fossils and minerals to give away at the event.
+
+The event is held from 10.00 a.m. to 4.00 p.m. at the Information Board site just beneath the bridge on the Bristol and Bath Railway Path near Saltford. There will be a range of activities going on throughout the day.

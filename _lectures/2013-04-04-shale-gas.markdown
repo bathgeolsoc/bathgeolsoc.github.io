@@ -1,0 +1,10 @@
+---
+layout: lecture
+title:  "Shale Gas and Fracking"
+speaker: "Roy Hartley, Consultant Petroleum Engineer, Bath Geological Society"
+date: '2013-04-04 19:30:00'
+
+---
+Shale gas and fracking have appeared regularly in the news in the UK in the last two years. Two extreme views are portrayed - one that development of the UK's shale gas will make the country self sufficient with all the economic benefits that implies - the other is that fracking will pollute our water sources, increase greenhouse gas emissions and have other detrimental effects. This view was first highlighted in the film Gaslands premiered at the 2010 Sundance Film Festival. Then in 2011 fracking hit the headlines in the UK when the Cuadrilla company's operations near Blackpool were judged to have caused two very small earthquakes (magnitudes 2.3 and 1.5).
+
+Roy Hartley graduated as a petroleum engineer from Imperial College in 1969. He witnessed his first frac job in the same year. He has worked in c. 30 countries and been involved in fracking in the majority of them. From 1981 to 1984 he was Head of Shell's Stimulation Research Group. In this talk he aims to present an unbiased view of the development of shale gas and explain what happens in drilling and fracking and what its environmental impact might be.

@@ -1,0 +1,7 @@
+---
+layout: lecture
+title:  "COLIN HORSTMANN MEMORIAL LECTURE: Marbles and other Decorative Stones"
+speaker: "Dr Monica Price, Mineralogy, Oxford University Museum of Natural History"
+date: '2007-04-05 19:30:00'
+
+---

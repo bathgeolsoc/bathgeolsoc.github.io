@@ -1,0 +1,16 @@
+---
+layout: field-trip
+title:  "Saltford - a geological ramble"
+leader: "Simon Carpenter"
+location: Saltford Vauxhall, 491, Bath Road, Saltford, BS31 3HQ
+date:   '2010-05-14 14:00:00'
+latitude: 51.402037
+longitude: -2.4570884
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+Saltford is built on Lower Jurassic rocks which are well exposed in the area and highly fossiliferous.
+
+Simon spent most of his childhood living in Saltford and hopes to share some of his geological knowledge and interest in the town.� Using fossils from his own collection and by visiting some of the spectacular rock exposures, Simon will unravel some of the town’s fascinating geological history.
+
+Meet: 2.00 p.m outside Saltford Post Office (located with other shops along the A4 road) Grid Ref: ST 683671 Finish by 5pm. Most of the afternoon will be spent walking around the town using the comprehensive network of footpaths so stout footwear is recommended as it may be muddy in places. Optional beer at the Jolly Sailor Public House after the excursion. Saltford is served by a regular bus service from Bath and Bristol (X39) and the Railway Path if you are cyclists - so please consider this means of transport as parking is limited.

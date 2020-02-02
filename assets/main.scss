@@ -32,9 +32,10 @@ color: #90703f;
 }
 .page-content{
 padding: 0px;
+	font-size: 0.9em;
 }
 .main-menu a, .main-menu div{
-display: inline;
+display: inline-block;
 margin-right: 20px;
 text-decoration: none;
 color: #fff;
@@ -167,7 +168,7 @@ float: left;
     text-align: center;
     background-color: #4c4c4c;
     color: #fff;
-    font-size: 1.1em;
+    font-size: 1.2em;
     display: grid;
     align-items: center;
     grid-template-rows: 38px 31px 41px;
@@ -176,12 +177,17 @@ float: left;
 	}
 .centre-date{
     font-weight: bold;
-    font-size: 1.3em;
+    font-size: 1.2em;
 	}
 .event-content{
 	width: 83%;
     float: right;
+	min-height: 133px;
 	}
+.no-speaker-h3{
+margin-bottom:0px;
+height:14px;
+}
 .invisible{
 	display: none;
 	}
@@ -262,7 +268,7 @@ margin-bottom: 3px;
 #journal-result-issue{
     margin-top: 4px;
 	}
-.searchitem hr{
+.searchitem hr, #upcoming-events hr{
 	margin-top: 24px;
     margin-bottom: 24px;
 	}
@@ -397,4 +403,95 @@ position: absolute;
 }
 .membership-details-input{
 display: none !important;
+}
+@media screen and (max-width: 1030px){
+.page-content .wrapper{
+margin: 0px auto 20px auto;
+}
+#about-button-dropdown{
+    margin-left: 393px;
+	}
+	.page-content .wrapper{
+border:0px;
+}
+}
+/* Small screen 540px */
+@media screen and (max-width: 540px){
+.standard-button{
+    width: 50%;
+}
+.main-menu a, .main-menu div{
+    color: #111;
+    margin-left: 15px;
+	margin-right: 15px;
+	}
+.main-menu-dropdown{
+	text-align: center;
+	padding-left: 0px;
+    margin-left: 0px !important;
+    width: 100%;
+}
+#local-geology-button-dropdown{
+	margin-left: 30px;
+	}
+#about-button-dropdown{
+margin-left: 42%;
+}
+#journal-button-dropdown{
+margin-left: 61%;
+}
+#searchfield{
+    width: 99%;
+}
+.search-bar{
+display: block;
+}
+#searchform{
+width: 100%;
+margin-bottom: 20px;
+}
+.journal-search-bar #year-select{
+margin-bottom: 20px;
+}
+#year-select, #topic-select{
+display: block;
+}
+.post-header{
+margin-bottom: 10px;
+}
+.circle-date{
+    width: 163px;
+	margin: auto;
+	float: none;
+	margin-bottom: 10px;
+}
+.centre-date{
+margin: auto;
+}
+.event-content{
+float: none;
+width: 100%;
+}
+.lecture-head, .field-trip-head{
+    margin-left: -5%;
+    margin-right: -5%;
+}
+.eventInfoColumn{
+width: 100%;
+float: none;
+margin: 0px;
+}
+.column-2, .column-1{
+width: 100%;
+float: none;
+}
+}
+/* Tiny screen 330px */
+@media screen and (max-width: 330px){
+#site-logo{     
+	display: none;
+}
+#site-title{
+max-width: 80%;
+}
 }

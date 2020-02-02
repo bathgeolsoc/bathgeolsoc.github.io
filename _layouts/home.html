@@ -11,30 +11,14 @@ layout: default
 </div>
 {% endif %}
 <div class="home-section" id="lecture-section">
-{% for lecture in site.lectures %}
- {% assign currentdateunix = 'now' | date: "%s" %}
-  {% assign postdateunix = lecture.date | date: "%s" %}
-  {% assign postdate = lecture.date | date: "%A, %d %B %Y" %}
-    {% if postdateunix >= currentdateunix %}
-      <h2 id="y{{lecture.date | date: '%Y'}}">Next Lecture: <a href="{{ lecture.url }}">{{ lecture.title }}</a></h2>
-	  <h3>Speaker: {{ lecture.speaker }}</h3>
-	    <p>{{ postdate }}</p>
-		{% break %}
-    {% endif %}
-{% endfor %}
+<h2>Next Lecture: <a id="lecture-title" href="{{ lecture.url }}"></a></h2>
+<h3>Speaker: <span id="lecture-speaker"></span></h3>
+<p id="lecture-date"></p>
 </div>
 <div class="home-section" id="field-trip-section">
-{% for field_trip in site.field_trips %}
-{% assign currentdateunix = 'now' | date: "%s" %}
-  {% assign postdateunix = field_trip.date | date: "%s" %}
-  {% assign postdate = field_trip.date | date: "%A, %d %B %Y" %}
-    {% if postdateunix >= currentdateunix %}
-      <h2 id="y{{field_trip.date | date: '%Y'}}">Next Field Trip: <a href="{{ field_trip.url }}">{{ field_trip.title }}</a></h2>
-	  <h3>Leader: {{ field_trip.leader }}</h3>
-	    <p>{{ postdate }}</p>
-		{% break %}
-    {% endif %}
-{% endfor %}
+<h2>Next Field Trip: <a id="trip-title" href="{{ field_trip.url }}"></a></h2>
+<h3>Leader: <span id="trip-leader"></span></h3>
+<p id="trip-date"></p>
 </div>
 <div class="home-section" id="join-section">
 <h2 class="content-title">Join Bath Geological Society</h2>
@@ -44,7 +28,73 @@ layout: default
 <li>A copy of our professionally produced annual Journal.</li></ul>
 <a href="/membership.html" class="standard-button">Join now</a>
 </div>
-<div class="home-section" id="journal-section">
+</div>
+<script>
+{% assign currentyear = 'now' | date: "%Y" %}
+{% assign lecturelist = site.lectures | sort: 'date' %}
+window.lectures = [{% for lecture in lecturelist %}{% if lecture.type != 'agm' %}{% assign postyear = lecture.date | date: "%Y" %}{% if postyear >= currentyear %} { {% assign d = lecture.date | date: "%-d" %}
+		"title": {{lecture.title | jsonify}},
+		"speaker": {{lecture.speaker | jsonify}},
+		"datetime": {{lecture.date | date: "%s"}},
+		"date": {{ lecture.date | date: "%R %A, %d %B %Y" | jsonify}},
+		"url": "{{ lecture.url }}"
+	}{% unless forloop.last %}, {% endunless %}{% endif %}{% endif %}{% endfor %}]
 
-</div>
-</div>
+{% assign fieldtriplist = site.field_trips | sort: 'date' %}
+window.fieldtrips = [{% for fieldtrip in fieldtriplist %}{% assign postyear = fieldtrip.date | date: "%Y" %}{% if postyear >= currentyear %} { {% assign d = fieldtrip.date | date: "%-d" %}
+		"title": {{fieldtrip.title | jsonify}},
+		"leader": {{fieldtrip.leader | jsonify}},
+		"datetime": {{fieldtrip.date | date: "%s"}},
+		"date": {{ fieldtrip.date | date: "%R %A, %d %B %Y" | jsonify}},
+		"url": "{{ fieldtrip.url }}"
+	}{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}]
+
+function compareObjects(o1, o2) {
+  var k = '';
+  for(k in o1) if(o1[k] != o2[k]) return false;
+  for(k in o2) if(o1[k] != o2[k]) return false;
+  return true;
+}
+
+function itemExists(haystack, needle) {
+  for(var i=0; i<haystack.length; i++) if(compareObjects(haystack[i], needle)) return true;
+  return false;
+}
+
+function timeFilterEvents() {
+	const now = Math.floor(Date.now() / 1000)
+	lectureloop:
+	  for(var i=0; i<window.lectures.length; i++) {
+		for(var datetime in window.lectures[i]) {
+		  if(window.lectures[i]['datetime']>now) {
+				console.log("Next lecture: " + window.lectures[i].title);
+				const lectureTitle  = document.getElementById("lecture-title");
+				lectureTitle.innerHTML = window.lectures[i].title;
+				lectureTitle.href = window.lectures[i].url;
+				const lectureSpeaker = document.getElementById("lecture-speaker");
+				lectureSpeaker.innerHTML = window.lectures[i].speaker;
+				const lectureDate = document.getElementById("lecture-date");
+				lectureDate.innerHTML = window.lectures[i].date;
+				break lectureloop;
+		  }
+		}
+	  }
+	  triploop:
+	  for(var i=0; i<window.fieldtrips.length; i++) {
+		for(var datetime in window.fieldtrips[i]) {
+		  if(window.fieldtrips[i]['datetime']>now) {
+				console.log("Next field trip: " + window.fieldtrips[i].title);
+				const tripTitle = document.getElementById("trip-title");
+				tripTitle.innerHTML = window.fieldtrips[i].title;
+				tripTitle.href = window.fieldtrips[i].url;
+				const tripLeader = document.getElementById("trip-leader");
+				tripLeader.innerHTML = window.fieldtrips[i].leader;
+				const tripDate = document.getElementById("trip-date");
+				tripDate.innerHTML = window.fieldtrips[i].date;
+				break triploop;
+		  }
+		}
+	  }
+}
+timeFilterEvents();
+</script>

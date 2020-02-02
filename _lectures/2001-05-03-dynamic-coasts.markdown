@@ -1,0 +1,13 @@
+---
+layout: lecture
+title:  "Dynamic Coasts"
+speaker: "Dr John Rees, British Geological Survey"
+date: '2001-05-03 19:30:00'
+
+---
+We are all familiar with the negative side of coastal erosion, with pictures of collapsing cliffs regularly appearing in the press. This leads us to question what we can do about it; coastal defences are extremely expensive and where, locally, they are cost-effective, such defences often accentuate rates of erosion on other parts of the coast.
+Is this the only view of coastal erosion? Perhaps we need to consider coastal change more widely, and look at ways in which erosion may benefit the nation.
+
+Some parts of the coast are accreting, affording effective protection from coastal threats, not only today but in the future when we are likely to see higher sea-levels. The benefits of accretion are widely recognised and because of this many eroding beaches have been recharged with sediment in recent years. Accretion is particularly important in estuaries, which are the sites of some of many of our cities, ports, much of our population and industry. This is because saltmarshes within estuaries form the most effective line of defence against erosion, storm surges and coastal flooding. The maintenance of saltmarshes is thus extremely important, especially with projected rates of sea-level rise; consequently we need to understand the oceanographic and geological processes which allow them to accrete. Research shows that almost all of the sediments in saltmarshes are derived from erosion of other parts of the coast (little is derived from rivers) - which allows us to paint a very different perspective of coastal erosion. Erosion may be seen as a problem by the owner of a cliff-top property in East Anglia, but should be regarded very positively by Londoners! Because eroding coasts afford effective protection to assets on our estuaries it is important to understand the geology (grain-size distributions), volume and rates or recession of eroding coasts and determine how much of the eroded sediment is transported on to saltmarshes. It is essential that our understanding is wide-ranging as recent multidisciplinary work demonstrates that most sediment is supplied from (invisible) erosion of the sub-tidal zone in which waves impact on the coast instead of (very visible) cliff recession.
+
+There is little we can do in the longer-term to defend our coasts. Instead, we should take a wider view of coastal change, recognising that it is constant (and appealing). It is important to recognise that the negative impacts of coastal erosion on one coast, may provide great benefits to others. Instead of fighting coastal erosion we should, through strategic research, better understand it, plan 'around-it' and work with it.

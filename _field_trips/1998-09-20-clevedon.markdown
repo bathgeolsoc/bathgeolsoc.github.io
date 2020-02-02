@@ -1,0 +1,19 @@
+---
+layout: field-trip
+title:  "The Geology of Clevedon"
+leader: "Charles Copp"
+location: The Pier, Clevedon BS21 7QR
+date:   '1998-09-20 10:30:00'
+latitude: 51.442647
+longitude: -2.861308
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.005
+---
+The purpose of this meeting is to give an insight into the, often overlooked, complex and exciting geological history of the Clevedon area. During the day we will be visiting the following sites and discussing the effects of Variscan tectonics and Pleistocene climate changes on the local topography.
+<ul>
+<li>Clevedon Beach and Pier Vein SSSI (Devonian sandstones and transition through Lower Carboniferous - Lower Limestone Shales to Black Rock Limestone. Folding, faulting and large mineral vein including unusual minerals)</li>
+<li>Ladye Bay - (Devonian sandstones and siltstones, Triassic marginal facies (dolomitic conglomerate) and lacustrine limestones. Large fault and interesting copper and silicate mineralisation. Pleistocene raised beach)</li>
+<li>Conygar Quarry (Upper Carboniferous, Pennant Sandstone - sandstones and siltstones with good plant fossils and excellent sedimentary structures)</li>
+<li>Holly Lane SSSI (Pleistocene sea cliff, bone cave and slope deposits)</li>
+</ul>
+Meet at 10.30 a.m. on Clevedon Promenade by the Pier. Please bring a packed lunch although pubs are available. Hard hats and stout footwear essential.

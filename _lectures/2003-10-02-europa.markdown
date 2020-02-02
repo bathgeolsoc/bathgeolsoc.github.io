@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "Europa: A Frozen Waterworld?"
+speaker: "Victoria Griffiths, post graduate, Imperial College, University of London"
+date: '2003-10-02 19:30:00'
+
+---
+Europa is one of the icy moons of Jupiter. There has been a great deal of interest in Europa as there is thought to be a liquid ocean beneath the icy surface and many scientists believe that Europa is another place in the Solar System where life may have developed. The Galileo and Voyager missions have both sent back many images of Europa's surface. Using these images it is possible to analyse some of the unique structures on the surface and determine how they were formed. From this, it is possible to infer more about the internal structure of Europa and the possibility of life.
