@@ -1,7 +1,7 @@
 ---
 layout: field-trip
 title:  "Site Visit and Conservation at Brown's Folly Nature Reserve"
-leader: "N/A"
+leader: "Avon Wildlife Trust"
 location: Brown's Folly Car Park, Bathford, Bradford-on-Avon BA1 8EA
 date:   '2005-02-05 11:00:00'
 latitude: 51.39615326183019

@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Wick Quarry and Golden Valley"
 leader: "Mark Mitchelmore"
 location: Wick Quarry, Golden Valley Road, Wick and Abson, BS30
-date:   '2010-10-01 9:45:00'
+date:   '2011-10-01 9:45:00'
 latitude: 51.457029
 longitude: -2.4187774
 #precise zoom: 0.005, inprecise zoom: 0.5

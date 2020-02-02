@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Combe Down - Midford - Southstoke Geological Walk"
 leader: "Dr. David Workman, Bath Geological Society"
 location: Holy Trinity Church, Church Rd, Combe Down, Bath BA2 5JJ
-date:   '2010-03-12 10:30:00'
+date:   '2011-03-12 10:30:00'
 latitude: 51.3591703
 longitude: -2.3478878
 #precise zoom: 0.005, inprecise zoom: 0.5

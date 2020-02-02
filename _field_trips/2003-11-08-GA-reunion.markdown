@@ -3,7 +3,7 @@ layout: field-trip
 title:  "2003 Reunion of the Geologists’ Association"
 leader: "N/A"
 location: University College London, Gower Street, WC1E 6BT
-date:   2003-11-01 10:30:00 +0000
+date:   2003-11-08 10:30:00 +0000
 latitude: 51.52145
 longitude: -0.13141
 #precise zoom: 0.005, inprecise zoom: 0.5

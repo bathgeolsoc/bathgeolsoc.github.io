@@ -1,7 +1,7 @@
 ---
 layout: field-trip
 title:  "The Geology of Pembrokeshire"
-leader: "N/A"
+leader: "Sid Howells, Area Geologist, Countryside Council for Wales"
 location: Twr-y-Felin Hotel, Ffordd Caerfai, St Davids, Haverfordwest SA62 6QT
 date:   '2000-09-29 18:00:00'
 latitude: 51.8792326

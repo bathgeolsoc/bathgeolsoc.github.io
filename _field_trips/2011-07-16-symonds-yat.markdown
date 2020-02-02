@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Circular Geological Walk near Symonds Yat"
 leader: "Dr. Nicholas Chidlaw"
 location: Symonds Yat Rock, Coleford, GL16 7PW
-date:   '2010-07-16 9:15:00'
+date:   '2011-07-16 9:15:00'
 latitude: 51.8355546
 longitude: -2.6348457
 #precise zoom: 0.005, inprecise zoom: 0.5

@@ -3,7 +3,7 @@ layout: field-trip
 title:  "The Black Mountain and the Gower, South Wales"
 leader: "Dr. Geraint Owen, University of Swansea"
 location: Swansea
-date:   '2002-09-28 18:00:00'
+date:   '2002-09-27 18:00:00'
 latitude: 51.6255408
 longitude: -3.9655064
 #precise zoom: 0.005, inprecise zoom: 0.5

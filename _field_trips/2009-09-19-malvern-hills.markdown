@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Southern end of the Malvern Hills"
 leader: "Dave Owen, Gloucester Geology Trust"
 location: Bromesberrow, Forest of Dean, Gloucestershire, HR8 1SE
-date:   '2009-06-13 10:00:00'
+date:   '2009-09-19 10:00:00'
 latitude: 52.011987
 longitude: -2.3569192
 #precise zoom: 0.005, inprecise zoom: 0.5

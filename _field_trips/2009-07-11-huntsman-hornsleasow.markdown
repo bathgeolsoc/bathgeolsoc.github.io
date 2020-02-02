@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Huntsman’s and Hornsleasow Quarries"
 leader: "David Glenn, Huntsman’s Quarries"
 location: Cutsdean, Cotswold, Gloucestershire, GL56 9TN
-date:   '2009-06-13 10:00:00'
+date:   '2009-07-11 10:00:00'
 latitude: 51.988996
 longitude: -1.8077283
 #precise zoom: 0.005, inprecise zoom: 0.5

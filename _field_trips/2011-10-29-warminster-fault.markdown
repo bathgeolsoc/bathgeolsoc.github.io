@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Landscape features of the Gault and Upper Greensand in the vicinity of the Warminster Fault"
 leader: "Isabel Buckingham, Bath Geological Society"
 location: The Horse & Groom, E Woodlands Rd, Frome BA11 5LY
-date:   '2010-10-29 10:00:00'
+date:   '2011-10-29 10:00:00'
 latitude: 51.2005399
 longitude: -2.301649
 #precise zoom: 0.005, inprecise zoom: 0.5

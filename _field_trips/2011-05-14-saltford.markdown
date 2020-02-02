@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Saltford - a geological ramble"
 leader: "Simon Carpenter"
 location: Saltford Vauxhall, 491, Bath Road, Saltford, BS31 3HQ
-date:   '2010-05-14 14:00:00'
+date:   '2011-05-14 14:00:00'
 latitude: 51.402037
 longitude: -2.4570884
 #precise zoom: 0.005, inprecise zoom: 0.5

@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Exploring Bradford on Avon"
 leader: "Isobel Geddes, Wiltshire Geology Group"
 location: Bradford-on-Avon Marina, Trowbridge Rd, Bradford-on-Avon BA15 1UD
-date:   '2010-09-10 10:30:00'
+date:   '2011-09-10 10:30:00'
 latitude: 51.3353251
 longitude: -2.2390798
 #precise zoom: 0.005, inprecise zoom: 0.5
