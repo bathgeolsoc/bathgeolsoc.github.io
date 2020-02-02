@@ -1,6 +1,6 @@
 ---
 layout: field-trip
-title:  "Deer Leap, Ebbor Gorge and Wookey Hole - BGS 50th Anniversary Celebratione"
+title:  "Deer Leap, Ebbor Gorge and Wookey Hole - BGS 50th Anniversary Celebration"
 leader: "Dr. Doug Robinson, University of Bristol"
 location: Deerleap, Wells BA5, Deerleap, Wells BA5 3AY
 date:   2020-07-08 10:00:00 +0000
@@ -8,7 +8,6 @@ latitude: 51.24064
 longitude: -2.690464
 #precise zoom: 0.005, inprecise zoom: 0.5
 zoom: 0.005
-categories: jekyll update
 ---
 The first BGS field trip, held fifty years ago, was to Ebbor Gorge. Our return visit this year includes Deer Leap and Wookey Hole.
 
