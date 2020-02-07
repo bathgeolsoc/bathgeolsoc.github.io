@@ -1,0 +1,7 @@
+---
+layout: lecture
+title:  "TBC"
+speaker: "TBC"
+date:   '2020-10-01 19:30:00'
+---
+Details TBC.
