@@ -31,8 +31,7 @@ color: #90703f;
     margin: 20px auto 20px auto;
 }
 .page-content{
-padding: 0px;
-	font-size: 0.9em;
+	padding: 0px;
 }
 .main-menu a, .main-menu div{
 display: inline-block;
@@ -203,8 +202,11 @@ height:14px;
 margin-left: 10%;
 margin-bottom: 0px;
 }
-#upcoming-events, #filtered-events, #article-results{
+#filtered-events, #article-results{
 min-height: 407px;
+}
+#filtered-events{
+font-size: 0.9em;
 }
 .eventInfoColumn{
 float: left;

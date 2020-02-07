@@ -3,19 +3,20 @@ layout: page
 title: Officers
 ---
 <div class="column-1">
-<p><strong>Chairman</strong> - Richard Pollock
+<p><strong>Chairman</strong> - Graham Hickman
 <br><a href="mailto:chairman@bathgeolsoc.org.uk">chairman@bathgeolsoc.org.uk</a></p>
 
-<p><strong>Administrative Secretary</strong> - Isabel Buckingham
+<p><strong>Administrative Secretary</strong> - Polly Sternbauer
 <br><a href="mailto:secretary@bathgeolsoc.org.uk">secretary@bathgeolsoc.org.uk</a></p>
-
-<p><strong>Treasurer</strong> - Judith Hible
-<br><a href="mailto:treasurer@bathgeolsoc.org.uk">treasurer@bathgeolsoc.org.uk</a></p>
 
 <p><strong>Membership Secretary</strong> - Polly Sternbauer
 <br><a href="mailto:membership@bathgeolsoc.org.uk">membership@bathgeolsoc.org.uk</a></p>
 
-<p><strong>Archivist</strong> - Charles Hiscock</p>
+<p><strong>Treasurer</strong> - Phil Burge
+<br><a href="mailto:treasurer@bathgeolsoc.org.uk">treasurer@bathgeolsoc.org.uk</a></p>
+
+<p><strong>Journal Editor</strong> - Mellissa Freeman
+<br><a href="mailto:journal@bathgeolsoc.org.uk">journal@bathgeolsoc.org.uk</a></p>
 </div>
 <div class="column-2">
 <p><strong>Lecture Programme Secretary</strong> - Anne Hunt
@@ -27,16 +28,14 @@ title: Officers
 <p><strong>Field Trip Health and Safety Officer</strong> - Bob Mustow
 <br><a href="mailto:field@bathgeolsoc.org.uk">field@bathgeolsoc.org.uk</a></p>
 
-<p><strong>Journal Editor</strong> - Mellissa Freeman
-<br><a href="mailto:journal@bathgeolsoc.org.uk">journal@bathgeolsoc.org.uk</a></p>
-
 <p><strong>Webmaster</strong> - James McVeigh
 <br><a href="mailto:webmaster@bathgeolsoc.org.uk">webmaster@bathgeolsoc.org.uk</a></p>
+
+<p><strong>Archivist</strong> - Charles Hiscock</p>
 </div>
 <p style="clear: both;"></p>
 <p style="clear: both;"><strong>Other committee members</strong></p>
 <ul>
 <li>Prof. Maurice Tucker</li>
-<li>Graham Hickman</li>
 <li>Linda Drummond-Harris</li>
 </ul>
