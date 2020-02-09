@@ -8,7 +8,6 @@ latitude: 51.39615326183019
 longitude: -2.292022705078125
 #precise zoom: 0.005, inprecise zoom: 0.5
 zoom: 0.005
-categories: jekyll update
 ---
 The annual, morning clear-up of the Great oolite exposures on the SSSI reserve near Bathford. Bring your secateurs and hedge trimmers to cut back the vegetation and clean up the outcrops, or just take the opportunity to visit the sites and talk about geology.
 

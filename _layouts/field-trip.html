@@ -29,9 +29,9 @@ layout: default
 	   {%- endif -%}
 	  </p>
 	  </div>
-<div id="eventLocation" class="eventInfoColumn">
+<div id="eventLocation" class="eventInfoColumn" itemprop="location">
 <h3>Location</h3>
-<p itemprop="location">{{ page.location }}</p>
+<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">{{ page.location }}</p>
 </div>
 </div>
 <hr>
