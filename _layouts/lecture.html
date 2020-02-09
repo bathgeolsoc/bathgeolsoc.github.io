@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/Event">
-
+<link itemprop="image" href="/assets/favicon-96x96.png" />
 <header class="post-header lecture-head">
     <h1 class="event-title p-name" itemprop="name">
 	{%- if page.type != 'agm' -%}
@@ -33,12 +33,12 @@ layout: default
 	{%- if page.type == 'agm' -%}
 	19:00 - 19:30
 	{%- else -%}
-	19:30 - 20:30
+	19:30 - <time class="dt-published" datetime="2020-03-05T20:30:00+00:00" itemprop="endDate">20:30</time>
 	{%- endif -%}
 	</p></div>
-<div id="eventLocation" class="eventInfoColumn" itemprop="location">
+<div id="eventLocation" class="eventInfoColumn" itemscope itemprop="location" itemtype="http://schema.org/Place">
 <h3>Location</h3>
-<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="name">Bath Royal Literary and Scientific Institution</span>, <span itemprop="streetAddress">16-18 Queen Square</span>, <span itemprop="addressLocality">Bath</span> <span itemprop="postalCode">BA1 2HN</span></p>
+<p><span itemprop="name">Bath Royal Literary and Scientific Institution</span>, <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">16-18 Queen Square</span>, <span itemprop="addressLocality">Bath</span> <span itemprop="postalCode">BA1 2HN</span></span></p>
 </div>
 </div>
 <hr>

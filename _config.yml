@@ -28,6 +28,7 @@ twitter_username: bath_geology
 facebook_username:  bathgeolsoc
 lecture_cost: £5.00
 fieldtrip_cost: £3.00
+lang: "en_GB"
 
 # Build settings
 theme: minima
