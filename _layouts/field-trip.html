@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/Event">
-
+<link itemprop="image" href="/assets/favicon-96x96.png" />
 <header class="post-header field-trip-head">
     <h1 class="event-title p-name" itemprop="name">Field Trip: {{ page.title | escape }}</h1>
     <p class="event-leader">
@@ -29,7 +29,7 @@ layout: default
 	   {%- endif -%}
 	  </p>
 	  </div>
-<div id="eventLocation" class="eventInfoColumn" itemprop="location">
+<div id="eventLocation" class="eventInfoColumn" itemscope itemprop="location" itemtype="http://schema.org/Place">
 <h3>Location</h3>
 <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">{{ page.location }}</p>
 </div>
