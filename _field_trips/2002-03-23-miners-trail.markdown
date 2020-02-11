@@ -1,6 +1,6 @@
 ---
 layout: field-trip
-title:  "The Miner's Trail, Misomer Norton and Radstock"
+title:  "The Miner's Trail, Midsomer Norton and Radstock"
 leader: "Elizabeth Devon"
 location: South Road Car Park, South Road, Midsomer Norton, BA3 2DB
 date:   '2002-03-23 10:30:00'
