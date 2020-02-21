@@ -11,8 +11,12 @@ toc:
      - page: Archive
        url: /journal/archive.html
   - title: Membership
-    url: /membership.html
-
+    id: membership-button
+    subfolderitems:
+     - page: Join the Society
+       url: /membership.html
+     - page: Member's Area
+       url: /members-area.html
   - title: Local Geology
     id: local-geology-button
     subfolderitems:

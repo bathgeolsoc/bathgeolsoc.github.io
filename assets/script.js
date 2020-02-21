@@ -4,11 +4,14 @@ const aboutButton = document.querySelector('#about-button');
 const aboutDropdown = document.querySelector('#about-button-dropdown');
 const journalButton = document.querySelector('#journal-button');
 const journalDropdown = document.querySelector('#journal-button-dropdown');
+const membershipButton = document.querySelector('#membership-button');
+const membershipDropdown = document.querySelector('#membership-button-dropdown');
 
 localGeologyButton.addEventListener('click', event => {
 	if(localGeologyDropdown.style.display === "none"){
 		aboutDropdown.style.display = "none";
 		journalDropdown.style.display = "none";
+		membershipDropdown.style.display = "none";
 		localGeologyDropdown.style.display = "block";
 	}
 	else{
@@ -20,6 +23,7 @@ aboutButton.addEventListener('click', event => {
 	if(aboutDropdown.style.display === "none"){
 		localGeologyDropdown.style.display = "none";
 		journalDropdown.style.display = "none";
+		membershipDropdown.style.display = "none";
 		aboutDropdown.style.display = "block";
 	}
 	else{
@@ -31,10 +35,23 @@ journalButton.addEventListener('click', event => {
 	if(journalDropdown.style.display === "none"){
 		localGeologyDropdown.style.display = "none";
 		aboutDropdown.style.display = "none";
+		membershipDropdown.style.display = "none";
 		journalDropdown.style.display = "block";
 	}
 	else{
 		journalDropdown.style.display = "none";
+	}
+});
+
+membershipButton.addEventListener('click', event => {
+	if(membershipDropdown.style.display === "none"){
+		localGeologyDropdown.style.display = "none";
+		aboutDropdown.style.display = "none";
+		journalDropdown.style.display = "none";
+		membershipDropdown.style.display = "block";
+	}
+	else{
+		membershipDropdown.style.display = "none";
 	}
 });
 

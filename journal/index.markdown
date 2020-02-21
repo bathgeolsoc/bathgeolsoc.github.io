@@ -3,7 +3,7 @@ layout: journal-main
 title: Journal No. 37, 2019 Out Now!
 ---
 <img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2019-cover.jpg">
-<a href="/membership" class="standard-button">Get Access</a>
+<a href="/members-area.html" class="standard-button">Get Access</a>
 
 <h3>Contents</h3>
 <ol class="contents-list">

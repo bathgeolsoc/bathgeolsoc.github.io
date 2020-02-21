@@ -3,13 +3,6 @@ layout: default
 ---
 
 <div class="home">
-{% if site.data.news.posts.size > 0 %}
-<div class="home-section" id="news-section">
-{% for news_post in site.data.news.posts %}
-<a target="_blank" href="{{news_post.url}}">{{ news_post.headline }}</a>
-{% endfor %}
-</div>
-{% endif %}
 <div class="home-section" id="lecture-section">
 <h2>Next Lecture: <a id="lecture-title" href="{{ lecture.url }}"></a></h2>
 <h3>Speaker: <span id="lecture-speaker"></span></h3>
@@ -20,6 +13,13 @@ layout: default
 <h3>Leader: <span id="trip-leader"></span></h3>
 <p id="trip-date"></p>
 </div>
+{% if site.data.news.posts.size > 0 %}
+<div class="home-section" id="news-section">
+{% for news_post in site.data.news.posts %}
+<a target="_blank" href="{{news_post.url}}">{{ news_post.headline }}</a>
+{% endfor %}
+</div>
+{% endif %}
 <div class="home-section" id="join-section">
 <h2 class="content-title">Join Bath Geological Society</h2>
 <p>Key benefits:</p>
