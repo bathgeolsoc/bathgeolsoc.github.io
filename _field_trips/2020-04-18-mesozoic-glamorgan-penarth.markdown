@@ -1,4 +1,5 @@
 ---
+published: false
 layout: field-trip
 title:  "Mesozoic of Glamorgan, South Wales, Penarth and Bendrick Rocks, Sully"
 leader: "Prof. Maurice Tucker, University of Bristol and BGS"
