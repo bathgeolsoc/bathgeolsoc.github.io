@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="home">
+<div class="home-section news-section" id="breaking-news-section">
+{% for breaking_news_post in site.data.breaking_news.posts %}
+<a target="_blank" href="{{news_post.url}}">{{ breaking_news_post.headline }}</a>
+{% endfor %}
+</div>
 <div class="home-section" id="lecture-section">
 <h2>Next Lecture: <a id="lecture-title" href="{{ lecture.url }}"></a></h2>
 <h3>Speaker: <span id="lecture-speaker"></span></h3>
@@ -14,7 +19,7 @@ layout: default
 <p id="trip-date"></p>
 </div>
 {% if site.data.news.posts.size > 0 %}
-<div class="home-section" id="news-section">
+<div class="home-section news-section">
 {% for news_post in site.data.news.posts %}
 <a target="_blank" href="{{news_post.url}}">{{ news_post.headline }}</a>
 {% endfor %}
