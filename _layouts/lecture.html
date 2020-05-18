@@ -38,7 +38,13 @@ layout: default
 	</p></div>
 <div id="eventLocation" class="eventInfoColumn" itemscope itemprop="location" itemtype="http://schema.org/Place">
 <h3>Location</h3>
-<p><span itemprop="name">Bath Royal Literary and Scientific Institution</span>, <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">16-18 Queen Square</span>, <span itemprop="addressLocality">Bath</span> <span itemprop="postalCode">BA1 2HN</span></span></p>
+<p>
+{%- if page.location -%}
+<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">{{ page.location }}</p>
+{%- else -%}
+<span itemprop="name">Bath Royal Literary and Scientific Institution</span>, <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">16-18 Queen Square</span>, <span itemprop="addressLocality">Bath</span> <span itemprop="postalCode">BA1 2HN</span></span>
+{%- endif -%}
+</p>
 </div>
 </div>
 <hr>
