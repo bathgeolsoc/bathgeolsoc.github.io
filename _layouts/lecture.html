@@ -19,7 +19,13 @@ layout: default
 <h3>Entry Fee</h3>
 <p>Members: Free</p>
 	{%- if page.type != 'agm' -%}
-<p>Visitors: {{ site.lecture_cost }}</p>
+<p>
+{%- if page.visitor_cost -%}
+Visitors: {{ page.visitor_cost }}
+{%- else -%}
+Visitors: {{ site.lecture_cost }}
+{%- endif -%}
+</p>
 	{%- endif -%}
 </div>
 <div id="eventDateTime" class="eventInfoColumn">      

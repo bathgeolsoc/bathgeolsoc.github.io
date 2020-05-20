@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 <div class="home-section news-section" id="breaking-news-section">
 {% for breaking_news_post in site.data.breaking_news.posts %}
-<a target="_blank" href="{{news_post.url}}">{{ breaking_news_post.headline }}</a>
+<a target="_blank" href="{{breaking_news_post.url}}">{{ breaking_news_post.headline }}</a>
 {% endfor %}
 </div>
 <div class="home-section" id="lecture-section">
