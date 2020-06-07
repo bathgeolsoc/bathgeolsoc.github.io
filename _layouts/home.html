@@ -3,11 +3,13 @@ layout: default
 ---
 
 <div class="home">
+{% if site.data.breaking_news.posts.size > 0 %}
 <div class="home-section news-section" id="breaking-news-section">
 {% for breaking_news_post in site.data.breaking_news.posts %}
 <a target="_blank" href="{{breaking_news_post.url}}">{{ breaking_news_post.headline }}</a>
 {% endfor %}
 </div>
+{% endif %}
 <div class="home-section" id="lecture-section">
 <h2>Next Lecture: <a id="lecture-title" href="{{ lecture.url }}"></a></h2>
 <h3>Speaker: <span id="lecture-speaker"></span></h3>
