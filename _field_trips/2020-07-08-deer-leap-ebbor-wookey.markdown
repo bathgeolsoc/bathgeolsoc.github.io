@@ -8,6 +8,7 @@ latitude: 51.24064
 longitude: -2.690464
 #precise zoom: 0.005, inprecise zoom: 0.5
 zoom: 0.005
+published: false
 ---
 The first BGS field trip, held fifty years ago, was to Ebbor Gorge. Our return visit this year includes Deer Leap and Wookey Hole.
 
