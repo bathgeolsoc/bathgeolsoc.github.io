@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title:  "TBC"
-speaker: "TBC"
+speaker: "Prof Tim Elliott FRS"
 date:   '2020-12-03 19:30:00'
 ---
-Details TBC.
+Description coming soon.
