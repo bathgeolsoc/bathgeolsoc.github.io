@@ -68,9 +68,11 @@ Visitors: {{ site.lecture_cost }}
 <a target="_blank" class="social-share-link" href = "whatsapp://send?text={{ page.url }}">Share on Whatsapp</a>
 </div>
 <hr>
+{%- if page.location != 'Virtual Talk via Zoom' -%}
 <div class="event-map">
 <h3>Location Map</h3>
 <iframe style="pointer-events: none;" width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.3732936382293706%2C51.380365933529596%2C-2.355376482009888%2C51.386157931236696&amp;layer=mapnik&amp;marker=51.38326537198559%2C-2.364335060119629" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.38327&amp;mlon=-2.36434#map=17/51.38326/-2.36434">View Larger Map</a></small>
 </div>
+{%- endif -%}
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
