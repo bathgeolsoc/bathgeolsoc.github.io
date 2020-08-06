@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title:  "Whin Sill intrusion & Geology of the Alston Block"
-speaker: "Dr Doug Robinson"
+speaker: "Dr Doug Robinson, University of Bristol"
 date:   '2020-09-03 19:00:00'
 location: 'Virtual Talk via Zoom'
 visitor_cost: '£2 donation'
