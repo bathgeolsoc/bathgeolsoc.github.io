@@ -2,6 +2,9 @@
 layout: page
 title: Member's Area
 ---
+<h3>August 6th 2020 Lecture (via Zoom): The Isle of Arran by Stuart Blake</h3>
+<a download href="Geotalk on Arran 2020.pdf" class="standard-button">Download the Slides Now</a>
+<hr>
 <h3>July 2nd 2020 Lecture (via Zoom): Ammonites from Mythology & Folklore to Geological Relevance by Dr Mick Oates</h3>
 <a download href="BGS-Zoom-lecture-Ammonites-Dr-Oates-7-7-2020.pdf" class="standard-button">Download the Slides Now</a>
 <hr>
