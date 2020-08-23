@@ -18,9 +18,7 @@ Dr Doug Robinson is a local geologist and retired lecturer from Bristol Universi
     background-color: rgb(242, 242, 242);
     max-width: 492px;
     margin: auto;
-    padding: 10px;
-    line-height: 40px;">To register please email: <a href="mailto:programme@bathgeolsoc.org.uk">programme@bathgeolsoc.org.uk</a><br>
-We will send you joining instructions and the Zoom meeting info.</div>
+    padding: 10px;">If, as a non-member you would like to register for this lecture and would like to make a donation to the Bath Geological Society in lieu of paying for a ticket then please visit our eventbrite page <a href="https://www.eventbrite.co.uk/e/whin-sill-intrusion-and-geology-of-the-alston-block-tickets-116206664261">HERE</a>.<br><br>Alternatively, if you do not wish to make a donation you can register by contacting <a href="mailto:programme@bathgeolsoc.org.uk">programme@bathgeolsoc.org.uk</a>.<br><br>Thank you for your support of the Bath Geological Society.</div>
 
 <br>
 ### About the Alston Block
