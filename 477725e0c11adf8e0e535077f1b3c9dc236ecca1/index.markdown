@@ -2,6 +2,9 @@
 layout: page
 title: Member's Area
 ---
+<h3>September 3rd 2020 Lecture (via Zoom): Whin Sill intrusion & Geology of the Alston Block by Dr Doug Robinson</h3>
+<a download href="Alston-Block-Geology-Slides.pdf" class="standard-button">Download the Slides Now</a>
+<hr>
 <h3>August 6th 2020 Lecture (via Zoom): The Isle of Arran by Stuart Blake</h3>
 <a download href="Geotalk on Arran 2020.pdf" class="standard-button">Download the Slides Now</a>
 <hr>
