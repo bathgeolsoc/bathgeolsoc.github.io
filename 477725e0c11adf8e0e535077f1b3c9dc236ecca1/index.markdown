@@ -2,6 +2,9 @@
 layout: page
 title: Member's Area
 ---
+<h3>October 1st 2020 Lecture (via Zoom): What is a geological disposal facility and what opportunities does it present for the geoscience community? by Jonathan P Turner</h3>
+<a download href="BathGeolSocOct2020.pdf" class="standard-button">Download the Slides Now</a>
+<hr>
 <h3>September 3rd 2020 Lecture (via Zoom): Whin Sill intrusion & Geology of the Alston Block by Dr Doug Robinson</h3>
 <a download href="Alston-Block-Geology-Slides.pdf" class="standard-button">Download the Slides Now</a>
 <hr>

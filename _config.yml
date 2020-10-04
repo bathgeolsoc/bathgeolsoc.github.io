@@ -21,7 +21,7 @@
 title: Bath Geological Society
 email: webmaster@bathgeolsoc.org.uk
 description: >- # this means to ignore newlines until "baseurl:"
- Bath Geological Society is an active and flourishing organisation with over 80 enthusiastic members whose ages range from 17 to 90. Our membership includes every type of geologist from recreational fossil-hunters to academic and professional geologists.
+ Bath Geological Society is an active and flourishing organisation with about 50 enthusiastic members whose ages range from 17 to 90. Our membership includes every type of geologist from recreational fossil-hunters to academic and professional geologists.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bathgeolsoc.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bath_geology

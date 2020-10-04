@@ -4,7 +4,7 @@ title: About the Bath Geological Society
 ---
 
 <h4>Who Are We?</h4>
-Bath Geological Society is an active and flourishing organisation with over 80 enthusiastic members whose ages range from 17 to 90. Our membership includes every type of geologist from recreational fossil-hunters to academic and professional geologists.
+Bath Geological Society is an active and flourishing organisation with about 50 enthusiastic members whose ages range from 17 to 90. Our membership includes every type of geologist from recreational fossil-hunters to academic and professional geologists.
 
 <h4>Where and When Do We Meet?</h4>
 We meet at 16 Queen Square, Bath at the kind invitation of the <a target="_blank" href="https://www.brlsi.org/">Bath Royal Literary and Scientfic Institution</a>. Meetings are held at 7.30 p.m. on the first Thursday of every month except January and August. The AGM is held in February.
