@@ -45,6 +45,13 @@ collections:
     permalink: /field-trips/:name
 
 future: true
+
+defaults:
+  -
+    scope:
+      path:            "477725e0c11adf8e0e535077f1b3c9dc236ecca1"
+    values:
+      sitemap:         false
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
