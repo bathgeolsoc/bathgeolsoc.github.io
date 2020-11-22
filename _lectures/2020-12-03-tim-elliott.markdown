@@ -4,7 +4,7 @@ title:  "Recipes for Making the Earth"
 speaker: "Prof Tim Elliott, FRS, University of Bristol"
 date:   '2020-12-03 19:00:00'
 location: 'Virtual Talk via Zoom'
-visitor_cost: 'Eventbrite booking available soon'
+visitor_cost: '<a href="https://www.eventbrite.co.uk/e/recipes-for-making-the-earth-tickets-129993452917">Book via Eventbrite</a>'
 ---
 <img style="margin: auto; display: block; width: 500px;" src="/assets/December-talk-image.jpg">
 
