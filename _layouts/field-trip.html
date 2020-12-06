@@ -14,7 +14,11 @@ layout: default
 <div id="eventCost" class="eventInfoColumn">
 <h3>Entry Fee</h3>
 <p>Members: Free</p>
-<p>Visitors: {{ site.fieldtrip_cost }}</p>
+<p>{%- if page.visitor_cost -%}
+Visitors: {{ page.visitor_cost }}
+{%- else -%}
+Visitors: {{ site.fieldtrip_cost }}
+{%- endif -%}</p>
 </div>
 <div id="eventDateTime" class="eventInfoColumn">      
 <h3>Date and Time</h3>
