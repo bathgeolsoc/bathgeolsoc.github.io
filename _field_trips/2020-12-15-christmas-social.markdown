@@ -14,13 +14,7 @@ Raise your glass with us and celebrate the close of 2020. We will try out a shor
 
 <strong>Time:</strong> Dec 15, 2020 07:00 PM London
 
-<strong>Join Zoom Meeting</strong>
-
-<a href="https://us02web.zoom.us/j/88537175894?pwd=eUREQmtGYzIzekkzekNuZHdCaVNLUT09">https://us02web.zoom.us/j/88537175894?pwd=eUREQmtGYzIzekkzekNuZHdCaVNLUT09</a>
-
-<strong>Meeting ID:</strong> 885 3717 5894
-
-<strong>Passcode:</strong> 003 783
+<strong>To get access to the Zoom meeting please email webmaster@bathgeolsoc.org.uk</strong>
 
 <strong>On the evening</strong>
 <ul>
