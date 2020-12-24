@@ -2,6 +2,10 @@
 layout: page
 title: Member's Area
 ---
+<h3>2020 Journal</h3>
+<img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2020-cover.jpg">
+<a download href="Bath Geological Society Journal No 38, 2020.pdf" class="standard-button">Download Now</a>
+<hr>
 <h3>November 5th 2020 Lecture (via Zoom): 'Exploring Ichthyosaurs in the 21st Century' by Ben Moon</h3>
 <a download href="Bath-Geol-Soc-Nov-2020-Slides.pdf" class="standard-button">Download the Slides Now</a>
 <hr>
