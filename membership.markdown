@@ -8,7 +8,7 @@ title: Join the Bath Geological Society
 <li>A copy of our professionally produced annual Journal.</li></ul>
 <hr class="full-hr">
 <h3>Pricing</h3>
-<i>For the period 1st January - 31st December 2020</i>
+<i>For the period 1st January - 31st December 2021</i>
 <table>
 <tr>
 <td>Annual adult subscription</td><td>£30.00</td>
