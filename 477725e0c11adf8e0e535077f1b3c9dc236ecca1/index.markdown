@@ -2,6 +2,9 @@
 layout: page
 title: Member's Area
 ---
+<h3>January 7th 2021 Lecture (via Zoom): 'Fossil Viruses' by Maurice Tucker</h3>
+<a download href="Bath-Geol-Soc-Jan-2021-Slides.pdf" class="standard-button">Download the Slides Now</a>
+<hr>
 <h3>2020 Journal</h3>
 <img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2020-cover.jpg">
 <a download href="Bath Geological Society Journal No 38, 2020.pdf" class="standard-button">Download Now</a>
