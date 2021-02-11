@@ -6,7 +6,7 @@ title: Officers
 <p><strong>Chairman</strong> - Graham Hickman
 <br><a href="mailto:chairman@bathgeolsoc.org.uk">chairman@bathgeolsoc.org.uk</a></p>
 
-<p><strong>Administrative Secretary</strong> - Polly Sternbauer
+<p><strong>Administrative Secretary</strong> - Katie Munday
 <br><a href="mailto:secretary@bathgeolsoc.org.uk">secretary@bathgeolsoc.org.uk</a></p>
 
 <p><strong>Membership Secretary</strong> - Polly Sternbauer
