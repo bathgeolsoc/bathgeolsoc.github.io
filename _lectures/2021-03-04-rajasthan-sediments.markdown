@@ -3,6 +3,7 @@ layout: lecture
 title:  "Sediments in Rajasthan, India"
 speaker: "Dr. Hazel Beaumont, University of the West of England"
 date:   '2021-03-04 19:00:00'
+visitor_cost: '<a target="_blank" href="https://www.eventbrite.co.uk/e/fluvial-sediments-in-rajasthan-india-tickets-141115286621">Book via Eventbrite</a>'
 ---
 <img style="margin: auto; display: block; width: 500px;" src="/assets/Hazel Beaumont image 2 regional tectonics.jpg">
 
