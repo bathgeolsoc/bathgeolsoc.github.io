@@ -3,7 +3,6 @@ layout: field-trip
 title:  "Brown's Folly Nature Reserve"
 leader: "Graham Hickman, Bath Geological Society"
 location: Brown's Folly Car Park, Bathford, Bradford-on-Avon BA1 8EA
-date:   2021-03-06 10:30:00 +0000
 latitude: 51.39615326183019
 longitude: -2.292022705078125
 #precise zoom: 0.005, inprecise zoom: 0.5
