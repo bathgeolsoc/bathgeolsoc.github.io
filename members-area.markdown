@@ -16,6 +16,8 @@ height: 360px;
 <div id="loginbutton" class="standard-button" type="button">Log In</div>
 <p id="wrongPassword" style="display: none">wrong password</p>
 <a href="/membership.html" class="standard-button">Register</a>
+<br>
+<p>If you are a current member and have forgotten your password, please email <a href="mailto:webmaster@bathgeolsoc.org.uk">webmaster@bathgeolsoc.org.uk</a> to get a reminder.</p>
 </div>
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js">
 </script>
