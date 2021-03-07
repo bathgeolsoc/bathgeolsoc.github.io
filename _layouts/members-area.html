@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+  </header>
+<div class="journal-search-bar search-bar">
+<label for="searchfield">Search</label>
+<form id="searchform" onsubmit="return false">
+<input placeholder="Search member's area" type="text" id="searchfield" name="search" value size="30" maxlength="128">
+<input type="submit" class="invisible">
+		</form>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <label for="edit-start">Year</label>
+  <select id="year-select" onchange="filterEvents()">
+    <option value="" selected>All</option>
+  {% if site.data.members_area.size > 0 %}
+  {% assign articleDateList = site.data.members_area | sort: 'year' | reverse %}
+  {% assign currentyear = 0 %}
+  {% for article in articleDateList %}
+  {% assign articleyear = article.year %}
+  {% if currentyear!=articleyear %}
+  {% assign currentyear = articleyear %}
+	  <option value="{{ currentyear }}">{{ currentyear }}</option>
+  {% endif %}
+{% endfor %}
+{% endif %}
+  </select>
+  <label for="type">Type</label>
+  <select id="type-select" onchange="filterEvents()">
+  <option value="">All</option>
+  {% if site.data.members_area.size > 0 %}
+  {% assign articleTypeList = site.data.members_area | sort: 'type' %}
+  {% assign currentType = '' %}
+	{% for article in articleTypeList %}
+  {% if currentType!=article.type %}
+  {% assign currentType = article.type %}
+  <option value="{{ currentType }}">{{ currentType }}</option>
+  {% endif %}
+{% endfor %}
+{% endif %}
+</select>
+  <p class="searchcount"></p>
+</div>
+<br>
+<div id="article-results">
+</div>  
+<script>
+window.store = [
+	{% for members_item in site.data.members_area %} {
+		"title": {{members_item.title | jsonify}},
+		"subtitle": {{ members_item.subtitle | jsonify }},
+		"year": {{members_item.year | jsonify }},
+		"type": {{ members_item.type | jsonify }},
+		"url": {{ members_item.url | jsonify }},
+		"image": {{ members_item.image | jsonify }},
+		"imageheight": {{ members_item.imageheight | jsonify }}
+	}
+	{% unless forloop.last %}, {% endunless %}
+	{% endfor %}
+]
+</script>
+<script type="text/javascript" src="/assets/search-members-area.js"></script>

@@ -51,7 +51,7 @@ var showResults = (result) => {
       searchitem.className = 'searchitem';
       searchitem.innerHTML = `<p class="journal-result-small">${window.store[ref].year} | Topic: ${window.store[ref].topic}</p>
 	  <h2 class="journal-result-large"><a target="_blank" href="{{ site.baseurl }}/journal/articles/${window.store[ref].url}">${window.store[ref].title}</a></h2>
-	  <p class="journal-result-small grey-text">${window.store[ref].author}</h2>
+	  <p class="journal-result-small grey-text">${window.store[ref].author}</p>
 	  <p class="journal-result-small" id="journal-result-issue"><i>Bath Geological Society Journal</i> <strong>${window.store[ref].issue}</strong>, ${window.store[ref].page}</p>
 	  <hr>`;
 
@@ -82,7 +82,7 @@ if(selectedTopic.length>0){
       searchitem.className = 'searchitem';
       searchitem.innerHTML = `<p class="journal-result-small">${item.year} | Topic: ${item.topic}</p>
 	  <h2 class="journal-result-large"><a target="_blank" href="{{ site.baseurl }}/journal/articles/${item.url}">${item.title}</a></h2>
-	  <p class="journal-result-small grey-text">${item.author}</h2>
+	  <p class="journal-result-small grey-text">${item.author}</p>
 	  <p class="journal-result-small" id="journal-result-issue"><i>Bath Geological Society Journal</i> <strong>${item.issue}</strong>, ${item.page}</p>
 	  <hr>`;
 

@@ -49,7 +49,7 @@ future: true
 defaults:
   -
     scope:
-      path:            "477725e0c11adf8e0e535077f1b3c9dc236ecca1"
+      path:            "50852f1bd1d11599335ccff149597d396118e9d7"
     values:
       sitemap:         false
 # Exclude from processing.
