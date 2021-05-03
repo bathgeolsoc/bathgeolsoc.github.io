@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header" id="journal-article-header">
+    <h1>{{ page.title | escape }}</h1>
+	<div class="author-list">{{ page.author }}</div>
+	<div class="citation-details"><em>Bath Geological Society Journal</em>, Volume {{ page.volume }}, {{ page.year }}, Pages {{ page.page }}</div>
+	<div class="article-links">
+	<div>PDF</div>
+	<div>Cite</div>
+	<div>Share</div>
+	</div>
+	<hr>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
