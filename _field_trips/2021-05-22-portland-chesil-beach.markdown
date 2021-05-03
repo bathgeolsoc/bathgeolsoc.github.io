@@ -10,10 +10,9 @@ longitude: -2.4343209
 zoom: 0.5
 ---
 <img style="float:right; max-width: 50%; margin: 10px;" src="/assets/chesil-beach.png">
-NOTE: We are planning this field trip on the basis that COVID-19 Restrictions from May 17th will allow for a group of up to 30 people
-to meet up outside. If the restrictions are not lifted the trip will be postponed.
+<span style="color: red;">NOTE: We are planning this field trip on the basis that COVID-19 Restrictions from May 17th will allow for a group of up to 30 people to meet up outside. If the restrictions are not lifted the trip will be postponed.</span>
 
-To register please email Bob Mustow at field@bathgeolsoc.org.uk. Joining instructions and meet up location will be given on Registration
+To register please email Bob Mustow at <a href="sendto:field@bathgeolsoc.org.uk">field@bathgeolsoc.org.uk</a>. Joining instructions and meet up location will be given on Registration
 
 The plan is to visit the outcrops around Pulpit Rock and then walk up the spectacular east coast to Freshwater Bay, returning to the Bill via Sweet Hill and the medieval fields. We shall see 2 raised beaches from the last two interglacial times (125 and 250kyr), many coastal landforms (wave-cut platforms, blow-holes, sea-caves), the Upper Jurassic-Lower Cretaceous Portland-Purbeck strata with fossils, microbiolites, and the effects and relicts of quarrying the Portland stone.
 
