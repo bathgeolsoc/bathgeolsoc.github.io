@@ -3,5 +3,6 @@ layout: lecture
 title:  "TBC"
 speaker: "TBC"
 date:   '2021-08-05 19:00:00'
+location: 'Virtual Talk via Zoom'
 ---
 To be confirmed: Normally the Society doesn’t hold lectures in August, however these are unprecedented times...if held it will be on Zoom.

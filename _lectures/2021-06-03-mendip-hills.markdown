@@ -3,6 +3,8 @@ layout: lecture
 title:  "The Making of the Mendip Hills"
 speaker: "Dr Doug Robinson, University of Bristol"
 date:   '2021-06-03 19:00:00'
+visitor_cost: '<a target="_blank" href="https://www.eventbrite.co.uk/e/the-making-of-the-mendip-hills-tickets-155504226327">Book via Eventbrite</a>'
+location: 'Virtual Talk via Zoom'
 ---
 A 200 million year, 6,000 km journey from the southern tropics across the equator into northern latitudes. 
 

@@ -3,6 +3,7 @@ layout: lecture
 title:  "Snake and lizards through time: what fossils and molecular data can (and cannot) tell us"
 speaker: "Dr. Catherine Klein, formerly of the University of Bath"
 date:   '2021-04-08 19:00:00'
+location: 'Virtual Talk via Zoom'
 visitor_cost: '<a target="_blank" href="https://www.eventbrite.co.uk/e/snakes-and-lizards-through-time-tickets-144666510427">Book via Eventbrite</a>'
 ---
 <img src="/assets/April 2021 Catherine Klein Image BathGeolTalk_2021.jpg">
