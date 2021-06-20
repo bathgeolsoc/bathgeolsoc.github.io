@@ -3,7 +3,7 @@ layout: lecture
 title:  "The Forensic use of calcareous microfossils, with particular reference to the Soham murder case"
 speaker: "Dr. Haydon W. Bailey, Network Stratigraphic Consulting Ltd. (Retired), Scientific Associate, Natural History Museum, London"
 date:   '2021-07-01 19:00:00'
-visitor_cost: 'TBC'
+visitor_cost: '<a target="_blank" href="https://www.eventbrite.co.uk/e/the-forensic-use-of-calcareous-microfossils-tickets-159965455985">Book via Eventbrite</a>'
 location: 'Virtual Talk via Zoom'
 ---
 <strong>With major contributions from Dr. Liam Gallagher and Matthew Hampton, Network Stratigraphic Consulting Ltd.</strong>
