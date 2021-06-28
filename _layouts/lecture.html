@@ -32,7 +32,7 @@ Visitors: {{ site.lecture_cost }}
 <h3>Date and Time</h3>
 <p>
 <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="startDate">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- assign date_format = site.minima.date_format | default: "%A, %b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time></p>
 	<p>

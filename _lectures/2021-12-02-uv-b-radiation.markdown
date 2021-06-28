@@ -1,7 +1,10 @@
 ---
 layout: lecture
-title:  "UV-B Radiation and the End Devonian extinction"
-speaker: "Professor John Marshall, University of Southampton"
+title:  "UV-B radiation was the terrestrial killer at the Devonian-Carboniferous boundary"
+speaker: "Professor John Marshall, School of Ocean &amp; Earth Science, University of Southampton"
 date:   '2021-12-02 19:00:00'
 ---
-Description coming soon.
+<p style="float: left; width: 64%;">Some 359 million years ago there was a terrestrial mass extinction at the boundary between the Devonian and Carboniferous Periods. Major extinctions include all the armoured fish and important land plants groups. In East Greenland there are a number of localities where we can find the terrestrial extinction layer. These were in the arid centre of the Old Red Sandstone Continent some 1000 km from the sea. The boundary is found in a large deep wide lake that represents a highly active monsoon system showing the climate was globally warm. It is from these lake deposits that we can isolate the tough outer wall layers of pollen and spores that normally protect the cellular DNA from UV radiation. In the middle of the lake bed there are malformed pollen and spores that demonstrate that the extinction was coincident with elevated UV-B radiation and a reduced protective ozone layer. Mercury analyses show there is no evidence for continental scale volcanic eruptions as were responsible for the end Permian, end Triassic and Late Devonian mass extinctions. A possible cause of ozone loss is increased transport of naturally ozone destroying chemicals into the atmosphere. An important conclusion is that ozone loss during rapid warming is inherent in the Earth System and that we should be alert for the same process occurring in our rapidly warming world. Other suggested and now restated causes include a cosmic ray blast from an exploding star, i.e. a supernova.</p>
+<img style="float: right; margin-left: 15px; width: 30%;" src="/assets/John_Marshall_Dec_2021_image_1.jpg">
+
+<img style="margin:auto; display: block; margin-top: 10px;" src="/assets/John_Marshall_Dec_2021_Ian Troth on section studied on Rebild Bakker.jpg">
