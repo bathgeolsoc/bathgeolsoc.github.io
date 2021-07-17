@@ -2,7 +2,7 @@
 layout: lecture
 title:  "The 'real' value of microfossils"
 speaker: "Dr. Haydon W. Bailey, Consultant Micropalaeontologist & Honorary Lecturer, University of Birmingham"
-date:   '2022-10-07 19:00:00'
+date:   '2022-10-06 19:00:00'
 ---
 Micropalaeontology or the study of microfossils may initially seem an esoteric subject for a desk bound academic; but if your thinking is along these lines then you couldn’t be further from the truth. These microscopic sized fossils can be integral to major engineering projects, can result in helicopter flights to oil rigs around the world and also to detailed forensic studies as part of serious criminal investigations or simple art restoration. The information they provide can act as a proxy for past climate change and consequently as an indicator of the changes which may await us in the future.
 
