@@ -13,3 +13,9 @@ by 30%. With oil prices on the rise once again, the micropalaeontologist can hav
 
 In addition they were used to define the foundations of the Thames Barrier and to steer the tunnelling machines which cut the Channel Tunnel. How can you put a value on these? Closer to home, they’re present in pharmaceuticals, in your breakfast cereals and in your
 supper drinks. Definite food for thought!
+
+<img src='/assets/Haydon_Bailey_October_2022.jpg' style='display: block; margin: auto;'>
+
+<img src='/assets/Hazel Beaumont Image 1.jpg' style='display: block; margin: auto;'>
+
+<img src='/assets/Haydon_Bailey_October_2022_Sign_at_Nat_Hist_Museum.jpg' style='display: block; margin: auto;'>
