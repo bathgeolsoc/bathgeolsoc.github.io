@@ -27,7 +27,11 @@ Visitors: {{ site.fieldtrip_cost }}
         {%- assign date_format = site.minima.date_format | default: "%A, %b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time></p>
-	  <p>{{ page.date | date: "%R" }}
+	  <p>
+	  {%- assign time = page.date | date: "%R" -%}
+	  {%- if time != "00:00" -%}
+	  {{ time }}
+	  {%- endif -%}
 	  {%- if page.enddate -%}
 	  -<time class="dt-published" datetime="{{ page.enddate | date_to_xmlschema }}" itemprop="startDate">{{ page.enddate | date: "%R" }}</time>
 	   {%- endif -%}
@@ -55,7 +59,7 @@ Visitors: {{ site.fieldtrip_cost }}
 <hr>
 <div class="event-map">
 <h3>Location Map</h3>
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox={{ page.longitude | minus: page.zoom}}%2C{{ page.latitude | minus: page.zoom}}%2C{{ page.longitude | plus: page.zoom}}%2C{{ page.latitude | plus: page.zoom}}&amp;layer=mapnik&amp;marker={{ page.latitude }}%2C{{ page.longitude }}" style="pointer-events: none;"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat={{ page.latitude }}&amp;mlon={{ page.longitude }}#map=16/{{ page.latitude }}/{{ page.longitude }}">View Larger Map</a></small>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox={{ page.longitude | minus: page.zoom}}%2C{{ page.latitude | minus: page.zoom}}%2C{{ page.longitude | plus: page.zoom}}%2C{{ page.latitude | plus: page.zoom}}&amp;layer=mapnik&amp;" style="pointer-events: none;"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat={{ page.latitude }}&amp;mlon={{ page.longitude }}#map=16/{{ page.latitude }}/{{ page.longitude }}">View Larger Map</a></small>
 </div>
 <hr>
 <div>
