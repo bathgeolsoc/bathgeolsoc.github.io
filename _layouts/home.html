@@ -52,7 +52,7 @@ window.fieldtrips = [{% for fieldtrip in fieldtriplist %}{% assign postyear = fi
 		"title": {{fieldtrip.title | jsonify}},
 		"leader": {{fieldtrip.leader | jsonify}},
 		"datetime": {{fieldtrip.date | date: "%s"}},
-		"date": {{ fieldtrip.date | date: "%R %A, %d %B %Y" | jsonify}},
+		"date": {{ fieldtrip.date | date: "%A, %d %B %Y" | jsonify}},
 		"url": "{{ fieldtrip.url }}"
 	}{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}]
 
