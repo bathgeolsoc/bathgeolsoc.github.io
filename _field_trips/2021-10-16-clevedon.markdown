@@ -1,0 +1,28 @@
+---
+layout: field-trip
+title:  "Field Trip to Clevedon"
+leader: "Maurice Tucker"
+location: Clevedon
+date:   2021-10-16
+latitude: 51.4289783
+longitude: -2.9047243
+#precise zoom: 0.005, inprecise zoom: 0.5
+zoom: 0.05
+---
+<img src="/assets/clevedon-pier.png">
+
+On this fieldtrip we will look at the complex but fascinating geological history of the Clevedon area in the vicinity of the pier and beach with its Devonian, Carboniferous and Triassic rocks and Jurassic faulting and mineralisation. After lunch we will take the cliff-top coastal path north to Ladye Bay and Walton Bay (2 miles), to see the Devonian Old Red Sandstone and overlying Triassic scree-fluvial Dolomitic Conglomerate and lake-margin oolites with a backdrop of the wonderful views across the Bristol Channel to Wales. Returning back to Clevedon by the same path. We will also see the effects of sea-level and climate change of the last million years on the coastal landscape, in wave-cut platforms and raised beaches.
+
+Clevedon Pier itself is an interesting place, a grade 1 listed construction, opened 1869, described by John Betjeman as the most beautiful pier in England and winner of the best pier of the year award 2021. Entry is £3.50 and it opens at 10.30. Café at the end of pier too. See you there.
+
+There are free parking places by the beach just before the pier or continue up the hill past the pier (going N) and park in the street towards Ladye Bay.
+
+<strong>Meet at 10.30am. Bring a packed lunch or eat in one of the cafés. We will aim to finish 4-4:30pm.</strong>
+
+<div style="    border: 1px solid black;
+    padding: 5px;
+    background-color: #e5e5e5;
+    max-width: 600px;
+    text-align: center;
+    margin: auto;">To register please email Bob Mustow at <a href="mailto:field@bathgeolsoc.org.uk">field@bathgeolsoc.org.uk</a><br>
+Joining instructions and meet up location will be given on Registration</div>
