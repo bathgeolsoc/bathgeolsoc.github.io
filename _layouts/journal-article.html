@@ -1,22 +1,31 @@
 ---
 layout: default
 ---
-<article class="post">
+<article class="post journal-article">
 
   <header class="post-header" id="journal-article-header">
+  <div id="journal-article-left-column">
+  <div id="journal-article-name">
     <h1>{{ page.title | escape }}</h1>
-	<div class="author-list">{{ page.author }}</div>
+	<div class="author-list"><a href="/journal/archive.html?search={{ page.author }}">{{ page.author }}</a></div>
 	<div class="citation-details"><em>Bath Geological Society Journal</em>, Volume {{ page.volume }}, {{ page.year }}, Pages {{ page.page }}</div>
-	<div class="article-links">
-	<div>PDF</div>
-	<div>Cite</div>
-	<div>Share</div>
 	</div>
-	<hr>
+	<div class="article-links">
+	<div><a class="social-share-link" href="#" id="print-button" onclick="window.print()">Print</a></div>
+	<div><a target="_blank" class="social-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}">Share on Facebook</a></div>
+	<div><a target="_blank" class="social-share-link" href="https://twitter.com/intent/tweet?text=Check%20out%20%22A%20{{ page.title }}%22%20{{ site.url }}{{ page.url }}">Share on Twitter</a></div>
+	<div><a target='_blank' class="social-share-link" href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ page.url }}" title="Email Sharing">Share by Email</a></div>
+	</div>
+	</div>
+	<div id="journal-article-right-column">
+	<img id="journal-article-cover" src="/assets/journal-covers/Bath-GS-Journal-{{ page.year }}-cover-thumb.jpg">
+	</div>
   </header>
-
+	<hr>
   <div class="post-content">
     {{ content }}
+	<hr>
+	<h4>References</h4>
+	<br>
   </div>
-
 </article>

@@ -95,4 +95,13 @@ function selectElement(id, valueToSelect) {
     element.value = valueToSelect;
 }
 
+function getSearchTerm(){
+	if(window.location.search.substring(0,8)=="?search="){
+		var searchTerm = window.location.search.slice(8).replace(/%20/g, " ");
+		searchfield.value = searchTerm;
+		doSearch(searchTerm);
+	}
+}
+
 filterEvents();
+getSearchTerm();

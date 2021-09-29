@@ -25,9 +25,9 @@ The Inaugural meeting of the Bath Geological Society was held on the 25th Septem
 
 The first Annual General Meeting was held on the 134th May 1971 in the Kimball Room at 18 Queen Square. At the meeting a consitution was approved and the first officers and committee members were elected. They were:
 
-CHAIRMAN 	Mr Robert Whitaker
-SECRETARY 	Miss Ann Davison
-TREASURER 	Mr David Robertson
+CHAIRMAN 	Mr Robert Whitaker<br>
+SECRETARY 	Miss Ann Davison<br>
+TREASURER 	Mr David Robertson<br>
 COMMITTEE	Dr John Andrews, Mr Ron Pickford, Mr David Wood, Mr Phillip Hewett, Mr Jeremy Lavis
 
 A subscription of 50 pence for adults and 25 pence for junior members was agreed but the amount would be reviewed at any future Annual General Meeting. A pattern of regular meetings on the second Thursday of each month was established for lectures and club sessions. Field trips were arranged, mostly at weekends, and included half day local visits or two-day expeditions to areas in other regions.
