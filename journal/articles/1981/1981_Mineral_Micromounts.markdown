@@ -1,0 +1,26 @@
+---
+layout: journal-article
+title: Mineral Micromounts
+author: C P Horstmann
+year: 1981
+topic: General Geology
+volume: 1
+page: "7-8"
+starting page: 7
+---
+The technique of thin sectioning rocks and minerals for examination by polarised light is well known to microscopists but, whilst this is of immense value in the laboratory, it is of little help in the field recognition of minerals and universities keep
+extensive collections of hand specimens to aid in visual identification. Quite apart from the fact that many minerals are not available in hand sizes, the private individual rarely has the room to store, let alone display, several thousand specimens. Advantage can, however, be taken of the fact that crystals scale perfectly, micro-specimens being perfect miniatures of large ones.
+
+My interest in mineral micromounting was aroused when a visitor from the U S A gave me a beautiful micromount of azurite from Bisbee in exchange for a local celestite specimen. I did not then fully appreciate the merits of the system but, on a visit to Los Angeles in 1974, I went to an evening meeting of the Californian Micromineralogists. They had about 50 present, nearly all with their own stereo binocular microscopes and selections from their collections. The competition that night was on uranium minerals. They had a Beginners Table and on this I was shown how to go about mounting and sent off with a specimen and a promise to start when I returned to Bath. I also visited several micromounters and their collections were around 2-3000 each. Quite a highlight was a visit to the Geology Museum of the University of California where I was taken 'behind the scenes' to see their micro collection. These visits brought home to me the prime merits of micromounting, compactness and portability. 3000 will easily go in trays in
+the drawers of an office desk and still leave room for kit!
+
+The essence of micromounting is that the specimen is supported on a black stalk in a black-lined box with a transparent lid. The box size is standardised at 24mm x 24mm x 19mm and the level of the specimens is kept uniform so that collectors can exchange specimens rapidly and examine them without extensive refocussing. Most examination is done at x10 so a microscope is not vital. The secret is in good lighting and the matt black box lining allows a high level without glare. The specimen, being uncovered only for viewing, keeps clean and undamaged. It is also easier to collect and handle small crystals without damage through impact.
+
+
+To return to my experiences, on arrival home I tried to buy suitable plastic boxes but found, to my surprise, that no manufacturer included them in his range. I had not expected this so brought none back with me. I advertised and learnt that they had to be imported. I therefore decided to obtain a supply from the U S A spo that I could help others to join me in serious micromounting on a standard basis. I have since seen a few collections started some years ago in non-standard basis. I have since seen a few collections started some years ago in non-standard boxes, the only ones readily available to the collectors. They now have thousands of specimens and regret that they cannot exchange finished mounts with visiting collectors but equally cannot face remounting their own collection.
+
+How does one go about micromounting? It is easier to do than to explain but the outline is as follows: 
+
+The boxes are prepared in bulk by cementing a disc of cork to the centre of the bottom inside and painting the inside matt black. The stems of balsa wood are also prepared in advance by trimming the ends of pieces several inches long and blackening them with a spirit marker. A range of sizes is kept in hand. The specimen is cleaned after trimming and placed face down on a piece of soft sponge. A specimen is cleaned after trimming and placed face down on a piece of soft sponge. A stem is selected the tip trimmed to fit the mounting position on the specimen. A spot of adhesive is placed on the specimen and on the stem and both are allowed to dry. A further trace of adhesive is applied to the stem to activate the surface and it is immediately brought into contact with the specimen. The whole can then be turned the right way up and adjusted before leaving to dry completely. The adhesive should be a solvent type (Titebond RC4220, Bostik Clear, etc). Epoxy should not be used as it will be almost impossible to remove if accidental damage necessitates remounting. When quite dry the stem is held with 'Z' forceps just below the specimen and cut to length. It is cemented to the cork pad with the same adhesive. The box cover may be engraved and filled white or lettered in white enamel or lettered with white transfer lettering. The box itself should bear at least the standard minimum label data (name, formula, locality, serial number).
+
+This description is necessarily brief but a mine of information is the only book I am aware of on the subject, The Complete Guide to Micromounts by Milton L Speckels published by Gembooks, Mentone, California. It is not normally available from booksellers but can usually be obtained at about £1.50 from Tideswell Dale Rock Shop, Commercial Road, Tideswell, Derbyshire.
