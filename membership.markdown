@@ -32,7 +32,6 @@ title: Join the Bath Geological Society
 <div id="mc_embed_signup">
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfnpbqZIwATY1ZizGMYz91YUTxRSprSlq0C1zqgpvsQ_kHsUA/formResponse" target="_blank">
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-MEMBERSHIP">Membership  <span class="asterisk">*</span>
