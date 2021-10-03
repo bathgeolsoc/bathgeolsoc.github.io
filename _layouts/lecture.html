@@ -41,7 +41,8 @@ Visitors: {{ site.lecture_cost }}
 	{%- assign durationSeconds = lectureDuration | times: 60 -%}
 	{%- assign endDate = startDateSeconds | plus: durationSeconds -%}
 	{{ page.date | date: "%H:%M" }} - <time class="dt-published" datetime="{{ endDate | date_to_xmlschema }}" itemprop="endDate">{{ endDate | date: "%H:%M" }}</time>
-	</p></div>
+	</p>
+	</div>
 <div id="eventLocation" class="eventInfoColumn" itemscope itemprop="location" itemtype="http://schema.org/Place">
 <h3>Location</h3>
 <p>

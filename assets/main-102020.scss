@@ -206,8 +206,12 @@ height:14px;
 	margin-right: 10px;
 	}
 #searchform{
-	margin-right: 10%;
+	margin-right: 5%;
 	}
+#list-print-button{
+	margin-right: 5%;
+	color: white;
+}
 .searchcount{
 margin-left: 10%;
 margin-bottom: 0px;
@@ -488,7 +492,10 @@ margin-left: 61%;
     width: 99%;
 }
 .search-bar{
-display: block;
+flex-direction: column;
+}
+#list-print-button{
+    margin-bottom: 16px;
 }
 #searchform{
 width: 100%;
@@ -551,7 +558,21 @@ max-width: 80%;
 		display: none;
 	}
 	.page-content,.wrapper{
+		border: none !important;
+		box-shadow: none !important;
+	}
+	.search-bar{
+	display: none;
+	}
+	h2 a{
+	    color: black !important;
+	}
+	.circle-date{
+	    color: black;
+		background-color: #fff;
 		border: none;
-		box-shadow: none;
+	}
+	.post-header{
+	margin-bottom: 0px;
 	}
 }
