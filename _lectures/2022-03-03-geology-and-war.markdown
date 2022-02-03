@@ -4,7 +4,7 @@ title:  "Geology and war: an exploration of how the ground influences battles"
 speaker: "Professor Paul Nathanail, University of Nottingham"
 date:   '2022-03-03 19:30:00'
 location: 'Virtual Talk via Zoom'
-visitor_cost: '£2 donation'
+visitor_cost: '<a target="_blank" href="https://www.eventbrite.co.uk/e/geology-and-war-an-exploration-of-how-the-ground-influences-battles-tickets-261179293297">Book via Eventbrite</a> to access via Zoom'
 ---
 This presentation will demonstrate the relevance of sound geological understanding of the battlefield throughout history - from Hezekaiah and Leonidas, to Waterloo and Isandlwana, the Messines Ridge and Normandy up to more recent examples in the Falklands, Cyprus and Bosnia.
 
