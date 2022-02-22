@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Behind the scenes at Bristol NHM Geology Store"
 leader: "Deborah Hutchinson (Geology Curator)"
 location: Bristol Museum & Art Gallery, Queens Rd, Bristol BS8 1RL
-date:   2022-02-18 11:00
+date:   2022-03-10 11:00
 latitude: 51.4564954
 longitude: -2.607284
 #precise zoom: 0.005, inprecise zoom: 0.5
