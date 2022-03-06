@@ -12,6 +12,8 @@ date: '2022-04-07 19:30:00'
 </p>
 </div>
 <img style="float: right; margin-left: 15px; margin-bottom: 15px; width: 30%;" src="/assets/JDB Bordeaux 2020.jpg">
-<img style="margin:auto; display: block; margin-top: 10px;" src="/assets/Kakkonda power plant.jpg">
-
+<hr>
+<p style="clear: both">White Island, New Zealand:</p>
 <img style="margin:auto; display: block; margin-top: 10px;" src="/assets/White Island.jpg">
+<p>Kakkonda 50 MW geothermal power station in Japan:</p>
+<img style="margin:auto; display: block; margin-top: 10px;" src="/assets/Kakkonda power plant.jpg">
