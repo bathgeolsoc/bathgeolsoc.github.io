@@ -15,7 +15,7 @@ This trip will be a guided 5-mile circular walk from Odd Down to Combe Hay to Mi
 
 It is a walk-through pleasant landscape with pretty views and some outcrops of the Middle Jurassic: Bridport/Midford Sands and the Inferior Oolite around Midford.
 
-<img src="/assets/Coombe-Hay-Field-Trip.JPG">
+<img src="/assets/Coombe-Hay-walk.jpg">
 
 There will be lots of history related to the geology;
 * We will pass old Fuller’s Earth workings, near the P&R
