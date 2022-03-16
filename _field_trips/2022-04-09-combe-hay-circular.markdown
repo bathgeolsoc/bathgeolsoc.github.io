@@ -1,6 +1,6 @@
 ---
 layout: field-trip
-title:  "50th Anniversary Field Trip: Coombe Hay circular Walk"
+title:  "50th Anniversary Field Trip: Combe Hay circular Walk"
 leader: "Professor Maurice Tucker"
 location: Bristol Museum & Art Gallery, Queens Rd, Bristol BS8 1RL
 date:   2022-04-09 10:30
@@ -15,7 +15,7 @@ This trip will be a guided 5-mile circular walk from Odd Down to Combe Hay to Mi
 
 It is a walk-through pleasant landscape with pretty views and some outcrops of the Middle Jurassic: Bridport/Midford Sands and the Inferior Oolite around Midford.
 
-<img src="/assets/Coombe-Hay-walk.jpg">
+<img src="/assets/Combe-Hay-walk.jpg">
 
 There will be lots of history related to the geology;
 * We will pass old Fuller’s Earth workings, near the P&R
