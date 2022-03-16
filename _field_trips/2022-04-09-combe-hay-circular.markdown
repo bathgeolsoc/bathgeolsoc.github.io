@@ -2,7 +2,7 @@
 layout: field-trip
 title:  "50th Anniversary Field Trip: Combe Hay circular Walk"
 leader: "Professor Maurice Tucker"
-location: Combe Hay
+location: "Will be provided on registration"
 date:   2022-04-09 10:30
 latitude: 51.3385806
 longitude: -2.3868427
