@@ -2,12 +2,12 @@
 layout: field-trip
 title:  "50th Anniversary Field Trip: Combe Hay circular Walk"
 leader: "Professor Maurice Tucker"
-location: Bristol Museum & Art Gallery, Queens Rd, Bristol BS8 1RL
+location: Combe Hay
 date:   2022-04-09 10:30
-latitude: 51.4564954
-longitude: -2.607284
+latitude: 51.3385806
+longitude: -2.3868427
 #precise zoom: 0.005, inprecise zoom: 0.5
-zoom: 0.005
+zoom: 0.5
 ---
 Saturday April 9th, 2022 @ 10:30am-4:30pm
 
