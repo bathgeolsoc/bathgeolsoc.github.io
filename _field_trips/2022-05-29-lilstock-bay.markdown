@@ -27,4 +27,4 @@ Parts of the cliff face are especially hazardous due to overhanging ledges of Bl
     background-color: #e5e5e5;
     max-width: 600px;
     text-align: center;
-    margin: auto;">Meeting location Will be provided on registration.<br><br>To register please email Bob Mustow at field@bathgeolsoc.org.uk</div>
+    margin: auto;">Meeting location will be provided on registration.<br><br>To register please email Bob Mustow at field@bathgeolsoc.org.uk</div>
