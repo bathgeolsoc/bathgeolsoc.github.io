@@ -1,0 +1,29 @@
+---
+layout: journal-article
+title: Tufa
+author: Phillippa Towler
+year: 1982
+topic: General Geology
+volume: 2
+page: "10-11"
+starting page: 10
+---
+Look for travertine and tufa deposits when next visiting a quarry, or walking by a stream in limestone country. Often foundwhere water issues from the ground, these calcareous deposits may display interestingly patterned and banded formations, containing petrified modern plant fragments.
+
+The term travertine is derived from the Italian word 'travertino', a corruption of 'tiburtino', "the stone of Tibur", which is the former name of the locality now called Tivoli. Near Rome, travertine is known by several local names, which include 'tufa litoide', the main building stone and material from which the catacombs have been excavated. Tufa comes from the Latin "tofus" meaning simply porous stone. Confusion surrounds the terminology, and the geological classification of these deposits.
+
+Travertine is the genetic term for all nonmarine limestones, which may accumulate in lakes, rivers, springs and caves. Usually colloform or concretionary in nature, it is composed of compact layers of calcium carbonate interleaved with more porous layers. Some authors distinguish travertine as a fairly massive deposit that accumulates around hot springs, form calcareous tufa, a spongy material precipitated from ordinary spring and stream waters. The texture and shape of the  deposits are governed by the detailed morphology at the site of formation. Two features are characteristic of these limestones, being the precipitation of calcium carbonate on existing crystal surfaces, and the complete absence of mechanical movement of particles prior to final deposition.
+
+Tufa is formed by the complex interaction of inorganic and biological processes causing the precipitation of calcium carbonate. The chemical environment necessary for deposition occurs when water supersaturated with lime loses carbon dioxide dissolved in the water, or when evaporation increases the calcium carbonate concentration. Carbon dioxide may be lost when the water comes in contact with an atmosphere where the gas is at a lower partial pressure. Plants, particularly algae, in the water also lower the carbon dioxide levels while photosynthesising. Therefore, carbonate of lime is commonly preciptated upon growing flora. Where the encased organic materuial forms part of the mass of tufa, it will impart a reticulate structure. Such deposits are weak and friable, whereas those formed by the process of evaporation tend to be more massive.
+
+Classification of the different types of tufa have been attempted, but due to the diverse formation environments, they are of little value. An example from the deposits of Lake Lahonon, of the Great Basin, Nevada, illustrates a nomenclature: -
+
+Lithoid - a comblike coating on various materials.
+Thinolithic - an interlaced crystalline calcite.
+Dendritic - spherical or hemisperical bodies with a corase radial structure.
+
+Three kinds of tufa or travertine have been reported from Tivoli, Italy: hard and compact, cellular, and botryoidal. Deep gorges at Tivoli show the travertine to be at least 150m thick, and that some of the large spheroids with concentric structures reach 2-2.6m.
+
+Tufa is seldom extensive, and is restricted to recent and Quaternary deposits. In the United Kingdom banks of tufa may be seen at Janet's Moss on Ingleborough, and at Alport and Lathkill Dale in Derbyshire. These formations are thought to be of Pleistocene age, being dated by fossilised terrestrial molluscs. At Alport the occurrence of a land snail, <u>Cepaca quique vittata</u> suggests accumulation during the last interglacial, the Riss-Wurm, Such deposits are indicative of a warm moist climate, and the climatic oscillations may be traced through Europe by correlation of tufa fossils.
+
+Deposition of calcium carbonate may still be seen in many waters where the critical chemical conditions are optimized. Within a few years objects placed in the 'Petrifying Springs' at Matlock Bath, Derbyshire, are thinly coated with carbonate of lime. On Dundry Hill, near Bristol, tufa may be seen forming in the bed of Elwell Spring, and preserved pine cones collected. The thermal waters of Bath are not rich in calcium carbonate, but tufaceous deposits may be found in some of the springs on the oolitic limestones, as in the quarry on the approach road to the University of Bath.

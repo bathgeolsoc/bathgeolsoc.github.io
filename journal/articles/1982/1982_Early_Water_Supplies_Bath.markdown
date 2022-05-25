@@ -4,8 +4,8 @@ title: Early Water Supplies of Bath
 author: R J Whitaker & V Chivers
 year: 1982
 topic: South West England
-volume: 1
-page: "3-5"
+volume: 2
+page: "3-6"
 starting page: 3
 ---
 No one knows for certain where the Romans obtained their drinking water supplies from in the city of Bath. It is fairly certain that they piped water in lead pipes from the hills surrounding Bath mainly on the Lansdown side. The remnants of lead pipe within the present day Roman baths were probably the means by which cold water was conveyed into the hot water bathing establishment.
@@ -20,14 +20,30 @@ It is one of the earliest indications of the activities of the city independentl
 
 The fountains which supplied the City of Bath were in the following locations. Near the old church of St Michael stood two conduits called St Michael's Conduit and Carnwell. Halfway up Broad Street was Broad Street Conduit. In the present High Street between the present position of Caters and the Guildhall stood St Mary's Conduit, and further down the Higher Street towards the Abbey stood the Conduit of St Peter and St Paul. Both of these conduits were fed from St Swithin's well on the slope of Beacon Hill, whereas St Michaels, Carnwell and Broad Street conduits were fed from the Beacon Hill Springs. The last two conduits were the St James' Conduit near the present site of Woolworths, and the Stall's Conduit which stood near the present site of Boots at the Weston Street junction, and which were fed from the Beechen Cliff springs.
 
-The Municipal records of Bath for the years 1509 onwards give quite detailed accounts of the waterworks at Beechen Cliff and at Beacon Hill, and in particular to the repairs that were carried out to maintain a flow of drinking water to those conduits, for example, an entry for 1569 to "Willm Colyns for keping the watre for mendinge St James pype" "for mendinge the pypes in Waulkotts
-Lane in the twelf dayes for clothe corde pyche tallow and rosson". And again an entry in 1576 "paied to a laborer for mendinge staules pype and to the Belmans sonne to twoo daies
-labor about the St James' pype" and another "to Forte for
-© oe ait the conduite in the Highe Streate for two poundes of
-Solder",
-‘ seuehtee entry "paid for woodd to moult the ledd" and
-astly an interesting account in 1595 "paid the good wife Greese
-of Hollwaie for the cara e of tw the
-coveringe of the con ayaeee oe loades of stone for
-It can be seen from these records that a considerable effort
-he City to maintair 1e supplies to
+The Municipal records of Bath for the years 1509 onwards give quite detailed accounts of the waterworks at Beechen Cliff and at Beacon Hill, and in particular to the repairs that were carried out to maintain a flow of drinking water to those conduits, for example, an entry for 1569 to "Willm Colyns for keping the watre for mendinge St James pype" "for mendinge the pypes in Waulkotts Lane in the twelf dayes for clothe corde pyche tallow and rosson". And again an entry in 1576 "paied to a laborer for mendinge staules pype and to the Belmans sonne to twoo daies labor about the St James' pype" and another "to Forte for mendige the conduite in the Highe Streate for two poundes of solder".
+
+Another entry "paid for woodd to moult the ledd" and lastly an interesting account in 1595 "paid the good wife Greese of Hollwaie for the carage of twoe loades of stone for the coveringe of the conduitt".
+
+It can be seen from these records that a considerable effort was put in by the City to maintaining the supplies to the public fountains. This situation in the City must have remained relatively unchanged until the 18th century when the City of Bath began to expand rapidly and in 1769 the City Corporation responded to the increase in demands of its existing supply by acquiring springs near Sham Castle from the Bathwick Estate in return for granting of permission of Pulteney Bridge to link the estate with the City.
+
+They also came to agreement with the Rivers family to share the springs at Beacon Hill equally with them and built small reservoirs to help balance out variations on the Beacon Hill and Beechen Cliff springs.
+
+These ancient reservoirs still exist, one at the rear of Camden Crescent and the other at the Holloway end of Carlton Road. At the same time many private developers were forming small Water Companies to supply houses which they were building. These varied in size from Doctor Hensley Waterworks which supplied only four houses at Bloomfield Place, The Bathwick Estate which supplied over eight houses and the Circus Waterworks which was taking springs below Lansdown Crescent into a reservoir in the "Butty Piece" now in the grounds of the High School, supplied the area of the City including the Royal Crescent, Brock Street, The Circus, Gay Street, Queen Square, totalling over 300 houses. The grassed area in the centre of the Circus marks the location of a reservoir which gave local storage.
+
+One of the most interesting features of this development was that the water supply was taken in conduits parallel with the rows of houses and in most cases water was discharged directly in the basement of the houses through an aperture in the stone wall.
+
+Relics of the system can still be seen in the houses behind Camden Crescent from the Beacon Hill springs and in particular from the Coombe Royal Spring at the top of Bathwick Hill where the basement of the houses still contain to this day a flight of steps leading down to a dipping well and an addit leading off to the main water supply conduit.
+
+There also remains in some of the Beacon Hill addits parts of the original system taking water into the cellars of houses by rectangular open stone troughs, as well as by a second generation of 4" diameter iron pipes and lastly very heavy 1 1/2" to 2" lead pipes which presumably were the first piped supplies having taps in the houses.
+
+As the Georgian City developed and spread further up the hillside slopes, many of these springs became inadequate and so it was that the City had to look farther afield for its water supplies. Some improvement was effected in 1837 by the driving of new sets of addits at Beechen Cliff and by the City Council acquiring more springs at Sham Castle in 1839, but from this point on, Bath had to look much further afield for any worthwhile quantity of potable drinking water.
+
+There was also pressure for the improvement of sanitary conditions following the municipal reform act of 1835 which led to the Bath Act of 1846. This result in the Corporation collecting springs in the valley between Little Solsbury and Charmy Down and to build two small reservoirs with the total capacity of 9 million gallons, these being the Chilcombe reservoirs and under the Bath Act of 1851 they also collected springs which were discovered at the lower level in the valley, and these were collected in an additional small reservoir and the City was reinforced by additional river mains. By the mid 1860's four of the larger Water Companies were like the Corporation affording a supply of about 14 gallons per head, about half of what is considered necessary, whereas 14 of the smaller Companies cold only supply 1 1/2 gallons per head per day for the population.
+
+Problems were encountered in the summer months when houses in the higher parts of the City were often without any water supply, and pressures were generally inadequate to reach the tops of the many of the taller houses. Between 1863 and 1872 the survey showed that there were only approximately 2,800 houses out of the 8,200 houses that had piped water, and many of these would still have to take water from wells and from pumps. These were generally in the poor and much more densely populated areas of the City. Such sewers that existed in the City were very poorly designed and constructed and usually made of porous Bath stone, They had insufficient water or no water to flush them out, septic sludge built up causing smell problems and pollution over the surrounding ground and acquifer.
+
+This lack of water supply, overcrowding and the pollution which was caused, facilitated the spread of epidemics in certain areas of the City, for example, in the 20 yard space between the backs of houses in Milk Street and Avon Street, there were 30 houses which could only be entered through other houses.
+
+There were also more than 20 pig stys and a pottery with about 860 people living in 74 surrounding dwellings, which is an average of more than 11 to each dwelling. It is small wonder that epidemics of smallpox and scarlatina were common. 34 children under the age of five died from such causes in the one year beginning October 1863. As a result of this, the Bath Act of 1870 was finally passed and on the advice of the London consultant the report of the City Engineer, Alfred Mitchell, was approved which resulted in the construction of a reservoir at the upper end of the St Catherine's Valley to collect the many springs.
+
+The author is indebted to Mr H C Chivers who worked for many years for the Bath City Waterworks who provided most the information for this paper.
