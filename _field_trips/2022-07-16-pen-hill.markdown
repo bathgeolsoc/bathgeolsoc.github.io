@@ -1,0 +1,21 @@
+---
+layout: field-trip
+title:  "Pen Hill"
+leader: "Doug Robinson"
+location: "Will be provided on registration"
+date:   2022-07-16
+latitude: 51.2312463
+longitude: -2.6247113
+#precise zoom: 0.005, imprecise zoom: 0.5
+zoom: 0.05
+---
+<p>A (~ 4km) walk around the southern slopes of Pen Hill where there are rocks from four geological periods – Devonian, Carboniferous, Triassic and Jurassic.</p>
+<div style="    border: 1px solid black;
+    padding: 5px;
+    background-color: #e5e5e5;
+    max-width: 600px;
+    text-align: center;
+    margin: auto; margin-bottom: 20px;">Meeting location will be provided on registration.<br><br>To register please email Bob Mustow at <a href="mailto:field@bathgeolsoc.org.uk">field@bathgeolsoc.org.uk</a></div>
+<p>There is an old quarry in a private garden with outcrops of the CDL showing a bed with an erosive base and another bed with probable stromatolite/algal mats. We will also see a narrow gulley showing red Mercia mudstone overlain by a thin green mudstone layer (Blue Anchor?) and then into Triassic lsts (White Lias). Further up the track is another quarry but this time in a Blue Lias sequence. Not many places to see this transition in the Mendips.</p>
+<p>At the start there is a very nice valley (called The Combe and owned by large house Milton Lodge). There are some Triassic conglomerates exposed in upper part of the valley.</p>
+<p>One negative point, the group would have to cross the trunk road (A39) three times where there is no speed restriction!</p>

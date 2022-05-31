@@ -3,7 +3,7 @@ layout: page
 title: Join the Bath Geological Society
 ---
 <h3>Key benefits</h3>
-<ul><li>Free entry to our series of ten lectures held at the BRLSI, presented by well qualified speakers from university professors to research scientists to committed amateurs.</li>
+<ul><li>Free entry to our series of ten lectures held at the Bath Royal Literary and Scientific Institution and online via Zoom, presented by well qualified speakers from university professors to research scientists to committed amateurs.</li>
 <li>Free admittance to our field trips, usually led by experts in the areas to be visited (some trips may have charges for elements such as transportation or accommodation).</li>
 <li>A copy of our professionally produced annual Journal.</li></ul>
 <hr class="full-hr">
