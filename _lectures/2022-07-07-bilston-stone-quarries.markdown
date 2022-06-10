@@ -11,4 +11,4 @@ Combining my genealogical and geological research - this talk will explore the g
 
 We encourage those who can attend the lecture in person at Bath BRLSI, Queen Square to do so. However, for the convenience of those who find it difficult to attend we are providing a Zoom link to this hybrid lecture. Members will receive the Zoom link by email, non-members should sign up via <a href="https://www.eventbrite.co.uk/e/bilston-stone-quarries-digging-up-the-past-geology-and-genealogy-tickets-360311400097">Eventbrite</a> to get access.
 
-<img src='/assets/bilston-stone-quarry.jpg'>
+<img src='/assets/bilston-stone-quarry.JPG'>
