@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title:  "The 'real' value of microfossils"
+title:  "The 'real' value of microfossils (International Geodiversity Day Lecture)"
 speaker: "Dr. Haydon W. Bailey, Consultant Micropalaeontologist & Honorary Lecturer, University of Birmingham"
 date:   '2022-10-06 19:30:00'
 ---

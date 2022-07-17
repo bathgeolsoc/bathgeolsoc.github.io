@@ -3,7 +3,7 @@ layout: field-trip
 title:  "Pen Hill"
 leader: "Doug Robinson"
 location: "Will be provided on registration"
-date:   2022-07-16
+date:   2022-08-13
 latitude: 51.2312463
 longitude: -2.6247113
 #precise zoom: 0.005, imprecise zoom: 0.5
