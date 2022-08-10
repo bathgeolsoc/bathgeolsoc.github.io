@@ -1,7 +1,7 @@
 ---
 layout: field-trip
-title:  "Pen Hill"
-leader: "Doug Robinson"
+title:  "Pen Hill (near Wells)"
+leader: "Dr Doug Robinson"
 location: "Will be provided on registration"
 date:   2022-10-08
 latitude: 51.2312463
