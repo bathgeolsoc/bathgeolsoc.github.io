@@ -3,7 +3,7 @@ layout: lecture
 title:  "Bilston Stone Quarries – digging up the past - Geology and Genealogy"
 speaker: "Graham Hickman, Bath Geological Society"
 date:   '2022-07-07 19:30:00'
-visitor_cost: '£5 on the door at BRLSI or <a target="_blank" href="https://www.eventbrite.co.uk/e/the-real-value-of-microfossils-international-geodiversity-day-lecture-tickets-413994527777">Book via Eventbrite</a> to access via Zoom'
+visitor_cost: '£5 on the door at BRLSI or <a target="_blank" href="https://www.eventbrite.co.uk/e/bilston-stone-quarries-digging-up-the-past-geology-and-genealogy-tickets-360311400097">Book via Eventbrite</a> to access via Zoom'
 ---
 As a small boy my father often told me about a sandstone quarry in Bilston that my great grandfather had owned. It was not until recently, however, that I managed to research the subject more fully. The quarry known as the “Bilston Stone Quarries” had been worked from the late 17th century. It came into my family’s ownership in about 1830 and was operated by Job Hickman (1783 – 1855). He was the first of a line of my ancestors who worked the quarry for the next 4 generations.
 
