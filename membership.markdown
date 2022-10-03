@@ -404,10 +404,10 @@ title: Join the Bath Geological Society
 </div>
 <div id="cheque-help">
 <h4>Cheque</h4>
-<p>Please make cheques payable to 'The Bath Geological Society' and send to: Miss Polly Sternbauer, The Membership Secretary, Flat 4, Somerset House, Moorfields Road, Bath, BA2 2HU</p>
+<p>Please make cheques payable to 'The Bath Geological Society' and send to: Ms Katie Munday, The Membership Secretary, 6 Lymore Terrace, Bath, BA2 2JL</p>
 </div>
 <div id="so-help">
 <h4>Standing Order</h4>
 <p>Please download and print the following form: <strong><a download href="/assets/Bath-Geol-Soc-standing-order-2020.doc">Bath-Geol-Soc-standing-order-2020.doc</a></strong></p>
-<p>Once completed, please send to: Miss Polly Sternbauer, The Membership Secretary, Flat 4, Somerset House, Moorfields Road, Bath, BA2 2HU</p>
+<p>Once completed, please send to: Ms Katie Munday, The Membership Secretary, 6 Lymore Terrace, Bath, BA2 2JL</p>
 </div>
