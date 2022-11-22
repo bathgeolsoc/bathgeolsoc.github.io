@@ -1,0 +1,11 @@
+---
+layout: lecture
+title:  "Petra – the stories in its rocks"
+speaker: "Professor Maurice Tucker"
+date:   '2022-12-01 19:30:00'
+visitor_cost: 'The lecture will be published on Eventbrite to access via Zoom'
+location: 'Virtual Talk via Zoom'
+---
+Petra, Jordan, is a remarkable site of antiquity with wonderful buildings and tombs sculpted directly into the Cambrian sandstone outcrops. But much of Petra’s beauty is the result of geological processes over half a billion years, providing a strategic location for the Nabataean people where they could establish their control on the lucrative trade route in luxury goods. This talk explores those geological processes: tectonic, sedimentological, diagenetic, structural, seismic and geomorphological.
+
+<img src='/assets/Petra-Monastery-min.JPG'>
