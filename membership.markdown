@@ -408,6 +408,6 @@ title: Join the Bath Geological Society
 </div>
 <div id="so-help">
 <h4>Standing Order</h4>
-<p>Please download and print the following form: <strong><a download href="/assets/Bath-Geol-Soc-standing-order-2020.doc">Bath-Geol-Soc-standing-order-2020.doc</a></strong></p>
+<p>Please download and print the following form: <strong><a download href="/assets/Bath-Geol-Soc-standing-order-2023.doc">Bath-Geol-Soc-standing-order-2023.doc</a></strong></p>
 <p>Once completed, please send to: Ms Katie Munday, The Membership Secretary, 6 Lymore Terrace, Bath, BA2 2JL</p>
 </div>
