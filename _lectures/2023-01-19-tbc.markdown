@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "TBC"
+speaker: "TBC"
+date:   '2023-01-19 19:30:00'
+location: 'Virtual Talk via Zoom'
+---
+TBC
