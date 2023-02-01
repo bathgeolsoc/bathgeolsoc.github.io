@@ -1,0 +1,37 @@
+---
+layout: journal-article
+title: The Rhaetic Transgression
+author: Dr P G Hardy
+year: 1983
+topic: South West England
+volume: 3
+page: "22-25"
+starting page: 22
+---
+<h2>Introduction</h2>
+During the Triassic epoch, which closed around 213 million years ago, much of Britain was covered by thick deposits of bright red-stained clastic sediments, popularly known as New Red Sandstone. In the area around the Severn Estuary these rocks outcrop in a number of well known exposures, eg Westbury Garden Cliff, Aust and Sedbury, and in Somerset at Blue Anchor and Watchet. At each of these localities the red rocks can be seen to give way to pale cream and grey limestones, grey mudstones and shales and notably, in the lowest part of this transitional zone, to grey/green bands which contrast very clearly with the bright red muds and sands in which they first appear. The final stages of this transition are marked by the appearance of true marine fossils (ammonites) in the lowest Jurassic rocks. The entire transitional zone has long been recognised as a special horizon and is commonly called the Rhaetic, it is in fact the Rhaetian age of the Triassic epoch.
+
+<h2>The Lithological Changes</h2>
+The sediments characteristic of the red rocks just below the Rhaetic are of the clastic type. They are usually very fine sands or silts with some bands of mud. They are finely laminated and bedding is often parallel and relatively undisturbed by sedimentary structures. The sediments probably arose in quiet depositional environments and may represent a flat featureless terrestrial environment, not far from sea-level. At various localities, (eg Aust and Blue Anchor) they are characterised by gypsum deposits which occur in modular and vein form, and at Aust Cliff pseudomorphs (sand filled moulds) of salt crystals occur. These highly soluble minerals are the end products of the evaporation of sea-water and indicate that the late Triassic sediments may have been deposited in shallow hypersaline lagoons.
+
+Higher, in the Rhaetic proper, the red colour disappears gradually to be replaced by a distinctly green colouration which may be banded on bedding planes, or concentrated along joints, or apparently randomly distributed along meandering cylindrical paths, or as isolated spherical blebs.
+
+All of these forms of green colouration probably result from the reduction of the highly oxidised iron mineral haematite which caused the red colour, to a relatively reduced ferrous salt. The reduction may have been caused by decaying organic matter, in some of the spherical green spots there is a black organic centre, and some of the green bands contain debris, again possibly organic, which is not seen in the red bands. The meandering cylindrical green bodies are almost certainly burrows made by organisms. This discolouration can be seen happening today where organic debris is enclosed in weathered red muds. The green bands may therefore be regarded as indirect evidence for the presence Of organic material in the sediment.
+
+<img fossils>
+
+Some of the most conspicuous green horizons exhibit distinct polygonal cracks on upper bedding planes, and also often show oscillatory ripple marks. These probably formed in very shallow water due to wave action and the two phenomena prove that these beds at least were covered by water.  
+
+The higher beds of the Rhaetic contain the well known 'bone beds' of which there are several. These are characteristically grained, often conglomeratic, and contain in addition to rounded pebbles of apparently Rhaetic sediment, large numbers of teeth scales and bones of vertebrates in addition to phosphatised excreta (coprolites). The origin of these bands is still a subject of controversy and under study in great detail. Trace fossils occur around these horizons indicating that some animals at least actually lived in the area at that time. The disarticulated and well worn bone material does not tell us if the animals actually lived in the area, or indeed at what time they lived.
+
+In addition to the grey muds and shale of the upper Rhaetic there are some pale cream/grey limestones which are very finely laminated and contain abundant ostracods and also the famous algal "Cotham Marble". These represent lagoonal deposits.
+
+The final stage of the transition from Rhaetic to Jurassic is marked by a general increase in limestones and the complete loss of any trace of red colouration, or indeed green beds, and also the disappearance of the coarser sandy components from the clastics, which are restricted to muds.
+
+<h2>The Fossil Story</h2>
+In the red rocks fossils are unknown. The green bands do contain some possibly organic fragments although these are quite indeterminate. There are records of a small crustacean (Euestheria) although these are difficult to find. In the bone beds there is abundant evidence of vertebrate life but all of it clearly has been transported and it may well not represent a local fauna. The first clearly local inhabitants were the animals which made the trace fossils, found on the undersides of sandstones and sometimes penetrating them as burrows. These are best seen at Westbury where very distinct crescentic markings made by the prosoma of limulid crabs are abundant. Elsewhere more modest burrows testify to the presence of smaller animals.
+
+In addition to trace fossils there are numerous specimens of bivalves on certain, often thin, bands of shale and limestone. These abundant but restricted faunas must have been the product of ideal conditions for those species which we find, but in situations where few species could get - either due to geographical restriction (isolated lagoons?) or perhaps because the animals themselves had to be specially adapted to extreme conditions (hypersalinity) beyond the limits of tolerance of the majority. Naturally those species which could adapt and did arrive found enormous scope for increase with few, if any, competitors and predators. The result is the characteristic Rhaetic fauna - all or nothing - with monotonous barren sediment separated by thin bands of great but monospecific abundance. A few isolated fragmentary terrestrial plants occur in the Rhaetic, especially leaves of <u>Nilssonia</u> and what may be terminal buds (or possibly cones) and occasional lumps of wood. These all testify to the presence of land not too far off. 
+
+<h2>The end of the story</h2>
+The Rhaetic ends and the Jurassic begins, with the first appearance of Jurassic fossils; the ammonite <u>Psiloceras planorbis</u>, which is the lowest Jurassic zone fossil. There is no clear lithological break between the two systems, only a series of gradational changes as described above. From this picture it can be seen that the Rhaetic is truly a period of progressive and gradual change marking the submergence of an extensive terrestrial area by the sea. The arid climate was overcome by marine conditions and in time a full marine fauna appeared in the extensive marine sediments. The marine transgression slowly overcame the higher land - the Mendip hills were covered by late Lias times - and eventually most of Britain became a marine area. This lasted for well over a hundred million years by which time the arid climate had long since changed - but that's another story.

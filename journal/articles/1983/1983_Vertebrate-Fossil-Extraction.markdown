@@ -1,0 +1,42 @@
+---
+layout: journal-article
+title: The Extraction of Vertebrate Fossils from the Rhaetic Bone Bed
+author: M T Curtis
+year: 1983
+topic: General Geology
+volume: 3
+page: "14-16"
+starting page: 14
+---
+The Rhaetic Bone Red contains an abundance of phosphatised vertebrate remains set in a calcareous matrix along with clasts comprising Tea Green Marl, limestone and quartz. The size of the large reptilian bones often found at Aust Cliff to small denticles from the skin of sharks often less than one millimetre in diameter. Efficlent development of these fossils using the traditional mechanical means was both arduous and aifficult prohibiting the development of fine detail of such things as the roots of <u>Ceratodus</u> tooth plates which have a delicate sponge-like structure. Over comparatively recent years, the use of acetic acid has been developed allowing the exposure of these details and the isolation of an abundant microvertebrate fauna, much of which was hitherto undescribed. The use of acetic acid is based on the fact that calcium carbonate is soluble in the acid whereas calcium phosphate is not. The vertebrate material is comprised of the latter and so the calcium carbonate matrix can be dissolved leaving the bone intact.
+
+Large bones and microvertebrate material may be derived from the same samples but the presence of larger fossils in a microvertebrate sample may cause breakage of the smaller material later in the preparation. Two techniques will therefore be described, one for each part of the fauna.
+ 
+<h2>Safety Warning</h2>
+The solvents mentioned below are both volatile and inflammable. They should therefore be used in a well ventilated room away from any naked flame. The acetic acid will burn both skin and eyes therefore plastic gloves and goggles should be used when handling it. The acid is available from chemical supply houses or chemists and is used at a 10% concentration. If there is any doubt about its use, your chemist will probably dilute it to this concentration for you and give you any advice you may require.
+
+<h2>1. Large Isolated Bones</h2>
+Aust Cliff is the only place locally where large bones are to be found in any abundance. If they are found in a fragmentary condition, then each of the pieces should be treated as individual; fossils in the method that follows. Repair is best effected at a later stage.
+
+
+The block containing the fossil should first be carefully washed and inspected as there may be more well preserved fossils than is immediately apparent. When the specimen is dry, the fossils to be prepared must first be strengthened with a plastic since they will be very fragile after acid preparation. They may be coated with anything which is readily removeable should the need arise. Ideally, polybutyl methocrylate in methyl ethyl metone should be used (obtainable as Vinalate or Bedacry1 from museum and archaeological suppliers) or a suitable substitute has been found in UHU glue dissolved in acetone, the latter being obtainable from your local chemist. The viscosity of the solution should be adjusted so that the fossil is just penetrated by the liquid or the plastic coating may peel away at a later stage. The treated fossil should then be left until the plastic is thoroughly dry. 
+
+The entire block should then be immersed in 10% acetic acid in a bucket or some similar plastic container, preferably on a plastic grid so that smaller material can fall clear of the specimen. This should be kept somewhere where the fumes and smell from the acid are free to escape. The acid will be used up (ie when effervescence has stopped) after 3 to 4 days at room temperature or this may take longer if the vessel is kept in a cooler room. The specimen should then be removed carefully from the spent acid on its plastic grid and placed in fresh water. The dissolution of the calcium carbonate creates salts which, if allowed to grow as crystals in the specimen during the drying stage may cause the bone to fracture. The specimen should therefore be left in water for several weeks with the water being changed daily and then be allowed to dry slowly at room temperature. 
+
+The specimen should then be inspected and any loose or softened matrix may be gently removed using a brush and pin. Any freshly exposed areas of the specimen should be covered with plastic as described above and allowed to dry. The block is then immersed in fresh acid and the whole process repeated until the specimen is totally free of its matrix. As a general rule of thumb, one kilogram of bone bed will require a total of 4 to 6 litres of 10% acetic acid for complete dissolution but this obviously depends on the proportion of calcium carbonate present.
+
+Some fossils may be especially fragile in which case they should be consolidated using a solution of one part of polyvinyl acetate emulsion (obtainable as Bostik woodworking glue) to three parts of distilled water. Immersion in the solution for 3 to 4 hours should be followed by drying on strips of thin sheet metal bent into Ws to prevent the specimen sticking to the work surface. Any excess tears of solution should be gently removed with a tissue. Great care is required during this process since it must be remembered that the strength of the specimen is not increased until the consolidant is completely dry, Any fragmentary fossils may now be stuck together using UHU or some similar glue.
+
+<h2>2 Microvertebrate Fossils</h2>
+A piece of bone bed is best selected which does not contain much larger fossils or pebbles. 100 grammes (4 oz) of material is sufficient for most purposes. It is assumed that a microscope is not available but most of the smaller fossils can be seen using an magnification of 10X.
+
+The specimen is again immersed in 10% acetic acid but this time should be supported free of the bottom of the container by a plastic mesh having a hole size something less than a millimetre. A plastic tea or flow strainer is ideal as this allows particles of very fine matrix to fall away from the residue that will subsequently be sorted. Ideally, if a variety of sieve sizes is available, the separation of the sample into a number of fractions will help later sorting since the narrower the range of sizes of particle present, the less likelihood is there for one particle to conceal another. The specimen should be placed in repeated changes of fresh acid until it is totally disaggregated. The sieve can then be gently agitated in the solution to remove the fine debris and the contents placed in clean water for 4 to 5 days to remove the salts produced by the acid. The water should be changed several times during this period. The residue for sorting is finally placed on a tray and allowed to dry slowly.
+
+The fossils are best sorted by sprinkling a small quantity onto a shallow plastic tray to the base of which has been stuck a piece of millimetric graph paper. The sample can then be systematically scanned with the lens examining individual five millimetre strips at a time. Random examination leaves many fossils undetected. The individual fossils are best removed from the residue using a moistened, sable hair paint brush (size '0' or smaller). A great diversity of fossils will be found including fish teeth, scales and fin spines along with shark teeth and a great variety of denticles. Once isolated, these fossils are best mounted either on purpose made microfossil slides or on white card. If the latter means is used, the fossils should be stuck down with a water soluble glue to facilitate easy removal should detailed examination be required. The cards can then be stored in shallow plastic boxes. 
+
+Using the methods described above, a far greater amount of bone bed fossils has been made available for study over recent years. This has resulted in new species being described and more being currently determined. This has led to a greater understanding of the diversity of life which was present in the Rhaetic sea. 
+
+<h2>Further Reading</h2>
+Croucher, R and Woolley, A R 1982. Fossils, Minerals and Rocks Collection and Preservation. Pub. British Museum (National History) and Cambridge University Press.
+
+Rixon, A E 1976. Fossil Animal Remains. Their Preparation and Conservation. Publ. Athlone Press.
