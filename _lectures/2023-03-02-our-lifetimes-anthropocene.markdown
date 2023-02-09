@@ -3,7 +3,8 @@ layout: lecture
 title:  "Geological Time and the Anthropocene"
 speaker: "Ian Fairchild, Emeritus Professor, University of Birmingham"
 date:   '2023-03-02 19:00:00'
-visitor_cost: 'Via Eventbrite to access on Zoom'
+visitor_cost: 'The lecture will be published on Eventbrite to access via Zoom'
+location: 'Virtual Talk via Zoom'
 ---
 There is little doubt that mankind’s impact on the natural environment has increased dramatically in recent decades but … are we now living in a new epoch of geological time: the Anthropocene? Concepts from Earth System Science agree with stratigraphic markers that we went outside the range of conditions of the Holocene in the last 70 years, but does the term Anthropocene belong to geologists anyway?
 
