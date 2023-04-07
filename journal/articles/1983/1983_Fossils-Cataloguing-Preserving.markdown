@@ -1,6 +1,7 @@
 ---
 layout: journal-article
-title: Fossils: Cataloguing and Preserving
+title: >
+ Fossils: Cataloguing and Preserving
 author: Pamela Skeet
 year: 1983
 topic: General Geology
