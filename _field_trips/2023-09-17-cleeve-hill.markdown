@@ -1,6 +1,6 @@
 ---
 layout: field-trip
-title:  "The Geology of Cleeve Hill, Gloucestershire"
+title:  "Cleeve Common, Cheltenham: a circular geological walk"
 leader: "Nick Chidlaw"
 location: "Will be provided on registration"
 date:   2023-09-17 10:00
