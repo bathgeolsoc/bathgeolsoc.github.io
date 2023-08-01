@@ -15,5 +15,9 @@ zoom: 0.015
     max-width: 600px;
     text-align: center;
     margin: auto; margin-bottom: 20px;">Meeting location will be provided on registration.<br><br>To register please email Bob Mustow at <a href="mailto:field@bathgeolsoc.org.uk">field@bathgeolsoc.org.uk</a></div>
+
+Meeting Time:  9.45 - 10.00 am
+
+Start Time: 10.00 am 
 	
 This circular walk (c. 4 miles) aims to inform attendees of the Middle Jurassic sedimentary rocks on the Cleeve Common plateau, using numerous old quarry workings: their stratigraphy and environment of deposition. Located just east of Cheltenham, the highest point of the Cotswolds occurs on the Common (330m OD). On Cleeve Common is found the most complete succession of the Inferior Oolite Group in the Cotswolds. Post-glacial landforms will also be described. The views in clear weather across the Severn Vale to the Malvern Hills and Forest of Dean are impressive.
