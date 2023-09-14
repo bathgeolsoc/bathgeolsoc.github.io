@@ -3,7 +3,7 @@ layout: lecture
 title:  "Geology of the Himalaya made simple"
 speaker: "Dr Danny Clark-Lowes"
 date:   '2023-10-05 19:30:00'
-visitor_cost: '£5 on the door at BRLSI or book via Eventbrite to access on Zoom'
+visitor_cost: '£5 on the door at BRLSI or book via <a href="https://www.eventbrite.co.uk/e/geology-of-the-himalaya-made-simple-tickets-716533700587">Eventbrite</a> to access on Zoom'
 ---
 The talk will follow the route of a ‘megatransect’ from the Indian Plate across the Himalayan Mountain Range to the Tibetan Plateau on the Eurasian Plate.
 
