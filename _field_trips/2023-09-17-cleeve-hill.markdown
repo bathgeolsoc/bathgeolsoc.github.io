@@ -1,6 +1,6 @@
 ---
 layout: field-trip
-title:  "Cleeve Common, Cheltenham: a circular geological walk"
+title:  "POSTPONED: Cleeve Common, Cheltenham: a circular geological walk"
 leader: "Nick Chidlaw"
 location: "Will be provided on registration"
 date:   2023-09-17 10:00
@@ -9,6 +9,8 @@ longitude: -2.0005384
 #precise zoom: 0.005, imprecise zoom: 0.5
 zoom: 0.015
 ---
+IMPORTANT: This trip has unfortunately been postponed and will no longer be taking place on Sunday September 17th due to the trip leader, Nick Chidlaw, coming down with an illness.
+
 <div style="    border: 1px solid black;
     padding: 5px;
     background-color: #e5e5e5;
