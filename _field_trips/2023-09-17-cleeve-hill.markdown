@@ -9,7 +9,7 @@ longitude: -2.0005384
 #precise zoom: 0.005, imprecise zoom: 0.5
 zoom: 0.015
 ---
-IMPORTANT: This trip has unfortunately been postponed and will no longer be taking place on Sunday September 17th due to the trip leader, Nick Chidlaw, coming down with an illness.
+IMPORTANT: This trip has unfortunately been postponed and will no longer be taking place on Sunday September 17th due to illness.
 
 <div style="    border: 1px solid black;
     padding: 5px;
