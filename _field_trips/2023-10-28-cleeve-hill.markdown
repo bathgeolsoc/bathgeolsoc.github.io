@@ -1,6 +1,6 @@
 ---
 layout: field-trip
-title:  "POSTPONED: Cleeve Common, Cheltenham: a circular geological walk"
+title:  "Cleeve Common, Cheltenham: a circular geological walk"
 leader: "Nick Chidlaw"
 location: "Will be provided on registration"
 date:   2023-10-28 10:00
