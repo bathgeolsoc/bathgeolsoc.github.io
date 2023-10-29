@@ -1,40 +1,41 @@
 ---
 layout: journal-main
-title: Journal No. 38, 2020 Out Now!
+title: Journal No. 40, 2022 Out Now!
 ---
-<img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2020-cover.jpg">
+<img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2022-cover.jpg">
 <a href="/members-area.html" class="standard-button">Get Access</a>
 
 <h3>Contents</h3>
 <ol class="contents-list">
-<li>Chairman’s Report for the Bath Geological Society, 2019/20<span class="contents-page-number">Pg. 4</span></li>
-<li>Arbroath to Auchmithie – Old Red Sandstone Extravaganza<span class="contents-page-number">Pg. 5</span>
-<br><span class="grey-text">Charles Hiscock</span></li>
-<li>Footprints, lake sediments and replaced evaporites from the Triassic of South Wales: fieldtrip 23 April 2016<span class="contents-page-number">Pg. 10</span>
+<li>Chairman’s Report<span class="contents-page-number">Pg. 4</span></li>
+<li>Jacoba Sherriff, Obituary<span class="contents-page-number">Pg. 5</span>
+<br><span class="grey-text">Elizabeth Devon & Mellissa Freeman</span></li>
+<li>Sand to Rock – the Making of Bath Stone: Cementation, Burial and Uplift of the Great Oolite, Middle Jurassic, England<span class="contents-page-number">Pg. 6</span>
 <br><span class="grey-text">Maurice Tucker</span></li>
-<li>Why is there flint in Islay<span class="contents-page-number">Pg. 12</span>
-<br><span class="grey-text">Isabel Buckingham</span></li>
-<li>Crossword<span class="contents-page-number">Pg. 16</span></li>
-<li>Reminiscences – Bath Geological Society<span class="contents-page-number">Pg. 17</span>
-<br><span class="grey-text">Elizabeth Devon</span></li>
-<li>Early Fractures in Limestones: an example from Bermuda<span class="contents-page-number">Pg. 19</span>
-<br><span class="grey-text">Maurice Tucker</span></li>
-<li>‘Blow, blow thou watery wells’ (with apologies to W. Shakespeare!)<span class="contents-page-number">Pg. 22</span>
+<li>The Lower Greensand of Seend<span class="contents-page-number">Pg. 10</span>
+<br><span class="grey-text">Veronica Cleverly</span></li>
+<li>Crummack Dale, the Norber Erratics<span class="contents-page-number">Pg. 11</span>
 <br><span class="grey-text">Charles Hiscock</span></li>
-<li>Fun with Thin Sections<span class="contents-page-number">Pg. 24</span>
-<br><span class="grey-text">Jonathan Slack</span></li>
-<li>Quiz<span class="contents-page-number">Pg. 28</span>
-<br><span class="grey-text">Sam Medworth</span></li>
-<li>Dinosaur Snippets<span class="contents-page-number">Pg. 29</span>
+<li>The Evolution of Flight in Vertebrates<span class="contents-page-number">Pg. 13</span>
+<br><span class="grey-text">Katie Munday and Phil Burge</span></li>
+<li>Biofilms and Minerals in the hot springs of Bath, England: Bacteria-EPS-Viruses, Calcite, Ferrihydrite<span class="contents-page-number">Pg. 17</span>
+<br><span class="grey-text">Maurice Tucker and Leon Bowen</span></li>
+<li>The Fossil<span class="contents-page-number">Pg. 24</span>
+<br><span class="grey-text">Charles Hiscock</span></li>
+<li>First Planetary Field Trip to Mars 2030<span class="contents-page-number">Pg. 24</span>
 <br><span class="grey-text">Phil Burge</span></li>
-<li>Breathing new life into old rocks: The Stonar School Geological Collection<span class="contents-page-number">Pg. 31</span>
-<br><span class="grey-text">Simon Carpenter</span></li>
-<li>'Breaking news – meteorite impact causes devastation near South Gloucestershire village'<span class="contents-page-number">Pg. 33</span>
-<br><span class="grey-text">Charles Hiscock</span></li>
-<li>Equatorial Rain-Forests in Bath: Fossil Coal-Measure Plants from Twerton—Radstock<span class="contents-page-number">Pg. 35</span>
-<br><span class="grey-text">Maurice Tucker</span></li>
-<li>Bath Geological Society 50th Anniversary 1970-2020<span class="contents-page-number">Pg. 40</span>
+<li>Dinosaur trackways and landslides - the geology around Rovereto, Northern Italy<span class="contents-page-number">Pg. 28</span>
 <br><span class="grey-text">Graham Hickman</span></li>
+<li>50th Anniversary Field Excursion to Midford, led by Dr Maurice Tucker on Saturday 9th April, 2022<span class="contents-page-number">Pg. 29</span>
+<br><span class="grey-text">Charles Hiscock</span></li>
+<li>Corndon Hill<span class="contents-page-number">Pg. 33</span>
+<br><span class="grey-text">Jonathan Slack</span></li>
+<li>Some Short Notes on Shale Gas in the UK<span class="contents-page-number">Pg. 35</span>
+<br><span class="grey-text">Phil Burge</span></li>
+<li>Greenland field trip with the Geological Society of Glasgow<span class="contents-page-number">Pg. 36</span>
+<br><span class="grey-text">Mellissa Freeman</span></li>
+<li>Corals in Bath Stone and their Taphonomy, (Great Oolite, Jurassic, England)<span class="contents-page-number">Pg. 39</span>
+<br><span class="grey-text">Maurice Tucker</span></li>
 </ol>
 <hr>
 <h3>The Journal of the Bath Geological Society</h3>
