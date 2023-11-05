@@ -2,7 +2,7 @@
 layout: lecture
 title:  "The NW Highlands Controversy: Geology, geologists and social climbing in Victorian times"
 speaker: " Dr. Peter Gutteridge, Visiting Lecturer university of Manchester"
-date:   '2023-12-07 19:30:00'
+date:   '2023-12-07 19:00:00'
 visitor_cost: 'Book via <a href="https://www.eventbrite.co.uk/e/the-nw-highland-controversy-geological-social-climbing-in-victorian-times-tickets-745459889597">Eventbrite</a> to access on Zoom'
 location: 'Virtual Talk via Zoom'
 background_image: '/assets/Moine-thrust-zone-Loch-Glencoul.png'
