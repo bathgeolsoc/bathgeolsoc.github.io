@@ -8,7 +8,7 @@ title: Join the Bath Geological Society
 <li>A copy of our professionally produced annual Journal.</li></ul>
 <hr class="full-hr">
 <h3>Pricing</h3>
-<i>For the period 1st January - 31st December 2021</i>
+<i>For the period 1st January - 31st December</i>
 <table>
 <tr>
 <td>Annual adult subscription</td><td>£30.00</td>
@@ -408,6 +408,6 @@ title: Join the Bath Geological Society
 </div>
 <div id="so-help">
 <h4>Standing Order</h4>
-<p>Please download and print the following form: <strong><a download href="/assets/Bath-Geol-Soc-standing-order-2023.doc">Bath-Geol-Soc-standing-order-2023.doc</a></strong></p>
+<p>Please download and print the following form: <strong><a download href="/assets/Bath-Geol-Soc-standing-order.doc">Bath-Geol-Soc-standing-order.doc</a></strong></p>
 <p>Once completed, please send to: Ms Katie Munday, The Membership Secretary, 6 Lymore Terrace, Bath, BA2 2JL</p>
 </div>
