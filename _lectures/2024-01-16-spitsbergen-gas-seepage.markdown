@@ -3,7 +3,7 @@ layout: lecture
 title:  "Gas seepage in the fjords of western Spitsbergen and its geological controls"
 speaker: "Dr. Nil Rodes, University of Svalbard"
 date:   '2024-01-16 19:00:00'
-visitor_cost: 'Book via Eventbrite to access via Zoom'
+visitor_cost: 'Book via <a href="https://www.eventbrite.co.uk/e/gas-seepage-in-the-fjords-of-western-spitsbergen-its-geological-controls-tickets-773223431097?aff=oddtdtcreator">Eventbrite</a> to access on Zoom'
 location: 'Virtual Talk via Zoom'
 background_image: '/assets/NIL_RODES_Polar_pic.jpg'
 ---
