@@ -1,42 +1,33 @@
 ---
 layout: journal-main
-title: Journal No. 40, 2022 Out Now!
+title: Journal No. 41, 2023 Out Now!
 ---
-<img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2022-cover.jpg">
+<img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2023-cover.jpg">
 <a href="/members-area.html" class="standard-button">Get Access</a>
 
 <h3>Contents</h3>
 <ol class="contents-list">
-<li>Chairman’s Report<span class="contents-page-number">Pg. 4</span></li>
-<li>Jacoba Sherriff, Obituary<span class="contents-page-number">Pg. 5</span>
-<br><span class="grey-text">Elizabeth Devon & Mellissa Freeman</span></li>
-<li>Sand to Rock – the Making of Bath Stone: Cementation, Burial and Uplift of the Great Oolite, Middle Jurassic, England<span class="contents-page-number">Pg. 6</span>
-<br><span class="grey-text">Maurice Tucker</span></li>
-<li>The Lower Greensand of Seend<span class="contents-page-number">Pg. 10</span>
-<br><span class="grey-text">Veronica Cleverly</span></li>
-<li>Crummack Dale, the Norber Erratics<span class="contents-page-number">Pg. 11</span>
-<br><span class="grey-text">Charles Hiscock</span></li>
-<li>The Evolution of Flight in Vertebrates<span class="contents-page-number">Pg. 13</span>
-<br><span class="grey-text">Katie Munday and Phil Burge</span></li>
-<li>Biofilms and Minerals in the hot springs of Bath, England: Bacteria-EPS-Viruses, Calcite, Ferrihydrite<span class="contents-page-number">Pg. 17</span>
-<br><span class="grey-text">Maurice Tucker and Leon Bowen</span></li>
-<li>The Fossil<span class="contents-page-number">Pg. 24</span>
-<br><span class="grey-text">Charles Hiscock</span></li>
-<li>First Planetary Field Trip to Mars 2030<span class="contents-page-number">Pg. 24</span>
-<br><span class="grey-text">Phil Burge</span></li>
-<li>Dinosaur trackways and landslides - the geology around Rovereto, Northern Italy<span class="contents-page-number">Pg. 28</span>
-<br><span class="grey-text">Graham Hickman</span></li>
-<li>50th Anniversary Field Excursion to Midford, led by Dr Maurice Tucker on Saturday 9th April, 2022<span class="contents-page-number">Pg. 29</span>
-<br><span class="grey-text">Charles Hiscock</span></li>
-<li>Corndon Hill<span class="contents-page-number">Pg. 33</span>
-<br><span class="grey-text">Jonathan Slack</span></li>
-<li>Some Short Notes on Shale Gas in the UK<span class="contents-page-number">Pg. 35</span>
-<br><span class="grey-text">Phil Burge</span></li>
-<li>Greenland field trip with the Geological Society of Glasgow<span class="contents-page-number">Pg. 36</span>
-<br><span class="grey-text">Mellissa Freeman</span></li>
-<li>Corals in Bath Stone and their Taphonomy, (Great Oolite, Jurassic, England)<span class="contents-page-number">Pg. 39</span>
-<br><span class="grey-text">Maurice Tucker</span></li>
+  <li>Chairman’s Report<span class="contents-page-number">Pg. 4</span></li>
+  <li>Obituary, Mrs Edna Clifford (formerly Edna Parmenter) 1915-2021<span class="contents-page-number">Pg. 5</span></li>
+  <li>‘Picnic at Bushy Grove’<span class="contents-page-number">Pg. 6</span><br><span class="grey-text">Charles Hiscock</span></li>
+  <li>Blue Bath Stone: the real colour of Bath Oolite (Middle Jurassic, England)<span class="contents-page-number">Pg. 9</span><br><span class="grey-text">Maurice Tucker</span></li>
+  <li>A MOOC review: An introduction to geology<span class="contents-page-number">Pg. 12</span><br><span class="grey-text">Ayden Sidique</span></li>
+  <li>Basalt from Fayoum, Egypt<span class="contents-page-number">Pg. 12</span><br><span class="grey-text">Graham Hickman</span></li>
+  <li>‘In search of Dinosaur Footprints’ – A field trip to Penarth and Sully in South Wales on Friday 5th May 2023<span class="contents-page-number">Pg. 14</span><br><span class="grey-text">Dr Maurice Tucker, Charles Hiscock</span></li>
+  <li>Lundy Island<span class="contents-page-number">Pg. 20</span><br><span class="grey-text">Jonathan Slack</span></li>
+  <li>A Geologist’s world of literature<span class="contents-page-number">Pg. 23</span><br><span class="grey-text">David Rowley</span></li>
+  <li>Earth Science Podcasts and BBC Radio Programmes<span class="contents-page-number">Pg. 26</span><br><span class="grey-text">David Rowley</span></li>
+  <li>Sculptures in Bath Stone (Middle Jurassic oolite): the MicroArt of Bath Riverside<span class="contents-page-number">Pg. 27</span><br><span class="grey-text">Maurice Tucker</span></li>
+  <li>Rare Fossils found by BGS members<span class="contents-page-number">Pg. 32</span><br><span class="grey-text">Graham Hickman</span></li>
+  <li>The Cliff at Blue Anchor Point: Anatomy of A Buttress Anticline<span class="contents-page-number">Pg. 34</span><br><span class="grey-text">David M. Hall</span></li>
+  <li>Quiz<span class="contents-page-number">Pg. 41</span><br><span class="grey-text">Kerry Hickman</span></li>
+  <li>Holiday rocking in Scotland’s Northwest Highlands<span class="contents-page-number">Pg. 42</span><br><span class="grey-text">Charles Hiscock</span></li>
+  <li>The Biggest Burrows - Excavated by extinct Pliestocene giant ground Sloths, South America<span class="contents-page-number">Pg. 48</span><br><span class="grey-text">Maurice Tucker</span></li>
+  <li>Rock Faces<span class="contents-page-number">Pg. 52</span><br><span class="grey-text">Mellissa Freeman</span></li>
+  <li>Location map from Sculptures in Bath Stone article on pg. 27<span class="contents-page-number">Pg. 54</span></li>
+  <li>Quiz answers & disclaimer<span class="contents-page-number">Pg. 55</span></li>
 </ol>
+
 <hr>
 <h3>The Journal of the Bath Geological Society</h3>
 The Purpose of the Journal is to record the activities of the Bath Geological Society. It may include, but is not limited to the following; Chairman’s report for the year, record of the meetings held, list of members including
