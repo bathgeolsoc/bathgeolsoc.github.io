@@ -34,17 +34,22 @@ Visitors: {{ site.lecture_cost }}
 <h3>Date and Time</h3>
 <p>
 <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="startDate">
-        {%- assign date_format = site.minima.date_format | default: "%A, %b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time></p>
-	<p>
-	{%- assign startDateSeconds = page.date | date: '%s' -%}
-	{%- assign lectureDuration = page.duration | default: "60" -%}
-	{%- assign durationSeconds = lectureDuration | times: 60 -%}
-	{%- assign endDate = startDateSeconds | plus: durationSeconds -%}
-	{{ page.date | date: "%H:%M" }} - <time class="dt-published" datetime="{{ endDate | date_to_xmlschema }}" itemprop="endDate">{{ endDate | date: "%H:%M" }}</time>
-	</p>
-	</div>
+  {%- assign date_format = site.minima.date_format | default: "%A, %b %-d, %Y" -%}
+  {{ page.date | date: date_format }}
+</time></p>
+<p>
+{%- assign startDateSeconds = page.date | date: '%s' -%}
+{%- if page.type == "agm" -%}
+  {%- assign lectureDuration = 30 -%}
+{%- else -%}
+  {%- assign lectureDuration = page.duration | default: "60" -%}
+{%- endif -%}
+{%- assign durationSeconds = lectureDuration | times: 60 -%}
+{%- assign endDate = startDateSeconds | plus: durationSeconds -%}
+{{ page.date | date: "%H:%M" }} - <time class="dt-published" datetime="{{ endDate | date_to_xmlschema }}" itemprop="endDate">{{ endDate | date: "%H:%M" }}</time>
+</p>
+</div>
+
 <div id="eventLocation" class="eventInfoColumn" itemscope itemprop="location" itemtype="http://schema.org/Place">
 <h3>Location</h3>
 <p>
