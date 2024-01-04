@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "2024 Bath Geological Society AGM"
+date:   '2024-02-01 19:00:00'
+type: "agm"
+location: 'Virtual Talk via Zoom'
+---
+Please note that the AGM is for members only. The AGM will start at 8.00 p.m. following the lecture which starts at 7.00 p.m this year.  Visitors are welcome to attend the evening's lecture.
