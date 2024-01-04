@@ -25,7 +25,7 @@ title: Journal No. 41, 2023 Out Now!
   <li>The Biggest Burrows - Excavated by extinct Pliestocene giant ground Sloths, South America<span class="contents-page-number">Pg. 51</span><br><span class="grey-text">Maurice Tucker</span></li>
   <li>Rock Faces<span class="contents-page-number">Pg. 55</span><br><span class="grey-text">Mellissa Freeman</span></li>
   <li>Location map from Sculptures in Bath Stone article on pg. 27<span class="contents-page-number">Pg. 57</span></li>
-  <li>Quiz answers & disclaimer<span class="contents-page-number">Pg. 68</span></li>
+  <li>Quiz answers & disclaimer<span class="contents-page-number">Pg. 58</span></li>
 </ol>
 
 <hr>
