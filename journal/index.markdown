@@ -15,17 +15,17 @@ title: Journal No. 41, 2023 Out Now!
   <li>Basalt from Fayoum, Egypt<span class="contents-page-number">Pg. 12</span><br><span class="grey-text">Graham Hickman</span></li>
   <li>‘In search of Dinosaur Footprints’ – A field trip to Penarth and Sully in South Wales on Friday 5th May 2023<span class="contents-page-number">Pg. 14</span><br><span class="grey-text">Dr Maurice Tucker, Charles Hiscock</span></li>
   <li>Lundy Island<span class="contents-page-number">Pg. 20</span><br><span class="grey-text">Jonathan Slack</span></li>
-  <li>A Geologist’s world of literature<span class="contents-page-number">Pg. 23</span><br><span class="grey-text">David Rowley</span></li>
-  <li>Earth Science Podcasts and BBC Radio Programmes<span class="contents-page-number">Pg. 26</span><br><span class="grey-text">David Rowley</span></li>
-  <li>Sculptures in Bath Stone (Middle Jurassic oolite): the MicroArt of Bath Riverside<span class="contents-page-number">Pg. 27</span><br><span class="grey-text">Maurice Tucker</span></li>
-  <li>Rare Fossils found by BGS members<span class="contents-page-number">Pg. 32</span><br><span class="grey-text">Graham Hickman</span></li>
-  <li>The Cliff at Blue Anchor Point: Anatomy of A Buttress Anticline<span class="contents-page-number">Pg. 34</span><br><span class="grey-text">David M. Hall</span></li>
+  <li>A Geologist’s world of literature<span class="contents-page-number">Pg. 26</span><br><span class="grey-text">David Rowley</span></li>
+  <li>Earth Science Podcasts and BBC Radio Programmes<span class="contents-page-number">Pg. 29</span><br><span class="grey-text">David Rowley</span></li>
+  <li>Sculptures in Bath Stone (Middle Jurassic oolite): the MicroArt of Bath Riverside<span class="contents-page-number">Pg. 30</span><br><span class="grey-text">Maurice Tucker</span></li>
+  <li>Rare Fossils found by BGS members<span class="contents-page-number">Pg. 35</span><br><span class="grey-text">Graham Hickman</span></li>
+  <li>The Cliff at Blue Anchor Point: Anatomy of A Buttress Anticline<span class="contents-page-number">Pg. 37</span><br><span class="grey-text">David M. Hall</span></li>
   <li>Quiz<span class="contents-page-number">Pg. 41</span><br><span class="grey-text">Kerry Hickman</span></li>
-  <li>Holiday rocking in Scotland’s Northwest Highlands<span class="contents-page-number">Pg. 42</span><br><span class="grey-text">Charles Hiscock</span></li>
-  <li>The Biggest Burrows - Excavated by extinct Pliestocene giant ground Sloths, South America<span class="contents-page-number">Pg. 48</span><br><span class="grey-text">Maurice Tucker</span></li>
-  <li>Rock Faces<span class="contents-page-number">Pg. 52</span><br><span class="grey-text">Mellissa Freeman</span></li>
-  <li>Location map from Sculptures in Bath Stone article on pg. 27<span class="contents-page-number">Pg. 54</span></li>
-  <li>Quiz answers & disclaimer<span class="contents-page-number">Pg. 55</span></li>
+  <li>Holiday rocking in Scotland’s Northwest Highlands<span class="contents-page-number">Pg. 45</span><br><span class="grey-text">Charles Hiscock</span></li>
+  <li>The Biggest Burrows - Excavated by extinct Pliestocene giant ground Sloths, South America<span class="contents-page-number">Pg. 51</span><br><span class="grey-text">Maurice Tucker</span></li>
+  <li>Rock Faces<span class="contents-page-number">Pg. 55</span><br><span class="grey-text">Mellissa Freeman</span></li>
+  <li>Location map from Sculptures in Bath Stone article on pg. 27<span class="contents-page-number">Pg. 57</span></li>
+  <li>Quiz answers & disclaimer<span class="contents-page-number">Pg. 68</span></li>
 </ol>
 
 <hr>
