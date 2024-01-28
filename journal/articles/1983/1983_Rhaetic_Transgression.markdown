@@ -18,7 +18,7 @@ Higher, in the Rhaetic proper, the red colour disappears gradually to be replace
 
 All of these forms of green colouration probably result from the reduction of the highly oxidised iron mineral haematite which caused the red colour, to a relatively reduced ferrous salt. The reduction may have been caused by decaying organic matter, in some of the spherical green spots there is a black organic centre, and some of the green bands contain debris, again possibly organic, which is not seen in the red bands. The meandering cylindrical green bodies are almost certainly burrows made by organisms. This discolouration can be seen happening today where organic debris is enclosed in weathered red muds. The green bands may therefore be regarded as indirect evidence for the presence Of organic material in the sediment.
 
-<img fossils>
+<img src="assets/rhaetic-transgression-fossils.jpg">
 
 Some of the most conspicuous green horizons exhibit distinct polygonal cracks on upper bedding planes, and also often show oscillatory ripple marks. These probably formed in very shallow water due to wave action and the two phenomena prove that these beds at least were covered by water.  
 

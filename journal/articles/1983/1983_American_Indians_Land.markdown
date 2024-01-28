@@ -1,6 +1,6 @@
 ---
 layout: journal-article
-title: Geological Field Excursion to the South West United States
+title: The Land and the American Indians
 author: Veronica Cleverly
 year: 1983
 topic: Abroad
@@ -20,7 +20,7 @@ The first substantial Indian ruins we saw were the Betatakin (meaning 'ledge hou
 
 We travelled on to visit Monument Valley, which is best known nowadays as the setting for many western films. Since its first occupation by Indians, the climate has been hot and arid, much as it is today.
 
-<img sketch>
+<img src="assets/monument-valley-sketch.jpg">
 
 Monument Valley was more than 25 million years in the making, from rocks over 200 million years old. An upwarping of the area caused the surface to bulge and crack, allowing the forces of erosion to create the Valley we see today. The
 formations are capped by the harder, more resistant Triassic rocks, the Shinarump Conglomerate; the main body of them is formed from De Chelly sandstone; the base is the softer Organ Rock shale, which erodes out in horozontal terraces forming the sloping foundations of the monuments.
@@ -33,7 +33,7 @@ We visited canyon deChelly which has been inhabited by Indians since the earlies
 
 The ruins visible there were built between 350 and 1300 A.D. The earliest houses were pit houses, which had their lower portion sunk into the ground. These were built on the canyon floor, and their inhabitants grew maise and squash and made baskets and woven articles. It was later than they learnt to make pottery, grow cotton and had bows and arrows, and started living in villages of rectangular stone houses, built on the canyon walls in recesses, often in apparently inaccessible spots.
 
-<img white house ruins>
+<img src="assets/white-house-ruins.jpg">
 
 The reasons for this may have been to avoid the flash floods of the canyon floor, protection against attack from other tribes or wild animals or the general protection against the weather afforded by the canyon walls. One of the ruins known as the White house ruin still remains relatively secure up on the canyon wall, but another Slide Rock, as the name suggests, displays vividly the problem of building on such a site. Most of the buildings have slipped off the ledge, and lie as rubble at the foot of the canyon wall.
 
@@ -41,7 +41,7 @@ Wupatki, in the Sunset Crater area, was the next ruin we visited. About 600 A.D.
 
 Many rocks in the southwest still bear the petroglyphs inscribed by Indians in the past. One that we visited was called Newspaper rock. The inscriptions on it span 1000 years, and any maning they may have is unknown. Newspaper rock itself is a boulder of Wingate sandstone, which when exposed to weathering over the centuries has acquired a coating of what is known as desert varnish. Desert varnish takes thousands of years to accumulate. Rainwater passing through the rocks dissolves the oxides in the rock, and due to the hot, aride climate is evaporated out of the rock again, leaving the solution to harden on the surface. This surface coating must be very resistant as it tends to be polished rather than worn off by the wind blown sand. Manganese forms a blue black coating while iron forms a reddish one. The petroglyphs were actually made by chipping off the desert varnish to allow the pale cream colour of the sandstone to show through the dark coating.
 
-<img glyphs>
+<img src="assets/american-glyphs.jpg">
 
 Walnut Canyon was the only place we visited where we were able to go inside restored Indian cliff dwellings. The Canyon walls are formed at the base from petrified sand dunes of the Toroweap formation, 200 million years old. Above this are the stair like ledges of the Kaibab limestone, formed from compressed fine silts and shells. The uplift of the land caused Walnut Creek to cut down and form the canyon. It cut into the soft limestones. The harder sandstone caused a  narrowing of the canyon at the base. Ledges were formed in the softer limestone by the erosive forces of wind, water and ice. It is these ledges that form the basis for the Indian dwellings.
 
@@ -49,7 +49,7 @@ The Canyon today is 122metres deep. A stream, probably 1.2-1.5 metres deep flowe
 
 Walking along in front of the dwellings was quite cool in the wind, but on stepping inside any of them, I was immediately struck by the warmth inside. Obviously they trapped the warmth of the sun which had been on them during the day.
 
-<img dwelling>
+<img src="assets/dwelling-cross-section.jpg">
 
 In all cases natural caves had been utilised. The fronts were closed and partition walls were made with limestone blocks, layed to form a double wall with straight faces outwards, and the gaps filled with rubble. Clay and mud were used for both mortar and plaster. A layer of clay occurs about 30 metres above the stream bed. When pulverized and mixed with water, the clay is suitable as mortar. The average room has 7.2 square metres of floor space, which was quite a reasonable size. The outer walls were built far enough back under the overhang of the rock to allow rainwater running down the rock face to drip off outside the wall. The floors were made up of multiple layers of hard packed clay, around one centimetre thick in total. In front of every house on the cliff edge was a retaining wall, enclosing the open air work area. Very little wood was used in their construction, only for things like door lintels.
 
@@ -57,4 +57,4 @@ Farming was difficult in this area, they grew beans, squash and corn whereever t
 
 The insight into the lives past and present, showed how people adapted to live with the land, as opposed to adapting the land to fit the people. It was a much harder way of life, but it has left the land much as it was when they found it.
 
-<img walnut>
+<img src="assets/walnut-canyon-dwellings.jpg">

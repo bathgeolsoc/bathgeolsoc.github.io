@@ -25,4 +25,4 @@ The Cornish granites e.g. St, Austell show a high readiogebnic content and this 
 
 The special quality and quantity of the kaolin or china-clay deposits of South West England are therefore due to a combination of complicated processes.
 
-<img section>
+<img src="assets/kaolin-deposit-section.jpg">
