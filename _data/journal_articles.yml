@@ -306,6 +306,132 @@
     page: 40-41
     starting page: 40
 -
+    title: Chairman’s Report for the Bath Geological Society, 2018/19
+    url: 2019/2019_Chairmans_Report.pdf
+    author: Graham Hickman
+    year: 2019
+    topic: Society
+    issue: 37
+    page: 3-4
+    starting page: 4
+-
+    title: Kaikoura Earthquake and after
+    url: 2019/2019_Kaikoura_Earthquake.pdf
+    author: Isabel Buckingham
+    year: 2019
+    topic: Abroad
+    issue: 37
+    page: 4-5
+    starting page: 4
+-
+    title: Interesting Geological Localities in West Wales – A much Belated Postscript
+    url: 2019/2019_West_Wales_Geology.pdf
+    author: Charles Hiscock
+    year: 2019
+    topic: Wales
+    issue: 37
+    page: 5-7
+    starting page: 5
+-
+    title: Kimmeridge Bay Field Trip 14th May led by Graham Hickman
+    url: 2019/2019_Kimmeridge_Bay_Field_Trip.pdf
+    author: Phil Burge
+    year: 2019
+    topic: Dorset
+    issue: 37
+    page: 7-11
+    starting page: 7
+-
+    title: Landscape and Geology of the Burren, Co. Clare, Ireland
+    url: 2019/2019_Burren_Geology.pdf
+    author: Isabel Buckingham
+    year: 2019
+    topic: Ireland
+    issue: 37
+    page: 11-12
+    starting page: 11
+-
+    title: My Top Ten Geological Sites of Pembrokeshire
+    url: 2019/2019_Top_Ten_Pembrokeshire_Geology.pdf
+    author: Megan Taylor
+    year: 2019
+    topic: Wales
+    issue: 37
+    page: 12-16
+    starting page: 12
+-
+    title: 'O''ahu, Hawaii, May'
+    url: 2019/2019_Oahu_Hawaii.pdf
+    author: Mellissa Freeman
+    year: 2019
+    topic: Abroad
+    issue: 37
+    page: 16-20
+    starting page: 16
+-
+    title: Field Excursion to the Vale of Glamorgan Coast, led by Dr Geraint Owen of Swansea University on Saturday 20th October
+    url: 2019/2019_Vale_Glamorgan_Field_Trip.pdf
+    author: Charles Hiscock
+    year: 2019
+    topic: Wales
+    issue: 37
+    page: 21-25
+    starting page: 21
+-
+    title: Book Review&#58; The Story of the Earth in 25 Rocks by Donald R. Prothero
+    url: 2019/2019_Story_of_the_Earth_Book_Review.pdf
+    author: Isabel Buckingham
+    year: 2019
+    topic: General Geology
+    issue: 37
+    page: 25
+    starting page: 25
+-
+    title: Lulworth Cove Field Trip - April 2017
+    url: 2019/2019_Lulworth_Cove_Field_Trip.pdf
+    author: Graham Hickman
+    year: 2019
+    topic: Dorset
+    issue: 37
+    page: 25-28
+    starting page: 25
+-
+    title: Directional Drilling - From Geometry to Geology
+    url: 2019/2019_Directional_Drilling.pdf
+    author: Phil Burge
+    year: 2019
+    topic: General Geology
+    issue: 37
+    page: 28-33
+    starting page: 28
+-
+    title: Tintern Geology Field Trip - Led by Dave Green
+    url: 2019/2019_Tintern_Field_Trip.pdf
+    author: Bob Mustow
+    year: 2019
+    topic: Wales
+    issue: 37
+    page: 33-36
+    starting page: 33
+-
+    title: Port Askaig Tillite
+    url: 2019/2019_Port_Askaig_Tillite.pdf
+    author: Isabel Buckingham
+    year: 2019
+    topic: Scotland
+    issue: 37
+    page: 36
+    starting page: 36
+-
+    title: Geological Word Search
+    url: 2019/2019_Word_Search.pdf
+    author: Bath Geological Society
+    year: 2019
+    topic: General Geology
+    issue: 37
+    page: 37
+    starting page: 37
+-
     title: Chairman&#39;s Report for the Bath Geological Society, 2017
     url: 2017/2017_Chairmans_Report.pdf
     author: Maurice Tucker
@@ -1899,6 +2025,96 @@
     page: 51-53
     starting page: 51
 -
+    title: The Falkland Islands
+    url: 1984/1984_The_Falkland_Islands
+    author: A T F Comer
+    year: 1984
+    topic: Abroad
+    issue: 4
+    page: 1-4
+    starting page: 1
+-
+    title: A Code for Geological Field Work
+    url: 1984/1984_Field_Work_Joke
+    author: E.J. Corin
+    year: 1984
+    topic: General Geology
+    issue: 4
+    page: 4
+    starting page: 4
+-
+    title: Of Birds, Bees and Jellyfish
+    url: 1984/1984_Birds_Bees_Jellyfish
+    author: C Hiscock
+    year: 1984
+    topic: South West England
+    issue: 4
+    page: 5-6
+    starting page: 5
+-
+    title: Geology of Connemara
+    url: 1984/1984_Connemara_Geology
+    author: Dr R Bradshaw
+    year: 1984
+    topic: Ireland
+    issue: 4
+    page: 7-8
+    starting page: 7
+-
+    title: Ullapool
+    url: 1984/1984_Ullapool
+    author: Betty Hall
+    year: 1984
+    topic: Scotland
+    issue: 4
+    page: 8-9
+    starting page: 8
+-
+    title: Fossils, Boring and Otherwise
+    url: 1984/1984_Boring_Fossils
+    author: P G Hardy
+    year: 1984
+    topic: General Geology
+    issue: 4
+    page: 10-14
+    starting page: 10
+-
+    title: Field Excursion to Pembrokeshire 10th-12th June 1983
+    url: 1984/1984_Pembrokeshire_Field_Trip
+    author: Ron Smith
+    year: 1984
+    topic: Wales
+    issue: 4
+    page: 15-18
+    starting page: 15
+-
+    title: Aspects of South Australian Geology
+    url: 1984/1984_South_Australian_Geology
+    author: J F Bevan Jones
+    year: 1984
+    topic: Abroad
+    issue: 4
+    page: 18-19
+    starting page: 18
+-
+    title: A Journey Through the Postojna Caves
+    url: 1984/1984_Postojna_Caves
+    author: Sonia Vince
+    year: 1984
+    topic: Abroad
+    issue: 4
+    page: 20-21
+    starting page: 20
+-
+    title: Thoughts on the Geology of Islands
+    url: 1984/1984_Geology_of_Islands
+    author: A T F Comer
+    year: 1984
+    topic: General Geology
+    issue: 4
+    page: 22-25
+    starting page: 22
+-
     title: Bath Geological Society
     url: 1983/1983_Bath_Geological_Society
     author: A Comer
@@ -2204,4 +2420,3 @@
     issue: 1
     page: 12-13
     starting page: 12
-
