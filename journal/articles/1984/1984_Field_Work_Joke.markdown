@@ -1,7 +1,7 @@
 ---
 layout: journal-article
 title: A Code for Geological Field Work
-author: E.J. Corin
+author: E.J. Coppin
 year: 1984
 topic: General Geology
 volume: 4

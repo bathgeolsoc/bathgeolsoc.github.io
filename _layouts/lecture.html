@@ -4,7 +4,8 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/Event">
 <link itemprop="image" href="/assets/favicon-96x96.png" />
 <header class="post-header lecture-head" 
-        style="background-image: linear-gradient( rgba(66, 66, 66, 0.68), rgba(66, 66, 66, 0.68 )), 
+        style="background-repeat: no-repeat;
+	background-size: cover; background-image: linear-gradient( rgba(66, 66, 66, 0.68), rgba(66, 66, 66, 0.68 )), 
         url('{{ page.background_image | default: '/assets/brlsi.jpg' | relative_url }}');">
     <h1 class="event-title p-name" itemprop="name">
 	{%- if page.type != 'agm' -%}

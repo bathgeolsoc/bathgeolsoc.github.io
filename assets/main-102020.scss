@@ -252,6 +252,8 @@ clear: both;
 	}
 .field-trip-head{
 	background-image: linear-gradient( rgba(66, 66, 66, 0.68),rgba(66, 66, 66, 0.68 )), url('/assets/field-trip-background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .event-leader{
 font-size: 1.3em;
