@@ -11,14 +11,14 @@ const searchcount = document.querySelector('.searchcount')
 var index = lunr(function() {
   this.ref('id');
   this.field('title', {boost: 10});
-  this.field('author');
+  this.field('subtitle');
   this.field('type');
   this.field('year');
   for (let key in window.store) {
   this.add({
     'id': key,
     'title': window.store[key].title,
-    'author': window.store[key].author,
+    'subtitle': window.store[key].subtitle,
     'type': window.store[key],
 	'year': window.store[key].year
   });
@@ -34,14 +34,15 @@ const getTerm = function() {
 }
 
 var doSearch = function () {
-		console.log("Searching for " + searchfield.value);
-		selectElement('year-select', '*');
-		selectElement('type-select', '*');
-		searchcount.style.display = "block";
-		var result = index.search('*' + searchfield.value + '*');
-		articleResults.innerHTML = '';
-		searchcount.innerHTML = `Found ${result.length} articles`;
-		showResults(result);
+	const trimmedValue = searchfield.value.trim();
+	console.log("Searching for " + trimmedValue);
+	selectElement('year-select', '*');
+	selectElement('type-select', '*');
+	searchcount.style.display = "block";
+	var result = index.search(trimmedValue);
+	articleResults.innerHTML = '';
+	searchcount.innerHTML = `Found ${result.length} articles`;
+	showResults(result);
 };
 
 var showResults = (result) => {

@@ -34,13 +34,14 @@ const getTerm = function() {
 }
 
 var doSearch = function () {
-		console.log("Searching for " + searchfield.value);
-		searchcount.style.display = "block";
-		selectElement('year-select', '*');
-		var result = index.search('*' + searchfield.value + '*');
-		filteredEvents.innerHTML = '';
-		searchcount.innerHTML = `Found ${result.length} lectures`;
-		showResults(result);
+	const trimmedValue = searchfield.value.trim();
+	console.log("Searching for " + trimmedValue);
+	searchcount.style.display = "block";
+	selectElement('year-select', '*');
+	var result = index.search(trimmedValue);
+	filteredEvents.innerHTML = '';
+	searchcount.innerHTML = `Found ${result.length} lectures`;
+	showResults(result);
 };
 
 var showResults = (result) => {

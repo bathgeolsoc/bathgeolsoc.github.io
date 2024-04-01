@@ -24,6 +24,7 @@ var index = lunr(function() {
   });
 }
 });
+console.log(index);
 
 const getTerm = function() {
   searchfield.addEventListener('keyup', function(event) {
@@ -34,14 +35,15 @@ const getTerm = function() {
 }
 
 var doSearch = function () {
-		console.log("Searching for " + searchfield.value);
-		selectElement('year-select', '*');
-		selectElement('topic-select', '*');
-		searchcount.style.display = "block";
-		var result = index.search('*' + searchfield.value + '*');
-		articleResults.innerHTML = '';
-		searchcount.innerHTML = `Found ${result.length} articles`;
-		showResults(result);
+    const trimmedValue = searchfield.value.trim();
+    console.log("Searching for " + trimmedValue);
+    selectElement('year-select', '*');
+    selectElement('topic-select', '*');
+    searchcount.style.display = "block";
+	var result = index.search(trimmedValue);
+    articleResults.innerHTML = '';
+    searchcount.innerHTML = `Found ${result.length} articles`;
+    showResults(result);
 };
 
 var showResults = (result) => {
@@ -95,13 +97,13 @@ function selectElement(id, valueToSelect) {
     element.value = valueToSelect;
 }
 
-function getSearchTerm(){
-	if(window.location.search.substring(0,8)=="?search="){
-		var searchTerm = window.location.search.slice(8).replace(/%20/g, " ");
-		searchfield.value = searchTerm;
-		doSearch(searchTerm);
-	}
-}
 
+function getSearchTerm(){
+    if(window.location.search.substring(0,8)=="?search="){
+        var searchTerm = window.location.search.slice(8).replace(/%20/g, " ").trim();
+        searchfield.value = searchTerm;
+        doSearch(searchTerm);
+    }
+}
 filterEvents();
 getSearchTerm();

@@ -34,10 +34,11 @@ const getTerm = function() {
 }
 
 var doSearch = function () {
-		console.log("Searching for " + searchfield.value);
+		const trimmedValue = searchfield.value.trim();
+		console.log("Searching for " + trimmedValue);
 		searchcount.style.display = "block";
 		selectElement('year-select', '*');
-		var result = index.search('*' + searchfield.value + '*');
+		var result = index.search(trimmedValue);
 		filteredEvents.innerHTML = '';
 		searchcount.innerHTML = `Found ${result.length} field trips`;
 		showResults(result);

@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title:  "The Geology of Antarctica: A Personal Journey"
-speaker: "James Creswell, GeoWorld Travel"
+speaker: "James Cresswell, GeoWorld Travel"
 date:   '2024-05-02 19:30:00'
 visitor_cost: '£5 on the door at BRLSI or book via Eventbrite to access on Zoom'
 background_image: '/assets/ANTJC-1859.jpg'
