@@ -3,7 +3,7 @@ layout: lecture
 title:  "The Geology of Antarctica: A Personal Journey"
 speaker: "James Cresswell, GeoWorld Travel"
 date:   '2024-05-02 19:30:00'
-visitor_cost: '£5 on the door at BRLSI or book via Eventbrite to access on Zoom'
+visitor_cost: '£5 on the door at BRLSI or book via <a href="https://www.eventbrite.co.uk/e/the-geology-of-antarctica-a-personal-journey-tickets-880111205307">Eventbrite</a> to access on Zoom'
 background_image: '/assets/ANTJC-1859.jpg'
 ---
 This talk presents an overview of the geology of Antarctica based on James’ personal experiences and observations gained during thirty-eight visits to the continent as a geology guide on expedition cruise ships over a period of ten years. The talk will take you through the geological evolution of Antarctica, covering topics from vulcanology to palaeontology and describing sites from the Antarctic Peninsula to the less-visited Ross Sea. The talk is illustrated with many of James’ own photos and personal anecdotes from this exciting chapter of his life.
