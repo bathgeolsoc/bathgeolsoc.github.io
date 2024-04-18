@@ -14,7 +14,7 @@ To see the Upper Triassic through Lower Jurassic succession with changing enviro
 
 Walking along beach and foreshore rock exposures; stout boots and care needed.
 
-In view of the tides, we will be meeting at <span style="color: red; font-weight: bold;">NOON</span> at the Home Farm Holiday Centre (parking, café and facilities available). Post-code TA4 4DP, West Quantoxhead.
+In view of the tides, we will be meeting at <span style="color: red; font-weight: bold;">NOON</span> at the Home Farm Holiday Centre (parking, café and facilities available). <span style="color: red; font-weight: bold;">Post-code TA4 4DP</span>, West Quantoxhead.
 
 This trip is a walk along the beach west of the steps down to St Audrie’s Bay from Home Farm Holiday
 Centre, towards the west and beyond the conspicuous cliff waterfall, and after, if time permits, back
