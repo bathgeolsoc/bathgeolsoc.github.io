@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "TBC"
+speaker: "TBC"
+date:   '2024-11-07 19:30:00'
+visitor_cost: 'Virtual Talk via Zoom'
+---
+TBC
