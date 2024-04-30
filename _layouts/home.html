@@ -48,13 +48,19 @@ window.lectures = [{% for lecture in lecturelist %}{% if lecture.type != 'agm' %
 	}{% unless forloop.last %}, {% endunless %}{% endif %}{% endif %}{% endfor %}]
 
 {% assign fieldtriplist = site.field_trips | sort: 'date' %}
-window.fieldtrips = [{% for fieldtrip in fieldtriplist %}{% assign postyear = fieldtrip.date | date: "%Y" %}{% if postyear >= currentyear %} { {% assign d = fieldtrip.date | date: "%-d" %}
-		"title": {{fieldtrip.title | jsonify}},
-		"leader": {{fieldtrip.leader | jsonify}},
-		"datetime": {{fieldtrip.date | date: "%s"}},
-		"date": {{ fieldtrip.date | date: "%A, %d %B %Y" | jsonify}},
-		"url": "{{ fieldtrip.url }}"
-	}{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}]
+window.fieldtrips = [{% for fieldtrip in fieldtriplist %}{% assign postyear = fieldtrip.date | date: "%Y" %}
+  {% if postyear >= currentyear and fieldtrip.third_party != true %} 
+    { 
+      {% assign d = fieldtrip.date | date: "%-d" %}
+      "title": {{fieldtrip.title | jsonify}},
+      "leader": {{fieldtrip.leader | jsonify}},
+      "datetime": {{fieldtrip.date | date: "%s"}},
+      "date": {{ fieldtrip.date | date: "%A, %d %B %Y" | jsonify}},
+      "url": "{{ fieldtrip.url }}"
+    }{% unless forloop.last %}, {% endunless %}
+  {% endif %}
+{% endfor %}]
+
 
 function compareObjects(o1, o2) {
   var k = '';
