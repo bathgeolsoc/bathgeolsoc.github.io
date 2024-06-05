@@ -3,6 +3,9 @@ layout: lecture
 title:  "A geologists view of producing copper for the world"
 speaker: "Mark Howson, Retired Mineral and Resources Geologist"
 date:   '2024-06-20 19:30:00'
-visitor_cost: '£5 on the door at BRLSI or book via Eventbrite to access on Zoom'
+visitor_cost: '£5 on the door at BRLSI or book via <a href="https://www.eventbrite.co.uk/e/a-geologists-view-of-producing-copper-for-the-world-tickets-909318454977">Eventbrite</a> to access on Zoom'
+background_image: '/assets/copper-production.jpeg'
 ---
-TBC
+The world’s largest and most capital-intensive mines produce copper, an element vital to our civilization for the generation, distribution and use of electrical energy. The geological investigations that find copper deposits, and that support the development and operation of copper mines are not only concerned with the whereabouts and quantities of naturally occurring copper, but also how it may be mined and processed. Before a mining method can be chosen, the mass strength of the host rocks and how they will behave under the stresses induced by mining must be studied. These stresses increase with mining depth. Decisions regarding the processing to produce copper metal also depend on the strength of the mined copper ore, but especially on the other elements that occur within or in association with the copper-bearing minerals. One must not overlook the stakeholders in such 3 studies, which includes the local communities and the environment in what are often very underdeveloped locations.
+
+This talk will be presented by Mark Howson whose career as a mining geologist spans over 40 years, including working with copper deposits, projects and mines on six continents. He also has experience with other base and precious metals and several industrial minerals. After graduating in Mining Geology at the Royal School of Mines, Imperial College of Science and Technology in 1977, Mark lived and worked at a copper mine in Zambia, before working with Rio Tinto plc for 31 years where he was involved with many world-class projects and operations. Since 2013 he has worked as an independent consultant and is now semi-retired, but undertakes some work to ‘keep his hand in‘ in what is an exciting and enjoyable profession.
