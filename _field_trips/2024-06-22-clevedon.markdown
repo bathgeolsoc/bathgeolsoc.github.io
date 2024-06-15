@@ -1,0 +1,27 @@
+---
+layout: field-trip
+title:  "Clevedon: Ladye Bay to Walton Bay"
+leader: "Mark Howson, Bristol Naturalists' Society"
+location: "Ladye Bay, Clevedon (ST 408 728, What3Words: moral.chop.spider)"
+date:   2024-06-22 10:30
+latitude: 51.453260
+longitude: -2.850860
+#precise zoom: 0.005, imprecise zoom: 0.5
+zoom: 0.005
+---
+
+A joint meeting with the South Wales Geologists' Association that will be led by Mark Howson of the Bristol Naturalists' Society. We will look at some little-known geological exposures, mainly of sedimentary features in the Mercia Mudstone Marginal Facies and its unconformity with the Devonian sandstones below.
+
+Meet at 10.30am at Ladye Bay, Clevedon (ST 408 728, What3Words: moral.chop.spider). Parking is along the roadside. Bring a packed lunch. Then, in a smaller number of cars we will travel the short distance to the limited parking at ST 424 736, just to the north of Walton-in-Gordano, which is used for Walton Common.
+
+Then we will walk to the north using a short footpath to meet the coast path at ST 422 741. We will look at the rock arch there (which may be natural, but Mark thinks is due to coastal quarrying before such things were regulated) and generally, the Triassic/Devonian unconformity. We will then walk to the NE to Charlcombe Bay (ST 432 751), to look at the Devonian and Triassic rocks that Mark has been studying. On the return, we will look at Walton Bay with its springs, Devonian/Triassic exposures and a baryte vein. By the time we get back to Walton-in-Gordano, most people may have had enough, but if not we could have a short visit to Walton Common where there are some fossiliferous exposures of Carboniferous limestone, some views over the coast to Wales and inland to the Gordano Valley, and some archaeological earthworks, possibly pre-historic.
+
+The coast path and access to the foreshore is, at times, rocky, slippery, muddy and/or overgrown with bracken and brambles. In one or two places, a little scrambling will be necessary, so wear stout boots and water, wind and bramble-proof clothing, and, Mark suggests, leather or gardening gloves. Mark also recommend sunglasses, safety spectacles or goggles for when the path is through overgrown vegetation. Bring a packed lunch and refreshments. A hard hat is advisable for examination of the cliffs. A hand-lens will be useful.
+
+Originally, this trip was to include a visit to Ladye Bay, with its Triassic oolites, but due to a rock fall, North Somerset Council have deemed it unsafe and have closed access to the bay and the adjacent coast path with a legal order that is current. Therefore, this field trip cannot go there. However, it is hoped that by modifying the trip to include Charlcombe Bay instead, we will see just as much, or arguably more, of geological interest.
+
+Mark is studying for a part-time PhD in Geology at the University of Bristol, and his research focusses on the Triassic rocks in this area. Mark has found trace fossils in the rocks that we shall see at Charlcombe Bay. These occur in pedorelicts, which in this case are, essentially, lumps of soil that have been preserved in fluvial sediments. An account in the Proceedings of the Geologist’s Association can be downloaded here under Open Access. Mark’s research is on-going and one aspect is to try to establish a narrower or more precise age range for these rocks than simply the Upper Triassic, which spans a time period of about 36 million years, from 237 Ma to 201.3 Ma. He hopes to show and discuss reasons why he thinks that they were laid down during the Carnian Pluvial Episode (CPE), a period of exceptional global rainfall and temperature increase from circa 234.0 to 232.4 Ma.
+
+Please see a map and the <a href="/assets/swga_field_trip_20240622_risk_assessment final.docx">risk assessment</a> for the excursion.
+
+<img src="/assets/2024-clevedon-trip-map.png">
