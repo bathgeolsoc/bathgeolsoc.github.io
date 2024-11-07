@@ -6,4 +6,4 @@ date:   '2024-12-05 19:30:00'
 visitor_cost: 'Book via Eventbrite to access via Zoom'
 location: 'Virtual Talk via Zoom'
 ---
-TBC
+Fakes, fossil and mineral, dealing with some of the obvious and less obvious tricks used by the unscrupulous to part collectors from their money. There is also time to look at as a few of the great historic fakes that lead science astray, such as "Beringers lying Stones", "Piltdown Hoax" and more.  
