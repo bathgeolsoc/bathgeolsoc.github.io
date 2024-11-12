@@ -3,6 +3,10 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/Event">
 <link itemprop="image" href="/assets/favicon-96x96.png" />
+<meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+<meta itemprop="organizer" itemscope itemtype="http://schema.org/Organization" />
+<meta itemprop="name" content="Bath Geological Society" />
+<meta itemprop="url" content="https://bathgeolsoc.org.uk" />
 <header class="post-header lecture-head" 
         style="background-repeat: no-repeat;
 	background-size: cover; background-image: linear-gradient( rgba(66, 66, 66, 0.68), rgba(66, 66, 66, 0.68 )), 
@@ -50,16 +54,24 @@ Visitors: {{ site.lecture_cost }}
 {{ page.date | date: "%H:%M" }} - <time class="dt-published" datetime="{{ endDate | date_to_xmlschema }}" itemprop="endDate">{{ endDate | date: "%H:%M" }}</time>
 </p>
 </div>
-
-<div id="eventLocation" class="eventInfoColumn" itemscope itemprop="location" itemtype="http://schema.org/Place">
-<h3>Location</h3>
-<p>
-{%- if page.location -%}
-<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">{{ page.location }}</p>
-{%- else -%}
-<span itemprop="name">Bath Royal Literary and Scientific Institution</span>, <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">16-18 Queen Square</span>, <span itemprop="addressLocality">Bath</span> <span itemprop="postalCode">BA1 2HN</span></span>
-{%- endif -%}
-</p>
+<meta itemprop="eventAttendanceMode" content="{% if page.location == 'Virtual Talk via Zoom' %}https://schema.org/OnlineEventAttendanceMode{% else %}https://schema.org/MixedEventAttendanceMode{% endif %}" />
+<div id="eventLocation" class="eventInfoColumn">
+    <h3>Location</h3>
+    {%- if page.location == 'Virtual Talk via Zoom' -%}
+        <p>Virtual Talk via Zoom</p>
+        <div itemprop="location" itemscope itemtype="http://schema.org/VirtualLocation">
+            <meta itemprop="url" content="https://zoom.us" />
+        </div>
+    {%- else -%}
+        <p>
+            <span itemprop="name">Bath Royal Literary and Scientific Institution</span>, 
+            <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="streetAddress">16-18 Queen Square</span>, 
+                <span itemprop="addressLocality">Bath</span> 
+                <span itemprop="postalCode">BA1 2HN</span>
+            </span>
+        </p>
+    {%- endif -%}
 </div>
 </div>
 <hr>
