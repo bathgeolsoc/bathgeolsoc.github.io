@@ -1,0 +1,35 @@
+---
+layout: journal-article
+title: The Athabasca Glacier
+author: E. Joy Coppin
+year: 1985
+topic: Abroad
+volume: 5
+page: "6-8"
+starting page: 6
+---
+The Athabasca Glacier is one of the four major glaciers which leave the Columbia Icefield - the others being the Saskatchewan, the Dome and the Stutfield.
+
+The Columbia Icefield is situated in Jasper National Park, lying along the British Columbia-Alberta boundary in Western Canada. The largest in the Rockies, it is some 325 sq kms in area, much of it at an elevation of over 3400m. The maximum thickness of ice is up to 365m, calculated from radio-echo soundings. The meltwaters feed three major river systems: (i) the Saskatchewan River flowing eastwards for 1900 kms to enter Hudson Bay, (ii) the Athabasca flowing northwards to join the Mackenzie River system 1350 kms to the Arctic Ocean and (iii) the Columbia flowing south-westwards for 1900 kms to the Pacific Ocean.
+
+This grand and beautiful - but at the same awe-inspiring Athabasca glacier leaves the Icefield at an elevation of 2700m and extends for 6 kms, between majestic mountain ridges to its termination of toe at an elevation of 1958m. It was first described by Sutfield and Collier in 1898 but it was not until the 1900s that detailed scientific investigations were made.
+
+It moves over three ice-falls in its descent with heights of 120m, 90m and 70m respectively. These are due to irregularities and string patterns in the bed-rock. Velocity varies throughout its length but everywhere is greatest in the central zone. Flow rate is approximately 75m per year at the first ice-fall; 25m per year below the lowest fall and 15m near the toe. After leaving the last fall, it descends for almost 4 kms at a width of approximately 1 km. The depth in the centre is approximately 200m. The main glacier is joined by several smaller, also beautiful tributary glaciers descending at quite a steep angle from hanging valleys along the mountain sides. The surface is disturbed by numerous transverse crevasses especially at the ice-falls; longitudinal crevasses run down the glacier and marginal crevasses line the sides at right-angles. The deepest are at about 30m, sealed below by the plastic flow of the ice.
+
+The estimated time required for the ice to flow from icefield to toe is 150 years - so if you dropped your cap into a crevasse at the head of the glacier you would have an impossible wait to retrieve it!
+
+The glacier is in a recession which began in the mid 19th century. The ablation rate at present, at the toe is 4m per year. This is measured by vegetational changes - trimlines identified by counting the growth-lines of tress. In the eighteenth century and early nineteenth century it probably extended across where is now the highway and to the present site of the Information Centre. Between 1870 and 1981 it has receded by 1.5km, i.e 13.5m average per year. The rate however varies and the retreat even halted for periods. The toe had retreated and noticeably altered since my previous visit five years before. Information boards have been set up indicating the position of the toe in certain years, enabling one to imagine its previous appearance.
+
+As one approaches, one walks over polished and striated pavements where the angular rock fragments embedded in the base of the ice have gouged out the bed-rock and the finer particles polished it. The floor is littered with boulders large and small, also showing scratched and polished surfaces.
+
+Some of the most interesting features of this Athabasca glacier are the massive amounts of glacial debris. Great lateral moraines line the sides and extend beyond the present ice limits. These are accumulations of frost-shattered rock fragments - angular, unsorted and mainly unconsolidated which have fallen on to the ice margins to build up these distinctive ridges. The eastern lateral moraine, for example, at its greatest height is 124m above the valley floor with an inner slope of 75°; the outer slope dips more gently. The vertical down-wasting of the ice, possibly 1m per year has assisted in leaving these moraines upstanding. In time, mud-flows, collapse occurs as a result of the melting of contained ice. Mud-flows have carried the finer material beyond the moraine on to the ice-surface.
+
+The melt-water leaves a small ice-cave at the toe as a small stream which flows into the shallow (6m) Sunwapta Lake. This is an ice-gouged rock basin, eroded in the less resistant rock and the lake has only been in existence since 1938, when the glacier retreated sufficiently to expose the basin. It reached its maximum size in 1966 and is now shrinking as it is being infilled by three deltas of re-worked glacial debris - built by one stream from the glacier itself, one stream from the ice cliff to the NW of the toe and one stream of the snow-melt on Mt. Athabasca. The Sunwapta river flows northwards along the ice-deepened Sunwapta Valley to join Athabasca River.
+
+Our party (1984 University of Bristol Extra-mural Geological group) approached the glacier along the Icefield Parkway, the Banff-Jasper Highway from Jasper to the north. Alongside the highway and near the toe of the glacier is Columbia Icefield Information Bureau run by the Jasper National Park Interpretive Service. Its excellent displays with maps, photographs, slides, films, books, leaflets and helpful wardens give a wealth of information for visitors, all of which were eagerly pounced on by our members and really appreciated. Just to the south, the Chalet provides refreshment and accommodation if required.
+
+It is possible to take a snow-bus or snowmobile to travel over the surface of the glacier as far as the first ice-fall. The snow-bus was able comfortably to accommodate all our party of 43 persons. Very sturdily built with enormous tyres it was able to climb the track with a gradient of 45° while negotiating the lateral moraine. This large new type of vehicle dwarfed the small 'beetle-like' snowmobile in which I had travelled five years before. Once on the glacier we could experience the thrill of walking on the ice. We could enjoy the scenery at closer quarters, examine the variations in texture of the ice from granular to smooth and the variations in colour from ashy (due to ashes - this due to interference with the light by air bubbles in the ice), streams of clear, cold melt water flowed in channels and occasionally disappeared down moulins or mills caused by pebbles being swirled around and round to form deep circular depressions (c.f., pot holes in a stream bed). All adding to the fascination of this special 'icy realm'.
+
+Much research and investigation is being carried out by glaciologists in attempts to unravel some of the mysteries. What will the future hold for the Athabasca glacier continue to retreat or will it once more 'cross the road'?
+
+<img src="assets/athabasca-glacier.jpg" alt="Sketch of the Columbia Icefield, Athabasca Glacier, and Sunwapta Lake labeled 'E. Joy Coppin'">

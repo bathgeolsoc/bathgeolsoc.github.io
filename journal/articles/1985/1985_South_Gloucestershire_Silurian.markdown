@@ -1,0 +1,27 @@
+---
+layout: journal-article
+title: The Silurian Rocks of South Gloucestershire
+author: C Hiscock
+year: 1985
+topic: South West England
+volume: 5
+page: "27-28"
+starting page: 27
+---
+<u>Report of a Field Meeting held on 16th September 1984</u>
+
+The field trip was designed to examine the Silurian rocks that outcrop in the Tortworth Inlier of South Gloucestershire and North Avon. The day turned out very warm and sunny, with a little high cloud and a gentle breeze, which was a real bonus after the wet and thundery days preceding it.
+
+Members met at the lay-by near the Falfield motorway interf and spent the first 20 minutes observing the lie of the land from the hill overlooking the motorway. The lower ground of the Wenlock shales and mudstones, with interspersing portions of higher ground produced by the limestone bands, was evident to our front and left, ie to the west and south. To the north the brighter ground of Daniels Wood was clearly distinguished where both the Damery Beds and the Upper Tralv volcanic band of the Upper Llandovery Series outcrop. At our backs, to the east, lay the Old Red Sandstone and beyond it, topped by the fine old building of Tortworth Court, was the Carboniferous Limestone.
+
+We moved next to Damery, pausing for a few moments to look at the Tortworth chestnut (estimated to be upwards of 1000 years old) and the other lovely trees around the village church. Arriving at Damery Bridge, a description of the valley escarpments of interest were given after which we entered the dark and dank confines of Damery Quarry. This lies on the north side of the Little Avon River and the lane, just east of the crossroads and its the best exposure of the Lower Trap. Although well overgrown, members were able to examine the quarry, noting the variation within the olivine basalt from the vesicular material at the top of the quarry - the base of the bed, to the compact form at the top.
+
+Leaving the quarry, and walking a little way up the lane back towards Tortworth brought us to the Damery road bank. This is the type exposure of the Damery Beds and exhibits the shales and sandstone bands typical of this section of the beds. The greenish grey sandstones produce many fossils and members spent some time collecting specimens, many brachiopods and a few corals with the trace fossils such as burrows, being most common and a feature of this site. To obtain a better idea of the material to be found from these beds a visit was made to a man-made pit in the field just north of the river from which many loose blocks had been removed when it was dug. Many of the blocks were turned over, much to the fury of the armies of red ants living underneath, and some small but good quality fossils were found, including the shell of a trilobite, a gastropod, Loxomena and a large lump of Bella of a defined ripple marks. The common feature of the showing well-defined ripple fossilised rottenstones were particularly Damery Beds - abundantly fossilised rottenstones were particularly evident at this site.
+
+By this time it was noticed that some members of the group were exhibiting glazed eyes, parched drooping tongues, and low distant rumblings reminiscent of a far away earthquake, so, after a short drive to Charfield village, a stop was made for lunch on a grassy bank alongside the railway line a stones throw from our next site of interest, Cullimore's Quarry.
+
+The quarry is a well-known SSSI, giving ample opportunity to explore the Upper Trap. This is volcanic rock, andesite, and exhibits amygdales and vesicles, many filled with calcite. Some are small agates but these are more common elsewhere in the Upper Trap. In one small area, the junction of the Upper Trap with the overlying Tortworth Beds is exposed. Only very poor specimens of the ashy limestone which marks the horizon were found, which was unfortunate as some very good examples of corals and brachiopods, with agates, have been found here, notably of the neogose coral Palaeoscyclus porpita.
+
+The final visit of the field trip was to the SSSI of Brinkmarsh Quarry. This lies to the southern end of the Tortworth Inlier and is the type locality for the Brinkmarsh Beds of the Wenlock Series. After describing the detail of the quarry, members examined the various points of interest. The discovery of a large piece of celestite on the southern side of the quarry was of particular interest. In the "Geological Excursions Handbook for the Bristol District" by S.H. Reynolds (1912) mention of the celestite is made in this quarry but little comment has been in publications since that time. The common fossils such as coral Pycnactis mitratis, brachiopods Resserella basalis and others were found by most searchers in the well defined horizon known as the Pycnactis band. A particularly good specimen of the coral Farosites was found from the limestone which overlies the loose shales of the Pycnactis band.
+
+The exposures of Silurian rocks in the Tortworth Inlier are poor, and not particularly abundant but the field trip spent in the area demonstrated there is much of interest for all, ranging from the volcanic rocks of the Lower and Upper Traps to the fossils and minerals of the Brinkmarsh Beds.

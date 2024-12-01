@@ -26,6 +26,10 @@ layout: default
     {{ content }}
 	<hr>
 	<h4>References</h4>
-	<br>
+    <ul>
+      {% for reference in page.references %}
+      <li>{{ reference }}</li>
+      {% endfor %}
+    </ul>
   </div>
 </article>
