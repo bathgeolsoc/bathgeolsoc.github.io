@@ -1,31 +1,25 @@
 ---
 layout: journal-main
-title: Journal No. 41, 2023 Out Now!
+title: Journal No. 42, 2024 Out Now!
 ---
-<img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2023-cover.jpg">
+<img style="border: solid 3px #7b7b7b; height: 500px; margin: auto; display: block;" src="/assets/Bath-GS-Journal-2024-cover.jpg">
 <a href="/members-area.html" class="standard-button">Get Access</a>
 
 <h3>Contents</h3>
 <ol class="contents-list">
   <li>Chairman’s Report<span class="contents-page-number">Pg. 4</span></li>
-  <li>Obituary, Mrs Edna Clifford (formerly Edna Parmenter) 1915-2021<span class="contents-page-number">Pg. 5</span></li>
-  <li>‘Picnic at Bushy Grove’<span class="contents-page-number">Pg. 6</span><br><span class="grey-text">Charles Hiscock</span></li>
-  <li>Blue Bath Stone: the real colour of Bath Oolite (Middle Jurassic, England)<span class="contents-page-number">Pg. 9</span><br><span class="grey-text">Maurice Tucker</span></li>
-  <li>A MOOC review: An introduction to geology<span class="contents-page-number">Pg. 12</span><br><span class="grey-text">Ayden Sidique</span></li>
-  <li>Basalt from Fayoum, Egypt<span class="contents-page-number">Pg. 12</span><br><span class="grey-text">Graham Hickman</span></li>
-  <li>‘In search of Dinosaur Footprints’ – A field trip to Penarth and Sully in South Wales on Friday 5th May 2023<span class="contents-page-number">Pg. 14</span><br><span class="grey-text">Dr Maurice Tucker, Charles Hiscock</span></li>
-  <li>Lundy Island<span class="contents-page-number">Pg. 20</span><br><span class="grey-text">Jonathan Slack</span></li>
-  <li>A Geologist’s world of literature<span class="contents-page-number">Pg. 26</span><br><span class="grey-text">David Rowley</span></li>
-  <li>Earth Science Podcasts and BBC Radio Programmes<span class="contents-page-number">Pg. 29</span><br><span class="grey-text">David Rowley</span></li>
-  <li>Sculptures in Bath Stone (Middle Jurassic oolite): the MicroArt of Bath Riverside<span class="contents-page-number">Pg. 30</span><br><span class="grey-text">Maurice Tucker</span></li>
-  <li>Rare Fossils found by BGS members<span class="contents-page-number">Pg. 35</span><br><span class="grey-text">Graham Hickman</span></li>
-  <li>The Cliff at Blue Anchor Point: Anatomy of A Buttress Anticline<span class="contents-page-number">Pg. 37</span><br><span class="grey-text">David M. Hall</span></li>
-  <li>Quiz<span class="contents-page-number">Pg. 41</span><br><span class="grey-text">Kerry Hickman</span></li>
-  <li>Holiday rocking in Scotland’s Northwest Highlands<span class="contents-page-number">Pg. 45</span><br><span class="grey-text">Charles Hiscock</span></li>
-  <li>The Biggest Burrows - Excavated by extinct Pliestocene giant ground Sloths, South America<span class="contents-page-number">Pg. 51</span><br><span class="grey-text">Maurice Tucker</span></li>
-  <li>Rock Faces<span class="contents-page-number">Pg. 55</span><br><span class="grey-text">Mellissa Freeman</span></li>
-  <li>Location map from Sculptures in Bath Stone article on pg. 27<span class="contents-page-number">Pg. 57</span></li>
-  <li>Quiz answers & disclaimer<span class="contents-page-number">Pg. 58</span></li>
+  <li>The White Lias and the Triassic – Jurassic boundary exposed in Bath, SW England: a Triassic lithographic stone<span class="contents-page-number">Pg. 5</span><br><span class="grey-text">Maurice Tucker</span></li>
+  <li>‘Bone Bed Beer’<span class="contents-page-number">Pg. 12</span><br><span class="grey-text">Charles Hiscock</span></li>
+  <li>Field Trip Report: St Audries Bay, West Somerset, 28th April<span class="contents-page-number">Pg. 16</span><br><span class="grey-text">Led By Maurice Tucker, Report by David Hall</span></li>
+  <li>Memorising the Geological Periods<span class="contents-page-number">Pg. 23</span><br><span class="grey-text">Kerry Hickman</span></li>
+  <li>Field Trip Report: Brown’s Folly, Saturday 10th February 2024<span class="contents-page-number">Pg. 24</span><br><span class="grey-text">Graham Hickman</span></li>
+  <li>Cycling Somerset: How does the geology contribute to the perfect ride?<span class="contents-page-number">Pg. 25</span><br><span class="grey-text">William Leatt, Sixth form student at Wells Cathedral School</span></li>
+  <li>Geological myths that persist<span class="contents-page-number">Pg. 27</span><br><span class="grey-text">Steve Peacock</span></li>
+  <li>Newsletter “Geo-miscellanea” Compilation 2024<span class="contents-page-number">Pg. 29</span><br><span class="grey-text">David Hall</span></li>
+  <li>The White Lias of Pinhay Bay, East Devon: evidence for ancient earthquakes?<span class="contents-page-number">Pg. 36</span><br><span class="grey-text">Eric Squires</span></li>
+  <li>Field Meeting Report: Cleeve Hill Field Trip, near Gloucester. 28.10.2023<span class="contents-page-number">Pg. 40</span><br><span class="grey-text">Graham Hickman</span></li>
+  <li>In Carstone Country, The Building Stone of West Norfolk<span class="contents-page-number">Pg. 41</span><br><span class="grey-text">Charles Hiscock</span></li>
+  <li>Underground life in the Triassic Desert: Burrows in the Otter (Sherwood) Sandstone (Anisian), Devon, SW England<span class="contents-page-number">Pg. 46</span><br><span class="grey-text">Maurice Tucker</span></li>
 </ol>
 
 <hr>
