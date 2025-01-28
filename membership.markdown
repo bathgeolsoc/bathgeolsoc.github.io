@@ -30,7 +30,7 @@ title: Join the Bath Geological Society
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfnpbqZIwATY1ZizGMYz91YUTxRSprSlq0C1zqgpvsQ_kHsUA/formResponse" target="_blank">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfnpbqZIwATY1ZizGMYz91YUTxRSprSlq0C1zqgpvsQ_kHsUA/formResponse">
     <div id="mc_embed_signup_scroll">
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
