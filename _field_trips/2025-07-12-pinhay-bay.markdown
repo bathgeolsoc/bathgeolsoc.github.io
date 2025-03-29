@@ -1,7 +1,7 @@
 ---
 layout: field-trip
 title: "Pinhay Bay Dorset Field Excursion"
-leader: "Maurice Tucker & Eric Squires"
+leader: "Eric Squires & Maurice Tucker"
 location: "Pinhay Bay, Dorset"
 date: 2025-07-12 11:00
 latitude: 50.715

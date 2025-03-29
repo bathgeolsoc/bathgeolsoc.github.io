@@ -36,4 +36,4 @@ Please note that the SEC requests a donation of £15 per participant.
     background-color: #e5e5e5;
     max-width: 600px;
     text-align: center;
-    margin: auto; margin-bottom: 20px;">To register please email Bob Mustow at <a href="mailto:Field@bathgeolsoc.org.uk">Field@bathgeolsoc.org.uk</a> by 15th March.</div>
+    margin: auto; margin-bottom: 20px;">As of 24th March there are 6 places remaining - please contact Bob Mustow (<a href="mailto:Field@bathgeolsoc.org.uk">field@bathgeolsoc.org.uk</a>) to register.</div>

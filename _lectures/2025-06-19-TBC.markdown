@@ -1,8 +1,8 @@
 ---
 layout: lecture
-title:  "TBC"
-speaker: "TBC"
+title:  "The Malvern and Lower Severn Axis, new evidence on the nature of intra-Carboniferous structuring from recent explorations in the underground of the Forest of Dean"
+speaker: "Dr Mark Tringham"
 date:   '2025-06-19 19:30:00'
 visitor_cost: '£5 on the door at BRLSI or book via Eventbrite to access on Zoom'
 ---
-TBC
+Description to follow

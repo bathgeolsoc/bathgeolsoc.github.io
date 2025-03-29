@@ -5,4 +5,4 @@ speaker: "Professor Danielle Schreve, University of Bristol"
 date:   '2025-04-03 19:30:00'
 visitor_cost: '£5 on the door at BRLSI or book via Eventbrite to access on Zoom'
 ---
-TBC
+This presentation will outline how we reconstruct changing carnivore diet and hunting behaviour in the past in response to to changes in climate, environment, prey availability and pressure from other competitors (including early humans). 
