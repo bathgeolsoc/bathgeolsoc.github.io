@@ -1,0 +1,9 @@
+---
+layout: lecture
+title:  "The Malvern and Lower Severn Axis, new evidence on the nature of intra-Carboniferous structuring from recent explorations in the underground of the Forest of Dean"
+speaker: "Dr Mark Tringham"
+date:   '2025-06-19 19:30:00'
+visitor_cost: '£5 on the door at BRLSI or book via <a href="https://www.eventbrite.co.uk/e/the-malvern-and-lower-severn-axis-intra-carboniferous-structuring-tickets-1362939762519">Eventbrite</a> to access on Zoom'
+background_image: '/assets/malvern-structuring.png'
+---
+Many previous publications have synthesized episodic tectonic activity along the N-S trending Malvern and Lower Severn Axes (MLSA), however the actual exposures of internal or bounding fault structures are very poor. Typically these comprise scant weathered and over-grown quarries, such as Gullet Quarry in the Malverns. As a result ambiguous or controversial interpretations in the geological literature have prevailed here for more than a century. Immediately on the West side of the MLSA sit May Hill and the Forest of Dean (FOD) with strong N-S fault and fold trends present. Through the last several years the author has been studying natural cave and iron mine underground exposures in FOD and these have provided an unrivalled opportunity to observe and record fault characteristics commonly over 10’s to 100’s of metres in extent in unweathered Dinantian aged dolomite and limestone. Wrench-related folding and faulting is the predominant structural style found, mostly intra Carboniferous in age. Examples of this work will be shown, highlighting in particular the evolving story of some recent large cave discoveries in the Symonds Yat area and their geological setting.
