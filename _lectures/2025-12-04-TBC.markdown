@@ -1,9 +1,0 @@
----
-layout: lecture
-title:  "TBC"
-speaker: "TBC"
-date:   '2025-12-04 19:00:00'
-visitor_cost: 'Book via Eventbrite to access via Zoom'
-location: 'Virtual Talk via Zoom'
----
-TBC
