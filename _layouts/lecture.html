@@ -56,7 +56,7 @@ Visitors: {{ site.lecture_cost }}
 </p>
 </div>
 <meta itemprop="eventAttendanceMode" content="{% if page.location == 'Virtual Talk via Zoom' %}https://schema.org/OnlineEventAttendanceMode{% else %}https://schema.org/MixedEventAttendanceMode{% endif %}" />
-<div id="eventLocation" class="eventInfoColumn">
+<div id="eventLocation" class="eventInfoColumn" itemprop="location" itemscope itemtype="http://schema.org/Place">
     <h3>Location</h3>
     {%- if page.location == 'Virtual Talk via Zoom' -%}
         <p>Virtual Talk via Zoom</p>
