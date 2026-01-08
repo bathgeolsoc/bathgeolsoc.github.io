@@ -2,7 +2,7 @@
 layout: lecture
 title:  "The Complex Geology of the Somerset Coalfield"
 speaker: "Andy Gordon"
-date:   '2026-01-08 19:00:00'
+date:   '2026-01-08 19:30:00'
 visitor_cost: 'Book via <a href="https://www.eventbrite.co.uk/e/the-complex-geology-of-the-somerset-coalfield-andy-gordon-tickets-1978617243438">Eventbrite</a> to access via Zoom'
 location: 'Virtual Talk via Zoom'
 background_image: '/assets/jan-2026-lecture.png'
