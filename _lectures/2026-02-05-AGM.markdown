@@ -1,0 +1,8 @@
+---
+layout: lecture
+title:  "2026 Bath Geological Society AGM"
+date:   '2026-02-05 19:00:00'
+type: "agm"
+location: 'Virtual Talk via Zoom'
+---
+Please note that the AGM is for members only. The AGM will start at 7.00 p.m. prior to the lecture which starts at 7.30 p.m.  Visitors are welcome to attend the evening's lecture.
