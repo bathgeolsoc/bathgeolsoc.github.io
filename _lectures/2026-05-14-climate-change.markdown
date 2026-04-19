@@ -1,8 +1,10 @@
 ---
 layout: lecture
-title:  "Climate Change and the Geological Record"
-speaker: "Prof. Adam Scaife"
+title:  "Climate Change: evidence, mechanisms and magnitudes"
+speaker: "Professor Adam Scaife (Exeter University and UK Meteorological Office)"
 date:   '2026-05-14 19:30:00'
-visitor_cost: '£5 on the door at BRLSI or book via Eventbrite to access on Zoom'
+visitor_cost: '£5 on the door at BRLSI or book via <a href="https://www.eventbrite.co.uk/e/climate-change-and-the-geological-record-speaker-prof-adam-scaife-tickets-1987607452395">Eventbrite</a> to access on Zoom'
 ---
-TBC
+Climate models are our best hope of predicting and managing climate change. The climate is an enormously complex system, fuelled by solar energy and involving interactions between the atmosphere, land and oceans. Computer climate models, developed over the past 50 years, are probably the most complex in all of science and have already proved their worth with startling success in simulating the past climate changes. Although very much a multidisciplinary field, climate modelling is rooted in the physics of fluid mechanics and thermodynamics, and physicists worldwide are collaborating to improve these models by better representing physical processes in the climate system. The talk will provide an overview of the processes that are involved in this fascinating subject which will provide valuable insights into the nature and changes that are preserved in the Earth’s geological record.
+
+<i>About the Speaker:</i> Adam Scaife is both a Professor of applied mathematics at Exeter University and head of long range prediction at the Met Office. His experience in climate modelling stretches back over 30 years and his work has helped to clarify what caused changes in European climate from the cold blocked winters in the 1960s to the mild wet winters of the 1990s, the effects of El Niño, the stratosphere, solar variability and annual changes in tropical rainfall. Recent work has also demonstrated long range predictability of fluctuations in the Earth's rotation rate. Adam has received been honoured with a number of awards from meteorological societies world-wide but most important of all (to us) has a keen interest in geology!
