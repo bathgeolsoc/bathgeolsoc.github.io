@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title:  "A conversation: Geology and Poetry"
-speaker: "Alyson Hallet, prize-winning poet and Hawthornden Fellow"
+speaker: "Alyson Hallett, prize-winning poet and Hawthornden Fellow"
 date:   '2022-09-01 19:30:00'
 visitor_cost: '£5 on the door at BRLSI or <a target="_blank" href="https://www.eventbrite.co.uk/e/a-conversation-geology-and-poetry-tickets-404006723987">Book via Eventbrite</a> to access via Zoom'
 ---
