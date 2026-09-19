@@ -32,12 +32,6 @@ toc:
       - page: ECOS Stones, Frome
         url: https://www.boxrockcircus.org.uk/ECOS/
         newwindow: true
-      - page: Somerset Good Rock guide
-        url: https://people.bath.ac.uk/exxbgs/Somerset_Good_Rock_Guide.pdf
-        newwindow: true
-      - page: Bath Before the Romans
-        url: https://people.bath.ac.uk/exxbgs/bathbeforeromans/homepage.htm
-        newwindow: true
 
   - title: About
     id: about-button
