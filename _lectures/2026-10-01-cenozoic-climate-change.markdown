@@ -3,6 +3,9 @@ layout: lecture
 title:  "Aspects of Climate change during the Cenozoic"
 speaker: "Prof Daniela Schmidt (School of Earth Sciences, Bristol University)"
 date:   '2026-10-01 19:30:00'
-visitor_cost: '£5 on the door at BRLSI or book via Eventbrite to access on Zoom'
+visitor_cost: '£5 on the door at BRLSI or <a href="https://www.eventbrite.co.uk/e/stories-of-vulnerability-and-resilience-from-the-cenozoic-fossil-record-tickets-2000483808924">book via Eventbrite</a> to access on Zoom'
 ---
-TBC
+The fossil record reveals large changes in marine plankton ecosystems linked with both environmental and ecological change across the Cenozoic. The Paleogene is a dynamic interval of Earth’s climatic history, beginning with the mass extinction during the K/Pg, followed by a series of hyperthermal events, including the PETM and ETM2. These events represent severe disturbances/perturbations of global carbon cycling on widely different timescales and the wider Earth system. Extinctions, migrations and evolutionary turnover are associated with all events, and their patterns give insight into physiological stress affecting marine biota. In the talk I will explore responses to warming, deoxygenation and changes in export production using the fossil record of benthic and planktic foraminifers and combining it with trait based ecosystem models applied to the past. I will then explore how, and if, this information an inform the current biodiversity and climate crisis.
+
+
+*About the Speaker:* Daniela Schmidt’s research focuses on understanding the causes and effects of climate change on marine systems. Daniela is recognised as an expert in the biotic reactions of marine calcifiers to past climate change. One her research highlights is the characterisation of the unprecedented rate of change of past intervals of rapid environmental change and the biotic response to these changes. She was Coordinating Lead Author for the IPCC WGII assessment (Impact, adaptation and vulnerability) for the assessment for Europe.Working with colleagues in the humanities, social science and law, she assesses adaptation options and aims to widen the discourse of climate change risks.
