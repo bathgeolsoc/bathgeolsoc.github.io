@@ -19,7 +19,7 @@ It is a small museum packed with interesting objects that tell the story of the 
 <div style="border: 1px solid black; padding: 8px; text-align: left; margin-top: 15px;">
 Meet at 10.00 a.m. at Bradford on Avon Library, Bridge Street, Bradford on Avon.
 <br><br>
-Nearest postcode is **BA15 1BY**.
+Nearest postcode is <strong>BA15 1BY</strong>.
 <br><br>
 Grid Reference ST 826608  
 <br><br>
