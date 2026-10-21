@@ -81,6 +81,21 @@ Visitors: {{ site.lecture_cost }}
     {{ content }}
   </div>
 <hr>
+  <h3>Attending via Zoom</h3>
+  <p>
+    {%- if page.location == 'Virtual Talk via Zoom' -%}
+    This lecture will take place online via Zoom.
+    {%- else -%}
+    This is a hybrid meeting: you can attend in person or join online via Zoom.
+    {%- endif -%}
+  </p>
+  <p><strong>Bath Geological Society Members:</strong> Free of charge. Joining instructions and the Zoom link are sent to members by email prior to the lecture.</p>
+  {%- if page.type != 'agm' -%}
+  <p><strong>Visitors &amp; Non-Members:</strong> (including members of the Geologists' Association and affiliated societies) Please book via Eventbrite to receive Zoom access (see the Entry Fee details above).</p>
+  {%- endif -%}
+  <p><strong>How to join:</strong> Click the Zoom link provided in your email or Eventbrite confirmation. You can join using the Zoom desktop or mobile app, or directly via your web browser without installing any software. The virtual waiting room opens approximately 15 minutes before the scheduled start time, and attendees will be admitted before the talk commences.</p>
+  <p>For any queries about joining online, please contact <a href="mailto:webmaster@bathgeolsoc.org.uk">webmaster@bathgeolsoc.org.uk</a>.</p>
+<hr>
 <div class="share-section">
 <h3>Share with Friends</h3>
 <a target="_blank" class="social-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}">Share on Facebook</a>
